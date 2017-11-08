@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<Description>Breeding attempts and outcomes in all three study areas</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusCalibration</TableName>
+
+	<Description>Annual counts of kestrels seen within known areas in each English study area. These are used to estimate kestrel densities from the census count in tblCensusData. Estimated densities are given in tblCensusDensities</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusData</TableName>
+
+	<Description>Number of kestrels seen in censuses of English study areas, classified by age and sex</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<Description>Annual estimates of overwinter kestrel density in each English study area. Estimates assume: Arable area Density (per 100km2) =1.78*T + 34.0, Mixed area Density= 10.5*T -1.72 (T=total number seen). Relationships based on data in tblCensusCalibration.</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<Description>Master list of data codes and their translations</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblDensitySpring</TableName>
+
+	<Description>Total kestrel density and breeding density in Spring of each year for the English study areas</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblGutComp</TableName>
+
+	<Description>Gut contents, identified to species, of dead kestrels</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelID</TableName>
+
+	<Description>Master list of Kestrel ID numbers, ring numbers, sex and birth years</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<Description>Biometric measurements from trapped kestrels</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestList</TableName>
+
+	<Description>Master list of breeding sites used by kestrels. Includes details on location, contruction and exposure to weather.</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestOccupancy</TableName>
+
+	<Description>Details of breeding use by kestrels of each nest in tblNestList</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletComposition</TableName>
+
+	<Description>Species composition of the pellets listed in tblPelletInfo</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletInfo</TableName>
+
+	<Description>Details of Kestrel Pellets collected</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRangeBehavModifiers</TableName>
+
+	<Description>Extra information about the behaviours recorded in tblRanging</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<Description>Record of sightings, radio-fixes and trappings of individual kestrels</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteCodes</TableName>
+
+	<Description>Translation of site names between 4 + 6 character versions and long-hand names. </Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<Description>Description of every field in each table of the database</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<Description>Description of all tables in the database</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<Description>Carcass analysis for trapped small mammals</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightData</TableName>
+
+	<Description>Total number of small mammals, by species, caught on each trapping night (trapping nights are detailed in tblVoleTrapNightInfo)</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<Description>Details about each vole trapping night. Data about the species caught on each night are held in tblVoleTrapNightData. (Each record in this table is the sum 30 traps set on each of two consecutive nights.)</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<Description>Mass of small mammals caught on trapping nights.</Description>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,14379 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<RowID>1</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1980, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>2</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1980, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>3</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>6</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/11/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>7</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>8</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>9</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/11/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>10</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>11</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>12</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>13</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>14</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>15</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/12/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>16</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/12/1980, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>17</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/12/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>18</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>19</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/01/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>20</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>21</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/01/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>22</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>23</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>24</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>25</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>26</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>27</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>28</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>29</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>30</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>31</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/02/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>32</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>33</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>34</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>35</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>36</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>37</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>38</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>39</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/03/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>40</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>41</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>42</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/03/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>43</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>44</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>45</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>46</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/03/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>47</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>48</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>49</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>50</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/09/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>51</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/09/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>52</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/09/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>53</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>54</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>55</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>56</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>57</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/10/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>58</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>59</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>60</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>61</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>62</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>63</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>64</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>65</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>66</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>67</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/11/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>68</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>69</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>70</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>71</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>72</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>73</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>74</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>75</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/11/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>76</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>77</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>78</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>79</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>80</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>81</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>82</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>83</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>84</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>85</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/12/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>86</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>87</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>88</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>89</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/12/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>90</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>91</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>92</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>93</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/01/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>94</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>95</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>96</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>97</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>98</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>99</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>100</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>101</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>102</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>103</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>104</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>105</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>106</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>107</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>108</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>109</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>110</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>111</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>112</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>113</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>114</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>115</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>116</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>117</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>118</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>119</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>120</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>121</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/02/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>122</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>123</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>124</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>125</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>126</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>127</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>128</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>129</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/03/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>130</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>131</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>132</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>133</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/03/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>134</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>135</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>136</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>137</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>138</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>139</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>140</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>141</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/09/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>142</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/09/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>143</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/09/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>144</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/09/1982, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>145</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/09/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>146</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/09/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>147</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>148</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>149</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>150</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>151</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/10/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>152</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>153</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>154</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>155</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>156</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>157</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>158</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>159</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>160</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>161</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>162</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/10/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>163</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>164</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>165</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>166</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>167</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>09/11/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>168</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>169</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>170</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>171</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>172</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>173</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>174</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>175</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/11/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>176</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>177</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>178</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>179</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/12/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>180</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>181</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>182</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>183</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>184</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>185</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>186</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>187</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>188</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>189</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>190</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>191</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/01/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>192</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>193</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>194</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>195</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/02/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>196</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>197</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>198</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>199</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>200</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>201</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>202</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>203</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/03/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>204</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>205</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>206</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>207</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>208</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>209</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>210</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>211</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/03/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>212</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>213</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>214</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>215</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>216</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>217</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>218</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>219</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>220</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>221</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>222</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>223</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>224</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/10/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>225</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>226</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>227</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>228</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>229</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>230</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>231</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>232</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/10/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>233</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>234</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>235</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>236</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>237</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/10/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>238</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>239</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>240</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>241</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>242</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/11/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>243</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>244</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>245</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>246</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>247</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/11/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>248</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>249</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>250</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>251</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>252</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>253</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>254</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>255</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>256</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>257</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>258</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>259</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>260</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>261</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>262</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>263</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>264</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>265</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>266</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>267</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>268</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>269</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>270</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>271</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>272</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>273</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>274</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>275</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>276</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/02/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>277</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>278</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>279</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>280</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>281</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>282</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>283</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/02/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>284</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>19/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>285</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>19/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>286</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>19/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>287</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>19/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>288</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>19/03/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>289</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>290</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>291</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>292</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>293</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/03/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>294</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>295</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>296</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>297</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>298</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>299</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>300</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>301</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>302</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>303</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>304</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>305</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>306</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/04/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>307</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>308</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>309</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>310</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>311</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>312</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>313</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>314</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>315</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>316</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>317</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>318</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>319</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>320</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>321</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>322</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>323</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>324</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>325</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>326</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>327</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>328</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>329</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>330</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>331</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>332</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>333</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>334</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>335</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>336</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>337</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>338</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>339</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>340</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>341</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>342</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>343</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>344</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>345</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>346</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>347</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>348</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>349</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>350</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>351</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>352</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>353</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>354</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>355</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>356</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>357</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>358</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>359</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>360</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>361</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>362</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>363</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>364</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>365</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>366</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>367</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>368</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>369</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>370</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>371</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>372</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>373</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>374</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>375</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>376</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>377</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>378</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>379</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>380</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>381</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>382</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>383</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>384</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>385</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>386</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>387</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>388</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>389</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>390</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>391</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>392</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>393</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>394</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>395</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>396</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>397</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>398</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>399</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>400</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>401</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>402</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>403</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>404</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>405</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>406</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>407</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>408</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/09/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>409</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/09/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>410</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/09/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>411</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>25/09/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>412</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>413</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>414</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>415</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>416</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>417</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>418</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>419</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>420</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>421</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>422</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>423</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>424</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>425</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>426</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>427</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>428</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>429</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>430</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>431</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>432</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>433</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>434</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>435</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>436</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>437</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>438</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>439</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>440</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>441</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>442</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>443</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>444</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>445</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>446</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>447</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>448</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>449</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>450</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>451</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>452</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>21/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>453</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>454</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>455</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>456</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>457</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>458</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>459</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>460</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>461</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>462</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>463</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>464</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>465</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>466</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>467</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>04/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>468</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>469</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>470</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>471</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>472</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>473</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/05/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>474</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/05/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>475</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/05/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>476</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>477</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>478</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>479</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1986, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>480</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>26/09/1986, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>481</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>482</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>483</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>484</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>485</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>486</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/10/1986, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>487</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>488</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>489</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>490</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>491</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/10/1986, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>492</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>493</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>05/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>494</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>495</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>496</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>497</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>498</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/11/1986, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>499</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>500</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>501</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>502</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1986, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>503</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>16/12/1986, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>504</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>505</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>506</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/01/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>507</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>19/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>508</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>19/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>509</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>19/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>510</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>511</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>512</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>513</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>514</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>515</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>516</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>517</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/02/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>518</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>519</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>520</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>521</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>17/02/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>522</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>523</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>524</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>525</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>526</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>527</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>528</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>529</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>530</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>531</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>532</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>533</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>534</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>535</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>12/03/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>536</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>537</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>538</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>539</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>540</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/04/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>541</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>542</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>543</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>544</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>545</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>546</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>22/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>547</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/05/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>548</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/05/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>549</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/05/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>550</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>551</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>01/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>552</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>553</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>554</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>555</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>556</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>557</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>558</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>559</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>560</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>23/10/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>561</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>562</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>563</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>564</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>565</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>566</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>02/12/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>567</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>568</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>569</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>570</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/12/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>571</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>572</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>573</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>574</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>575</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>576</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>15/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>577</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>578</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>579</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>580</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>581</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/01/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>582</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>583</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>584</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>585</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>586</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>587</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>27/01/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>588</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>589</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>590</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>591</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>592</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/03/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>593</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>594</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>595</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>596</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>597</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>18/03/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>598</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>599</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>600</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>29/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>601</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>602</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>603</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>604</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/04/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>605</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>606</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>607</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>608</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>609</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>610</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>611</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/10/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>612</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>613</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>614</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>615</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>616</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>617</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/10/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>618</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>619</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>620</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>621</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>622</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>623</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>624</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/10/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>625</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>626</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>627</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>628</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>629</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>630</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>07/11/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>631</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>632</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>633</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>634</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>635</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>636</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>637</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>24/11/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>638</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>639</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>640</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>641</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>642</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>643</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>08/12/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>644</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>645</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>646</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>647</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>648</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>649</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>650</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>13/12/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>651</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>652</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>653</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>654</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>655</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>656</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>657</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>03/01/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>658</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>659</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>660</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>661</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>662</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>11/01/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>663</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>664</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>665</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>666</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>667</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>668</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>28/01/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>669</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>670</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>671</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>672</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>06/03/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>673</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>674</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>675</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>676</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>677</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>678</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>10/03/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>679</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>680</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>681</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>682</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>683</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>20/03/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>684</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>685</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>686</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>687</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>688</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>30/03/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>689</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/04/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>690</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/04/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>691</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/04/1989, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>692</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/04/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>693</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<CountDate>14/04/1989, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>694</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>695</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>696</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/01/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>697</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/10/1980, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>698</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/10/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>699</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/10/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>700</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>701</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>702</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>703</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>704</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/11/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>705</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>706</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>707</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>708</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>709</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>710</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>711</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/11/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>712</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/11/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>713</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/12/1980, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>714</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/12/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>715</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/12/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>716</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/12/1980, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>717</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/12/1980, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>718</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/12/1980, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>719</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>720</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>721</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>722</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>723</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>724</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>725</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>726</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>727</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>728</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>729</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>730</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>731</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/02/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>732</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>733</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>734</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/02/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>735</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>736</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>737</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>738</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>739</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>740</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>741</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>742</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>23/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>743</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>23/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>744</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>23/03/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>745</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>746</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>747</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/04/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>748</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>749</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>750</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>751</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>752</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/04/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>753</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>754</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>755</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/04/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>756</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/05/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>757</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/05/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>758</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/05/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>759</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/05/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>760</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>761</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>762</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/10/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>763</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>764</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>765</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>766</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/10/1981, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>767</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>23/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>768</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>23/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>769</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>23/10/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>770</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>771</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>772</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>773</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>774</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>775</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>776</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>777</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>778</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>779</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/11/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>780</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>781</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>782</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>783</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>784</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>785</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>786</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>31/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>787</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>31/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>788</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>31/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>789</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>31/12/1981, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>790</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>791</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>792</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>793</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>794</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>795</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>796</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/01/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>797</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>798</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>799</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>800</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>801</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>802</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>803</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>804</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/02/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>805</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>806</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>807</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>808</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/03/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>809</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>810</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>811</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/03/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>812</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/03/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>813</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>814</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>815</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>816</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>817</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>818</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>819</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/04/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>820</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/09/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>821</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/09/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>822</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/09/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>823</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>824</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>825</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>826</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>827</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>828</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>829</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/10/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>830</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>831</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>832</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>833</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>834</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/11/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>835</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>836</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>837</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>838</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/11/1982, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>839</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>840</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/11/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>841</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>842</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>843</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>844</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>845</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>31/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>846</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>31/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>847</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>31/12/1982, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>848</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>11/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>849</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>11/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>850</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>11/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>851</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>852</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>853</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>854</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>855</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>856</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>857</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>858</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>859</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>860</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>861</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>862</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>863</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/02/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>864</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>865</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>866</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>867</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/03/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>868</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>869</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>870</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>871</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>872</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>873</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/03/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>874</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>875</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/04/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>876</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>877</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>878</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/04/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>879</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>880</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>881</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>882</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>883</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>884</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>885</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>886</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>887</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/10/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>888</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>889</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>890</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/10/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>891</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>892</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>893</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>894</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>895</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/11/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>896</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>897</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>898</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/11/1983, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>899</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>900</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>901</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/11/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>902</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>903</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>904</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>905</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>906</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>907</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>908</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>909</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>910</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/12/1983, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>911</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>912</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>913</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>914</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>915</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>916</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/01/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>917</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>918</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>919</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>920</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>921</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>922</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>923</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>924</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>925</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>926</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>927</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>928</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>929</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/03/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>930</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/03/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>931</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>932</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/04/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>933</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>934</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>935</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>936</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>937</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/04/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>938</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/04/1984, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>939</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>940</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>941</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>942</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>943</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>944</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>945</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>946</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>947</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>948</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>949</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>950</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>951</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>952</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/10/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>953</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>954</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>955</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>956</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>957</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>958</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>19/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>959</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>19/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>960</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>19/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>961</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>19/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>962</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>19/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>963</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/11/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>964</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>965</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>966</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>06/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>967</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>968</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>969</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>970</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>971</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>972</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>973</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/12/1984, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>974</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>975</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>976</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>977</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>978</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/01/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>979</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>980</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>981</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>982</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/02/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>983</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>984</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>985</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>986</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>987</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>988</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>13/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>989</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>990</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>991</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/03/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>992</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>993</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>994</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>995</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>996</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>997</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>998</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>999</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1000</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/04/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1001</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1002</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1003</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/09/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1004</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1005</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1006</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1007</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1008</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1009</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1010</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1011</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/10/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1012</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1013</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1014</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1015</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1016</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/11/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1017</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1018</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1019</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1020</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1021</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1022</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1023</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1024</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1025</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1026</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1027</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1028</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1029</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/12/1985, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1030</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1031</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1032</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1033</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1034</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1035</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>16/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1036</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1037</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1038</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/01/1986, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1039</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>19/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1040</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>19/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1041</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1042</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1043</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1044</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>25/02/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1045</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1046</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1047</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1048</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1049</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1050</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1051</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>11/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1052</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>11/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1053</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1054</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1055</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1056</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1057</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1058</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/04/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1059</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/09/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1060</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/09/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1061</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1062</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1063</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1064</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1065</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1066</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/10/1986, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1067</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1068</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1069</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1070</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1071</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1072</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/11/1986, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1073</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>23/12/1986, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1074</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>23/12/1986, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1075</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1076</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1077</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1078</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>28/01/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1079</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1080</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1081</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1082</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1083</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1084</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1085</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1086</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>24/02/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1087</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>11/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1088</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>11/03/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1089</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1090</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/04/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1091</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/05/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1092</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/09/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1093</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/09/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1094</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/09/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1095</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1096</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1097</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1098</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1099</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/10/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1100</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1101</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1102</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/10/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1103</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/10/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1104</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>10/11/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1105</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>10/11/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1106</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>10/11/1987, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1107</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1108</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1109</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/12/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1110</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1111</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1112</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1987, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1113</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>30/12/1987, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1114</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1115</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1116</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/01/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1117</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1118</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1119</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1120</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1121</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1122</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/03/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1123</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1124</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1125</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>09/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1126</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1127</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1128</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/03/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1129</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1130</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1131</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>05/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1132</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1133</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/04/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1134</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1135</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/04/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1136</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/04/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1137</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1138</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1139</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1140</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>04/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1141</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1142</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1143</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>17/10/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1144</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1145</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1146</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1147</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/10/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1148</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>27/10/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1149</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1150</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1151</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>15/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1152</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1153</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1154</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>22/11/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1155</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1156</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1157</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>07/12/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1158</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1159</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1160</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1161</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/12/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1162</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1163</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/12/1988, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1164</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>20/12/1988, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1165</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1166</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1167</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>JM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1168</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>02/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1169</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>10/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1170</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>10/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1171</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>10/01/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1172</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1173</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>JX</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1174</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>18/01/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1175</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1176</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>26/01/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1177</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1178</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1179</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>03/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1180</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1181</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1182</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1183</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>08/03/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1184</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1185</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1186</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1187</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>14/03/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1188</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1189</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1190</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>21/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1191</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1192</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1193</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>JF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1194</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/03/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1195</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>29/03/1989, 00.00.00</CountDate>
+
+	<AgeSex></AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1196</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/04/1989, 00.00.00</CountDate>
+
+	<AgeSex>AM</AgeSex>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1197</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/04/1989, 00.00.00</CountDate>
+
+	<AgeSex>AF</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>1198</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<CountDate>12/04/1989, 00.00.00</CountDate>
+
+	<AgeSex>BB</AgeSex>
+
+	<Count>1</Count>
+
+</RECORD>
+</RECORDS>

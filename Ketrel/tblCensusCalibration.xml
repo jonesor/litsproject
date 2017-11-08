@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<RowID>15</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1982</Year>
+
+	<AreaSearched>16</AreaSearched>
+
+	<NMarked>9</NMarked>
+
+	<NUnmarked>2</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>18</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1984</Year>
+
+	<AreaSearched>64</AreaSearched>
+
+	<NMarked>31</NMarked>
+
+	<NUnmarked>7</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>21</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1985</Year>
+
+	<AreaSearched>52</AreaSearched>
+
+	<NMarked>23</NMarked>
+
+	<NUnmarked>10</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>24</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1987</Year>
+
+	<AreaSearched>24</AreaSearched>
+
+	<NMarked>13</NMarked>
+
+	<NUnmarked>0</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>17</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>S</Season>
+
+	<Year>1984</Year>
+
+	<AreaSearched>49</AreaSearched>
+
+	<NMarked>16</NMarked>
+
+	<NUnmarked>4</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>20</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>S</Season>
+
+	<Year>1985</Year>
+
+	<AreaSearched>100</AreaSearched>
+
+	<NMarked>42</NMarked>
+
+	<NUnmarked>7</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>23</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>S</Season>
+
+	<Year>1986</Year>
+
+	<AreaSearched>90</AreaSearched>
+
+	<NMarked>36</NMarked>
+
+	<NUnmarked>6</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>16</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>W</Season>
+
+	<Year>1984</Year>
+
+	<AreaSearched>15</AreaSearched>
+
+	<NMarked>7</NMarked>
+
+	<NUnmarked>2</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>19</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>W</Season>
+
+	<Year>1985</Year>
+
+	<AreaSearched>54</AreaSearched>
+
+	<NMarked>22</NMarked>
+
+	<NUnmarked>2</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>22</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<Season>W</Season>
+
+	<Year>1986</Year>
+
+	<AreaSearched>16</AreaSearched>
+
+	<NMarked>9</NMarked>
+
+	<NUnmarked>1</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>1</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1980</Year>
+
+	<AreaSearched>40</AreaSearched>
+
+	<NMarked>19</NMarked>
+
+	<NUnmarked>3</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>4</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1981</Year>
+
+	<AreaSearched>48</AreaSearched>
+
+	<NMarked>16</NMarked>
+
+	<NUnmarked>3</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>7</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1982</Year>
+
+	<AreaSearched>36</AreaSearched>
+
+	<NMarked>26</NMarked>
+
+	<NUnmarked>3</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>10</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1983</Year>
+
+	<AreaSearched>40</AreaSearched>
+
+	<NMarked>25</NMarked>
+
+	<NUnmarked>5</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>13</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>A</Season>
+
+	<Year>1984</Year>
+
+	<AreaSearched>18</AreaSearched>
+
+	<NMarked>10</NMarked>
+
+	<NUnmarked>2</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>3</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>S</Season>
+
+	<Year>1981</Year>
+
+	<AreaSearched>86</AreaSearched>
+
+	<NMarked>47</NMarked>
+
+	<NUnmarked>6</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>6</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>S</Season>
+
+	<Year>1982</Year>
+
+	<AreaSearched>68</AreaSearched>
+
+	<NMarked>24</NMarked>
+
+	<NUnmarked>4</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>9</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>S</Season>
+
+	<Year>1983</Year>
+
+	<AreaSearched>80</AreaSearched>
+
+	<NMarked>34</NMarked>
+
+	<NUnmarked>6</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>12</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>S</Season>
+
+	<Year>1984</Year>
+
+	<AreaSearched>64</AreaSearched>
+
+	<NMarked>27</NMarked>
+
+	<NUnmarked>3</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>2</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>W</Season>
+
+	<Year>1981</Year>
+
+	<AreaSearched>84</AreaSearched>
+
+	<NMarked>35</NMarked>
+
+	<NUnmarked>4</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>5</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>W</Season>
+
+	<Year>1982</Year>
+
+	<AreaSearched>32</AreaSearched>
+
+	<NMarked>15</NMarked>
+
+	<NUnmarked>1</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>8</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>W</Season>
+
+	<Year>1983</Year>
+
+	<AreaSearched>36</AreaSearched>
+
+	<NMarked>20</NMarked>
+
+	<NUnmarked>1</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>11</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>W</Season>
+
+	<Year>1984</Year>
+
+	<AreaSearched>54</AreaSearched>
+
+	<NMarked>26</NMarked>
+
+	<NUnmarked>3</NUnmarked>
+
+</RECORD>
+<RECORD>
+	<RowID>14</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<Season>W</Season>
+
+	<Year>1985</Year>
+
+	<AreaSearched>36</AreaSearched>
+
+	<NMarked>14</NMarked>
+
+	<NUnmarked>3</NUnmarked>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,10493 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<RowID>4351</RowID>
+
+	<TrapNightID>1</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4352</RowID>
+
+	<TrapNightID>2</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4353</RowID>
+
+	<TrapNightID>3</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4354</RowID>
+
+	<TrapNightID>4</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4355</RowID>
+
+	<TrapNightID>4</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4356</RowID>
+
+	<TrapNightID>5</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4357</RowID>
+
+	<TrapNightID>6</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>25</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4358</RowID>
+
+	<TrapNightID>6</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4359</RowID>
+
+	<TrapNightID>6</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4360</RowID>
+
+	<TrapNightID>7</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4361</RowID>
+
+	<TrapNightID>7</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4362</RowID>
+
+	<TrapNightID>7</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4363</RowID>
+
+	<TrapNightID>7</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4364</RowID>
+
+	<TrapNightID>8</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>20</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4365</RowID>
+
+	<TrapNightID>8</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4366</RowID>
+
+	<TrapNightID>8</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4367</RowID>
+
+	<TrapNightID>9</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4368</RowID>
+
+	<TrapNightID>9</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4369</RowID>
+
+	<TrapNightID>9</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4370</RowID>
+
+	<TrapNightID>9</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4371</RowID>
+
+	<TrapNightID>10</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>17</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4372</RowID>
+
+	<TrapNightID>10</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4373</RowID>
+
+	<TrapNightID>11</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>17</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4374</RowID>
+
+	<TrapNightID>11</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4375</RowID>
+
+	<TrapNightID>12</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4376</RowID>
+
+	<TrapNightID>12</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4377</RowID>
+
+	<TrapNightID>13</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>31</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4378</RowID>
+
+	<TrapNightID>13</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4379</RowID>
+
+	<TrapNightID>13</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4380</RowID>
+
+	<TrapNightID>14</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4381</RowID>
+
+	<TrapNightID>14</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4382</RowID>
+
+	<TrapNightID>14</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4383</RowID>
+
+	<TrapNightID>14</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4384</RowID>
+
+	<TrapNightID>15</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>23</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4385</RowID>
+
+	<TrapNightID>15</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4386</RowID>
+
+	<TrapNightID>16</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4387</RowID>
+
+	<TrapNightID>16</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4388</RowID>
+
+	<TrapNightID>16</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4389</RowID>
+
+	<TrapNightID>17</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4390</RowID>
+
+	<TrapNightID>17</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4391</RowID>
+
+	<TrapNightID>17</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4392</RowID>
+
+	<TrapNightID>18</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4393</RowID>
+
+	<TrapNightID>18</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4394</RowID>
+
+	<TrapNightID>18</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4395</RowID>
+
+	<TrapNightID>19</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4396</RowID>
+
+	<TrapNightID>19</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4397</RowID>
+
+	<TrapNightID>19</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4398</RowID>
+
+	<TrapNightID>19</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4399</RowID>
+
+	<TrapNightID>19</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4400</RowID>
+
+	<TrapNightID>20</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4401</RowID>
+
+	<TrapNightID>20</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4402</RowID>
+
+	<TrapNightID>20</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4403</RowID>
+
+	<TrapNightID>21</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4404</RowID>
+
+	<TrapNightID>22</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>30</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4405</RowID>
+
+	<TrapNightID>22</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4406</RowID>
+
+	<TrapNightID>22</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4407</RowID>
+
+	<TrapNightID>23</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4408</RowID>
+
+	<TrapNightID>23</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4409</RowID>
+
+	<TrapNightID>23</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4410</RowID>
+
+	<TrapNightID>24</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4411</RowID>
+
+	<TrapNightID>24</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4412</RowID>
+
+	<TrapNightID>24</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4413</RowID>
+
+	<TrapNightID>25</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4414</RowID>
+
+	<TrapNightID>25</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4415</RowID>
+
+	<TrapNightID>25</TrapNightID>
+
+	<Species>10</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4416</RowID>
+
+	<TrapNightID>26</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4417</RowID>
+
+	<TrapNightID>26</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4418</RowID>
+
+	<TrapNightID>26</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4419</RowID>
+
+	<TrapNightID>26</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4420</RowID>
+
+	<TrapNightID>26</TrapNightID>
+
+	<Species>10</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4421</RowID>
+
+	<TrapNightID>27</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4422</RowID>
+
+	<TrapNightID>27</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4423</RowID>
+
+	<TrapNightID>28</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4424</RowID>
+
+	<TrapNightID>28</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4425</RowID>
+
+	<TrapNightID>28</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4426</RowID>
+
+	<TrapNightID>28</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4427</RowID>
+
+	<TrapNightID>28</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4428</RowID>
+
+	<TrapNightID>29</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4429</RowID>
+
+	<TrapNightID>29</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4430</RowID>
+
+	<TrapNightID>30</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4431</RowID>
+
+	<TrapNightID>30</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4432</RowID>
+
+	<TrapNightID>30</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4433</RowID>
+
+	<TrapNightID>31</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4434</RowID>
+
+	<TrapNightID>31</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4435</RowID>
+
+	<TrapNightID>31</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4436</RowID>
+
+	<TrapNightID>32</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4437</RowID>
+
+	<TrapNightID>32</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4438</RowID>
+
+	<TrapNightID>32</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4439</RowID>
+
+	<TrapNightID>32</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4440</RowID>
+
+	<TrapNightID>32</TrapNightID>
+
+	<Species>6</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4441</RowID>
+
+	<TrapNightID>33</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4442</RowID>
+
+	<TrapNightID>33</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4443</RowID>
+
+	<TrapNightID>33</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4444</RowID>
+
+	<TrapNightID>34</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>19</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4445</RowID>
+
+	<TrapNightID>34</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4446</RowID>
+
+	<TrapNightID>34</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4447</RowID>
+
+	<TrapNightID>35</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4448</RowID>
+
+	<TrapNightID>35</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4449</RowID>
+
+	<TrapNightID>35</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4450</RowID>
+
+	<TrapNightID>35</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4451</RowID>
+
+	<TrapNightID>36</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>14</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4452</RowID>
+
+	<TrapNightID>36</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4453</RowID>
+
+	<TrapNightID>36</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4454</RowID>
+
+	<TrapNightID>36</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4455</RowID>
+
+	<TrapNightID>37</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4456</RowID>
+
+	<TrapNightID>38</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4457</RowID>
+
+	<TrapNightID>38</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4458</RowID>
+
+	<TrapNightID>39</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4459</RowID>
+
+	<TrapNightID>39</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4460</RowID>
+
+	<TrapNightID>39</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4461</RowID>
+
+	<TrapNightID>40</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>14</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4462</RowID>
+
+	<TrapNightID>40</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4463</RowID>
+
+	<TrapNightID>40</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4464</RowID>
+
+	<TrapNightID>40</TrapNightID>
+
+	<Species>6</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4465</RowID>
+
+	<TrapNightID>41</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4466</RowID>
+
+	<TrapNightID>41</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4467</RowID>
+
+	<TrapNightID>41</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4468</RowID>
+
+	<TrapNightID>41</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4469</RowID>
+
+	<TrapNightID>42</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4470</RowID>
+
+	<TrapNightID>42</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4471</RowID>
+
+	<TrapNightID>42</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4472</RowID>
+
+	<TrapNightID>43</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4473</RowID>
+
+	<TrapNightID>43</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4474</RowID>
+
+	<TrapNightID>43</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4475</RowID>
+
+	<TrapNightID>44</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4476</RowID>
+
+	<TrapNightID>45</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4477</RowID>
+
+	<TrapNightID>46</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4478</RowID>
+
+	<TrapNightID>46</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4479</RowID>
+
+	<TrapNightID>46</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4480</RowID>
+
+	<TrapNightID>47</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4481</RowID>
+
+	<TrapNightID>47</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4482</RowID>
+
+	<TrapNightID>47</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4483</RowID>
+
+	<TrapNightID>48</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4484</RowID>
+
+	<TrapNightID>49</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4485</RowID>
+
+	<TrapNightID>50</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4486</RowID>
+
+	<TrapNightID>50</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4487</RowID>
+
+	<TrapNightID>51</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4488</RowID>
+
+	<TrapNightID>51</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4489</RowID>
+
+	<TrapNightID>52</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4490</RowID>
+
+	<TrapNightID>52</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4491</RowID>
+
+	<TrapNightID>53</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4492</RowID>
+
+	<TrapNightID>54</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4493</RowID>
+
+	<TrapNightID>54</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4494</RowID>
+
+	<TrapNightID>55</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4495</RowID>
+
+	<TrapNightID>57</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4496</RowID>
+
+	<TrapNightID>57</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4497</RowID>
+
+	<TrapNightID>57</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4498</RowID>
+
+	<TrapNightID>58</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4499</RowID>
+
+	<TrapNightID>58</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4500</RowID>
+
+	<TrapNightID>58</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4501</RowID>
+
+	<TrapNightID>59</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4502</RowID>
+
+	<TrapNightID>60</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4503</RowID>
+
+	<TrapNightID>61</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4504</RowID>
+
+	<TrapNightID>61</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4505</RowID>
+
+	<TrapNightID>62</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4506</RowID>
+
+	<TrapNightID>62</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4507</RowID>
+
+	<TrapNightID>63</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4508</RowID>
+
+	<TrapNightID>63</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4509</RowID>
+
+	<TrapNightID>63</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4510</RowID>
+
+	<TrapNightID>64</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4511</RowID>
+
+	<TrapNightID>65</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4512</RowID>
+
+	<TrapNightID>65</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4513</RowID>
+
+	<TrapNightID>66</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4514</RowID>
+
+	<TrapNightID>67</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4515</RowID>
+
+	<TrapNightID>67</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4516</RowID>
+
+	<TrapNightID>68</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4517</RowID>
+
+	<TrapNightID>69</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4518</RowID>
+
+	<TrapNightID>69</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4519</RowID>
+
+	<TrapNightID>69</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4520</RowID>
+
+	<TrapNightID>70</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4521</RowID>
+
+	<TrapNightID>70</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4522</RowID>
+
+	<TrapNightID>71</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>22</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4523</RowID>
+
+	<TrapNightID>71</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4524</RowID>
+
+	<TrapNightID>71</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4525</RowID>
+
+	<TrapNightID>72</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4526</RowID>
+
+	<TrapNightID>72</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4527</RowID>
+
+	<TrapNightID>72</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4528</RowID>
+
+	<TrapNightID>73</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4529</RowID>
+
+	<TrapNightID>73</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4530</RowID>
+
+	<TrapNightID>74</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4531</RowID>
+
+	<TrapNightID>74</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4532</RowID>
+
+	<TrapNightID>74</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4533</RowID>
+
+	<TrapNightID>74</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4534</RowID>
+
+	<TrapNightID>75</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4535</RowID>
+
+	<TrapNightID>75</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4536</RowID>
+
+	<TrapNightID>76</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4537</RowID>
+
+	<TrapNightID>76</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>21</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4538</RowID>
+
+	<TrapNightID>76</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4539</RowID>
+
+	<TrapNightID>77</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4540</RowID>
+
+	<TrapNightID>77</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4541</RowID>
+
+	<TrapNightID>77</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4542</RowID>
+
+	<TrapNightID>78</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4543</RowID>
+
+	<TrapNightID>78</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4544</RowID>
+
+	<TrapNightID>78</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4545</RowID>
+
+	<TrapNightID>78</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4546</RowID>
+
+	<TrapNightID>79</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4547</RowID>
+
+	<TrapNightID>79</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4548</RowID>
+
+	<TrapNightID>79</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4549</RowID>
+
+	<TrapNightID>80</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4550</RowID>
+
+	<TrapNightID>80</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4551</RowID>
+
+	<TrapNightID>80</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4552</RowID>
+
+	<TrapNightID>80</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4553</RowID>
+
+	<TrapNightID>81</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4554</RowID>
+
+	<TrapNightID>81</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4555</RowID>
+
+	<TrapNightID>82</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4556</RowID>
+
+	<TrapNightID>82</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4557</RowID>
+
+	<TrapNightID>83</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4558</RowID>
+
+	<TrapNightID>83</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4559</RowID>
+
+	<TrapNightID>84</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4560</RowID>
+
+	<TrapNightID>85</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4561</RowID>
+
+	<TrapNightID>86</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4562</RowID>
+
+	<TrapNightID>86</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4563</RowID>
+
+	<TrapNightID>87</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4564</RowID>
+
+	<TrapNightID>87</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4565</RowID>
+
+	<TrapNightID>87</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4566</RowID>
+
+	<TrapNightID>87</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4567</RowID>
+
+	<TrapNightID>88</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4568</RowID>
+
+	<TrapNightID>89</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4569</RowID>
+
+	<TrapNightID>89</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4570</RowID>
+
+	<TrapNightID>89</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4571</RowID>
+
+	<TrapNightID>90</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4572</RowID>
+
+	<TrapNightID>90</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4573</RowID>
+
+	<TrapNightID>90</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4574</RowID>
+
+	<TrapNightID>90</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4575</RowID>
+
+	<TrapNightID>91</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>16</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4576</RowID>
+
+	<TrapNightID>91</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4577</RowID>
+
+	<TrapNightID>92</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4578</RowID>
+
+	<TrapNightID>92</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4579</RowID>
+
+	<TrapNightID>92</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4580</RowID>
+
+	<TrapNightID>93</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4581</RowID>
+
+	<TrapNightID>94</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4582</RowID>
+
+	<TrapNightID>94</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4583</RowID>
+
+	<TrapNightID>94</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4584</RowID>
+
+	<TrapNightID>95</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4585</RowID>
+
+	<TrapNightID>95</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4586</RowID>
+
+	<TrapNightID>96</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4587</RowID>
+
+	<TrapNightID>96</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4588</RowID>
+
+	<TrapNightID>97</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4589</RowID>
+
+	<TrapNightID>97</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4590</RowID>
+
+	<TrapNightID>97</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4591</RowID>
+
+	<TrapNightID>98</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4592</RowID>
+
+	<TrapNightID>98</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4593</RowID>
+
+	<TrapNightID>99</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4594</RowID>
+
+	<TrapNightID>99</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4595</RowID>
+
+	<TrapNightID>100</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4596</RowID>
+
+	<TrapNightID>101</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4597</RowID>
+
+	<TrapNightID>101</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4598</RowID>
+
+	<TrapNightID>102</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4599</RowID>
+
+	<TrapNightID>102</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4600</RowID>
+
+	<TrapNightID>103</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4601</RowID>
+
+	<TrapNightID>103</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4602</RowID>
+
+	<TrapNightID>103</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4603</RowID>
+
+	<TrapNightID>104</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>18</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4604</RowID>
+
+	<TrapNightID>106</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4605</RowID>
+
+	<TrapNightID>106</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4606</RowID>
+
+	<TrapNightID>106</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4607</RowID>
+
+	<TrapNightID>106</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4608</RowID>
+
+	<TrapNightID>107</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4609</RowID>
+
+	<TrapNightID>107</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4610</RowID>
+
+	<TrapNightID>107</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4611</RowID>
+
+	<TrapNightID>107</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4612</RowID>
+
+	<TrapNightID>108</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4613</RowID>
+
+	<TrapNightID>108</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4614</RowID>
+
+	<TrapNightID>109</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4615</RowID>
+
+	<TrapNightID>109</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4616</RowID>
+
+	<TrapNightID>110</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4617</RowID>
+
+	<TrapNightID>110</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4618</RowID>
+
+	<TrapNightID>111</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4619</RowID>
+
+	<TrapNightID>113</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4620</RowID>
+
+	<TrapNightID>113</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4621</RowID>
+
+	<TrapNightID>114</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4622</RowID>
+
+	<TrapNightID>114</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4623</RowID>
+
+	<TrapNightID>114</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4624</RowID>
+
+	<TrapNightID>114</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4625</RowID>
+
+	<TrapNightID>115</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4626</RowID>
+
+	<TrapNightID>115</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4627</RowID>
+
+	<TrapNightID>115</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4628</RowID>
+
+	<TrapNightID>115</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4629</RowID>
+
+	<TrapNightID>116</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4630</RowID>
+
+	<TrapNightID>117</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4631</RowID>
+
+	<TrapNightID>118</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4632</RowID>
+
+	<TrapNightID>118</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4633</RowID>
+
+	<TrapNightID>119</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4634</RowID>
+
+	<TrapNightID>119</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4635</RowID>
+
+	<TrapNightID>119</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4636</RowID>
+
+	<TrapNightID>120</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4637</RowID>
+
+	<TrapNightID>120</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4638</RowID>
+
+	<TrapNightID>120</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4639</RowID>
+
+	<TrapNightID>121</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4640</RowID>
+
+	<TrapNightID>121</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4641</RowID>
+
+	<TrapNightID>121</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4642</RowID>
+
+	<TrapNightID>121</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4643</RowID>
+
+	<TrapNightID>122</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4644</RowID>
+
+	<TrapNightID>122</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4645</RowID>
+
+	<TrapNightID>122</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4646</RowID>
+
+	<TrapNightID>122</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4647</RowID>
+
+	<TrapNightID>123</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4648</RowID>
+
+	<TrapNightID>124</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4649</RowID>
+
+	<TrapNightID>124</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4650</RowID>
+
+	<TrapNightID>124</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4651</RowID>
+
+	<TrapNightID>125</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4652</RowID>
+
+	<TrapNightID>125</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4653</RowID>
+
+	<TrapNightID>126</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4654</RowID>
+
+	<TrapNightID>126</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4655</RowID>
+
+	<TrapNightID>126</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4656</RowID>
+
+	<TrapNightID>127</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4657</RowID>
+
+	<TrapNightID>127</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4658</RowID>
+
+	<TrapNightID>127</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4659</RowID>
+
+	<TrapNightID>127</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4660</RowID>
+
+	<TrapNightID>128</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4661</RowID>
+
+	<TrapNightID>128</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4662</RowID>
+
+	<TrapNightID>129</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4663</RowID>
+
+	<TrapNightID>129</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4664</RowID>
+
+	<TrapNightID>129</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4665</RowID>
+
+	<TrapNightID>130</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4666</RowID>
+
+	<TrapNightID>130</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4667</RowID>
+
+	<TrapNightID>130</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4668</RowID>
+
+	<TrapNightID>131</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4669</RowID>
+
+	<TrapNightID>131</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4670</RowID>
+
+	<TrapNightID>131</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4671</RowID>
+
+	<TrapNightID>131</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4672</RowID>
+
+	<TrapNightID>132</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4673</RowID>
+
+	<TrapNightID>132</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4674</RowID>
+
+	<TrapNightID>132</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4675</RowID>
+
+	<TrapNightID>133</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>16</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4676</RowID>
+
+	<TrapNightID>133</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4677</RowID>
+
+	<TrapNightID>133</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4678</RowID>
+
+	<TrapNightID>133</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4679</RowID>
+
+	<TrapNightID>134</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>18</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4680</RowID>
+
+	<TrapNightID>134</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4681</RowID>
+
+	<TrapNightID>134</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4682</RowID>
+
+	<TrapNightID>134</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4683</RowID>
+
+	<TrapNightID>135</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4684</RowID>
+
+	<TrapNightID>135</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4685</RowID>
+
+	<TrapNightID>136</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4686</RowID>
+
+	<TrapNightID>136</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4687</RowID>
+
+	<TrapNightID>136</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4688</RowID>
+
+	<TrapNightID>136</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4689</RowID>
+
+	<TrapNightID>137</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4690</RowID>
+
+	<TrapNightID>137</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4691</RowID>
+
+	<TrapNightID>137</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4692</RowID>
+
+	<TrapNightID>138</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>23</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4693</RowID>
+
+	<TrapNightID>138</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4694</RowID>
+
+	<TrapNightID>138</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4695</RowID>
+
+	<TrapNightID>138</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4696</RowID>
+
+	<TrapNightID>138</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4697</RowID>
+
+	<TrapNightID>139</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4698</RowID>
+
+	<TrapNightID>139</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4699</RowID>
+
+	<TrapNightID>139</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4700</RowID>
+
+	<TrapNightID>140</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4701</RowID>
+
+	<TrapNightID>140</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4702</RowID>
+
+	<TrapNightID>140</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4703</RowID>
+
+	<TrapNightID>141</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4704</RowID>
+
+	<TrapNightID>141</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4705</RowID>
+
+	<TrapNightID>141</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4706</RowID>
+
+	<TrapNightID>142</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4707</RowID>
+
+	<TrapNightID>142</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4708</RowID>
+
+	<TrapNightID>142</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4709</RowID>
+
+	<TrapNightID>142</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4710</RowID>
+
+	<TrapNightID>142</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4711</RowID>
+
+	<TrapNightID>143</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4712</RowID>
+
+	<TrapNightID>143</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4713</RowID>
+
+	<TrapNightID>143</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4714</RowID>
+
+	<TrapNightID>143</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4715</RowID>
+
+	<TrapNightID>143</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4716</RowID>
+
+	<TrapNightID>144</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4717</RowID>
+
+	<TrapNightID>144</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4718</RowID>
+
+	<TrapNightID>144</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4719</RowID>
+
+	<TrapNightID>144</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4720</RowID>
+
+	<TrapNightID>145</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4721</RowID>
+
+	<TrapNightID>145</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4722</RowID>
+
+	<TrapNightID>145</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4723</RowID>
+
+	<TrapNightID>146</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4724</RowID>
+
+	<TrapNightID>146</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4725</RowID>
+
+	<TrapNightID>147</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4726</RowID>
+
+	<TrapNightID>147</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4727</RowID>
+
+	<TrapNightID>147</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4728</RowID>
+
+	<TrapNightID>147</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4729</RowID>
+
+	<TrapNightID>148</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4730</RowID>
+
+	<TrapNightID>148</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4731</RowID>
+
+	<TrapNightID>149</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4732</RowID>
+
+	<TrapNightID>149</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4733</RowID>
+
+	<TrapNightID>149</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4734</RowID>
+
+	<TrapNightID>150</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4735</RowID>
+
+	<TrapNightID>151</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4736</RowID>
+
+	<TrapNightID>151</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4737</RowID>
+
+	<TrapNightID>152</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4738</RowID>
+
+	<TrapNightID>152</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4739</RowID>
+
+	<TrapNightID>153</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4740</RowID>
+
+	<TrapNightID>153</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4741</RowID>
+
+	<TrapNightID>153</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4742</RowID>
+
+	<TrapNightID>154</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4743</RowID>
+
+	<TrapNightID>155</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4744</RowID>
+
+	<TrapNightID>156</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4745</RowID>
+
+	<TrapNightID>156</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4746</RowID>
+
+	<TrapNightID>157</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4747</RowID>
+
+	<TrapNightID>159</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4748</RowID>
+
+	<TrapNightID>160</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4749</RowID>
+
+	<TrapNightID>161</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4750</RowID>
+
+	<TrapNightID>161</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4751</RowID>
+
+	<TrapNightID>162</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4752</RowID>
+
+	<TrapNightID>162</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4753</RowID>
+
+	<TrapNightID>163</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4754</RowID>
+
+	<TrapNightID>163</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4755</RowID>
+
+	<TrapNightID>163</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4756</RowID>
+
+	<TrapNightID>164</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4757</RowID>
+
+	<TrapNightID>165</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4758</RowID>
+
+	<TrapNightID>165</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4759</RowID>
+
+	<TrapNightID>166</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4760</RowID>
+
+	<TrapNightID>167</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4761</RowID>
+
+	<TrapNightID>167</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4762</RowID>
+
+	<TrapNightID>169</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4763</RowID>
+
+	<TrapNightID>169</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4764</RowID>
+
+	<TrapNightID>170</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4765</RowID>
+
+	<TrapNightID>170</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4766</RowID>
+
+	<TrapNightID>170</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4767</RowID>
+
+	<TrapNightID>171</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4768</RowID>
+
+	<TrapNightID>171</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4769</RowID>
+
+	<TrapNightID>173</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4770</RowID>
+
+	<TrapNightID>173</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4771</RowID>
+
+	<TrapNightID>173</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4772</RowID>
+
+	<TrapNightID>174</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4773</RowID>
+
+	<TrapNightID>174</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4774</RowID>
+
+	<TrapNightID>174</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4775</RowID>
+
+	<TrapNightID>174</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4776</RowID>
+
+	<TrapNightID>175</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4777</RowID>
+
+	<TrapNightID>175</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4778</RowID>
+
+	<TrapNightID>175</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4779</RowID>
+
+	<TrapNightID>176</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4780</RowID>
+
+	<TrapNightID>176</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4781</RowID>
+
+	<TrapNightID>177</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4782</RowID>
+
+	<TrapNightID>177</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4783</RowID>
+
+	<TrapNightID>177</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4784</RowID>
+
+	<TrapNightID>178</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4785</RowID>
+
+	<TrapNightID>178</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4786</RowID>
+
+	<TrapNightID>178</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4787</RowID>
+
+	<TrapNightID>178</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4788</RowID>
+
+	<TrapNightID>180</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4789</RowID>
+
+	<TrapNightID>180</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4790</RowID>
+
+	<TrapNightID>180</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4791</RowID>
+
+	<TrapNightID>181</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4792</RowID>
+
+	<TrapNightID>181</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4793</RowID>
+
+	<TrapNightID>181</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4794</RowID>
+
+	<TrapNightID>181</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4795</RowID>
+
+	<TrapNightID>182</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4796</RowID>
+
+	<TrapNightID>182</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4797</RowID>
+
+	<TrapNightID>182</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4798</RowID>
+
+	<TrapNightID>182</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4799</RowID>
+
+	<TrapNightID>182</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4800</RowID>
+
+	<TrapNightID>183</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4801</RowID>
+
+	<TrapNightID>183</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4802</RowID>
+
+	<TrapNightID>183</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4803</RowID>
+
+	<TrapNightID>184</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4804</RowID>
+
+	<TrapNightID>184</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4805</RowID>
+
+	<TrapNightID>184</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4806</RowID>
+
+	<TrapNightID>184</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4807</RowID>
+
+	<TrapNightID>185</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4808</RowID>
+
+	<TrapNightID>185</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4809</RowID>
+
+	<TrapNightID>185</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4810</RowID>
+
+	<TrapNightID>186</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4811</RowID>
+
+	<TrapNightID>186</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4812</RowID>
+
+	<TrapNightID>187</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4813</RowID>
+
+	<TrapNightID>187</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4814</RowID>
+
+	<TrapNightID>187</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4815</RowID>
+
+	<TrapNightID>188</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4816</RowID>
+
+	<TrapNightID>188</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4817</RowID>
+
+	<TrapNightID>188</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4818</RowID>
+
+	<TrapNightID>188</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4819</RowID>
+
+	<TrapNightID>189</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4820</RowID>
+
+	<TrapNightID>189</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4821</RowID>
+
+	<TrapNightID>189</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4822</RowID>
+
+	<TrapNightID>189</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4823</RowID>
+
+	<TrapNightID>190</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4824</RowID>
+
+	<TrapNightID>190</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4825</RowID>
+
+	<TrapNightID>190</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4826</RowID>
+
+	<TrapNightID>191</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4827</RowID>
+
+	<TrapNightID>191</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4828</RowID>
+
+	<TrapNightID>191</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4829</RowID>
+
+	<TrapNightID>191</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4830</RowID>
+
+	<TrapNightID>192</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4831</RowID>
+
+	<TrapNightID>192</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4832</RowID>
+
+	<TrapNightID>192</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4833</RowID>
+
+	<TrapNightID>193</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4834</RowID>
+
+	<TrapNightID>193</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4835</RowID>
+
+	<TrapNightID>193</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4836</RowID>
+
+	<TrapNightID>194</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>22</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4837</RowID>
+
+	<TrapNightID>194</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4838</RowID>
+
+	<TrapNightID>194</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4839</RowID>
+
+	<TrapNightID>194</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4840</RowID>
+
+	<TrapNightID>195</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4841</RowID>
+
+	<TrapNightID>195</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4842</RowID>
+
+	<TrapNightID>195</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4843</RowID>
+
+	<TrapNightID>195</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4844</RowID>
+
+	<TrapNightID>196</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4845</RowID>
+
+	<TrapNightID>196</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4846</RowID>
+
+	<TrapNightID>196</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4847</RowID>
+
+	<TrapNightID>197</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4848</RowID>
+
+	<TrapNightID>197</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4849</RowID>
+
+	<TrapNightID>197</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4850</RowID>
+
+	<TrapNightID>198</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4851</RowID>
+
+	<TrapNightID>198</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4852</RowID>
+
+	<TrapNightID>198</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4853</RowID>
+
+	<TrapNightID>199</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4854</RowID>
+
+	<TrapNightID>199</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4855</RowID>
+
+	<TrapNightID>199</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4856</RowID>
+
+	<TrapNightID>200</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4857</RowID>
+
+	<TrapNightID>200</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4858</RowID>
+
+	<TrapNightID>201</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4859</RowID>
+
+	<TrapNightID>201</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4860</RowID>
+
+	<TrapNightID>201</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4861</RowID>
+
+	<TrapNightID>202</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4862</RowID>
+
+	<TrapNightID>202</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4863</RowID>
+
+	<TrapNightID>202</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4864</RowID>
+
+	<TrapNightID>203</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4865</RowID>
+
+	<TrapNightID>203</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4866</RowID>
+
+	<TrapNightID>203</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4867</RowID>
+
+	<TrapNightID>204</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4868</RowID>
+
+	<TrapNightID>204</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4869</RowID>
+
+	<TrapNightID>204</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4870</RowID>
+
+	<TrapNightID>205</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4871</RowID>
+
+	<TrapNightID>205</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4872</RowID>
+
+	<TrapNightID>207</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4873</RowID>
+
+	<TrapNightID>207</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4874</RowID>
+
+	<TrapNightID>209</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4875</RowID>
+
+	<TrapNightID>209</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4876</RowID>
+
+	<TrapNightID>211</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4877</RowID>
+
+	<TrapNightID>211</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4878</RowID>
+
+	<TrapNightID>212</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4879</RowID>
+
+	<TrapNightID>213</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4880</RowID>
+
+	<TrapNightID>214</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4881</RowID>
+
+	<TrapNightID>215</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4882</RowID>
+
+	<TrapNightID>216</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4883</RowID>
+
+	<TrapNightID>217</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4884</RowID>
+
+	<TrapNightID>217</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4885</RowID>
+
+	<TrapNightID>218</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4886</RowID>
+
+	<TrapNightID>218</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4887</RowID>
+
+	<TrapNightID>218</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4888</RowID>
+
+	<TrapNightID>219</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4889</RowID>
+
+	<TrapNightID>219</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4890</RowID>
+
+	<TrapNightID>220</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4891</RowID>
+
+	<TrapNightID>220</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4892</RowID>
+
+	<TrapNightID>220</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4893</RowID>
+
+	<TrapNightID>221</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4894</RowID>
+
+	<TrapNightID>221</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4895</RowID>
+
+	<TrapNightID>221</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4896</RowID>
+
+	<TrapNightID>221</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4897</RowID>
+
+	<TrapNightID>222</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4898</RowID>
+
+	<TrapNightID>222</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4899</RowID>
+
+	<TrapNightID>223</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4900</RowID>
+
+	<TrapNightID>223</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4901</RowID>
+
+	<TrapNightID>223</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4902</RowID>
+
+	<TrapNightID>224</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4903</RowID>
+
+	<TrapNightID>224</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4904</RowID>
+
+	<TrapNightID>224</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4905</RowID>
+
+	<TrapNightID>225</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4906</RowID>
+
+	<TrapNightID>225</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4907</RowID>
+
+	<TrapNightID>226</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4908</RowID>
+
+	<TrapNightID>226</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4909</RowID>
+
+	<TrapNightID>227</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4910</RowID>
+
+	<TrapNightID>227</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4911</RowID>
+
+	<TrapNightID>227</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4912</RowID>
+
+	<TrapNightID>227</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4913</RowID>
+
+	<TrapNightID>228</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4914</RowID>
+
+	<TrapNightID>228</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4915</RowID>
+
+	<TrapNightID>228</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4916</RowID>
+
+	<TrapNightID>228</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4917</RowID>
+
+	<TrapNightID>229</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4918</RowID>
+
+	<TrapNightID>229</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4919</RowID>
+
+	<TrapNightID>229</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4920</RowID>
+
+	<TrapNightID>230</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4921</RowID>
+
+	<TrapNightID>230</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4922</RowID>
+
+	<TrapNightID>230</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4923</RowID>
+
+	<TrapNightID>231</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4924</RowID>
+
+	<TrapNightID>231</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4925</RowID>
+
+	<TrapNightID>231</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4926</RowID>
+
+	<TrapNightID>232</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4927</RowID>
+
+	<TrapNightID>232</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4928</RowID>
+
+	<TrapNightID>232</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4929</RowID>
+
+	<TrapNightID>233</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4930</RowID>
+
+	<TrapNightID>233</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4931</RowID>
+
+	<TrapNightID>234</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4932</RowID>
+
+	<TrapNightID>234</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>32</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4933</RowID>
+
+	<TrapNightID>234</TrapNightID>
+
+	<Species>6</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4934</RowID>
+
+	<TrapNightID>235</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4935</RowID>
+
+	<TrapNightID>235</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4936</RowID>
+
+	<TrapNightID>235</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4937</RowID>
+
+	<TrapNightID>236</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4938</RowID>
+
+	<TrapNightID>237</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4939</RowID>
+
+	<TrapNightID>237</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4940</RowID>
+
+	<TrapNightID>237</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4941</RowID>
+
+	<TrapNightID>237</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4942</RowID>
+
+	<TrapNightID>237</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4943</RowID>
+
+	<TrapNightID>238</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4944</RowID>
+
+	<TrapNightID>238</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4945</RowID>
+
+	<TrapNightID>238</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4946</RowID>
+
+	<TrapNightID>238</TrapNightID>
+
+	<Species>6</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4947</RowID>
+
+	<TrapNightID>238</TrapNightID>
+
+	<Species>10</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4948</RowID>
+
+	<TrapNightID>239</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4949</RowID>
+
+	<TrapNightID>239</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>19</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4950</RowID>
+
+	<TrapNightID>239</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4951</RowID>
+
+	<TrapNightID>240</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4952</RowID>
+
+	<TrapNightID>240</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4953</RowID>
+
+	<TrapNightID>240</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4954</RowID>
+
+	<TrapNightID>240</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4955</RowID>
+
+	<TrapNightID>241</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>38</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4956</RowID>
+
+	<TrapNightID>241</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4957</RowID>
+
+	<TrapNightID>242</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4958</RowID>
+
+	<TrapNightID>242</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4959</RowID>
+
+	<TrapNightID>242</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4960</RowID>
+
+	<TrapNightID>242</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4961</RowID>
+
+	<TrapNightID>243</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4962</RowID>
+
+	<TrapNightID>243</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4963</RowID>
+
+	<TrapNightID>243</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4964</RowID>
+
+	<TrapNightID>243</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4965</RowID>
+
+	<TrapNightID>244</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4966</RowID>
+
+	<TrapNightID>244</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>22</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4967</RowID>
+
+	<TrapNightID>244</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4968</RowID>
+
+	<TrapNightID>244</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4969</RowID>
+
+	<TrapNightID>244</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4970</RowID>
+
+	<TrapNightID>245</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>14</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4971</RowID>
+
+	<TrapNightID>245</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4972</RowID>
+
+	<TrapNightID>245</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4973</RowID>
+
+	<TrapNightID>246</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>17</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4974</RowID>
+
+	<TrapNightID>246</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4975</RowID>
+
+	<TrapNightID>246</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4976</RowID>
+
+	<TrapNightID>246</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4977</RowID>
+
+	<TrapNightID>247</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4978</RowID>
+
+	<TrapNightID>247</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4979</RowID>
+
+	<TrapNightID>247</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4980</RowID>
+
+	<TrapNightID>248</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4981</RowID>
+
+	<TrapNightID>248</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4982</RowID>
+
+	<TrapNightID>249</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4983</RowID>
+
+	<TrapNightID>250</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4984</RowID>
+
+	<TrapNightID>250</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4985</RowID>
+
+	<TrapNightID>250</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4986</RowID>
+
+	<TrapNightID>251</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4987</RowID>
+
+	<TrapNightID>251</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4988</RowID>
+
+	<TrapNightID>252</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4989</RowID>
+
+	<TrapNightID>252</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4990</RowID>
+
+	<TrapNightID>252</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4991</RowID>
+
+	<TrapNightID>253</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4992</RowID>
+
+	<TrapNightID>253</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4993</RowID>
+
+	<TrapNightID>253</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4994</RowID>
+
+	<TrapNightID>254</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4995</RowID>
+
+	<TrapNightID>254</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4996</RowID>
+
+	<TrapNightID>254</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4997</RowID>
+
+	<TrapNightID>254</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4998</RowID>
+
+	<TrapNightID>255</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>4999</RowID>
+
+	<TrapNightID>255</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5000</RowID>
+
+	<TrapNightID>255</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5001</RowID>
+
+	<TrapNightID>255</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5002</RowID>
+
+	<TrapNightID>256</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5003</RowID>
+
+	<TrapNightID>256</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5004</RowID>
+
+	<TrapNightID>257</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5005</RowID>
+
+	<TrapNightID>257</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5006</RowID>
+
+	<TrapNightID>258</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5007</RowID>
+
+	<TrapNightID>258</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5008</RowID>
+
+	<TrapNightID>259</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5009</RowID>
+
+	<TrapNightID>259</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5010</RowID>
+
+	<TrapNightID>260</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5011</RowID>
+
+	<TrapNightID>260</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5012</RowID>
+
+	<TrapNightID>261</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5013</RowID>
+
+	<TrapNightID>261</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5014</RowID>
+
+	<TrapNightID>261</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5015</RowID>
+
+	<TrapNightID>262</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5016</RowID>
+
+	<TrapNightID>262</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5017</RowID>
+
+	<TrapNightID>262</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5018</RowID>
+
+	<TrapNightID>263</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5019</RowID>
+
+	<TrapNightID>263</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5020</RowID>
+
+	<TrapNightID>263</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5021</RowID>
+
+	<TrapNightID>264</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5022</RowID>
+
+	<TrapNightID>264</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5023</RowID>
+
+	<TrapNightID>265</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5024</RowID>
+
+	<TrapNightID>265</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5025</RowID>
+
+	<TrapNightID>265</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5026</RowID>
+
+	<TrapNightID>266</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5027</RowID>
+
+	<TrapNightID>266</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5028</RowID>
+
+	<TrapNightID>267</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5029</RowID>
+
+	<TrapNightID>267</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5030</RowID>
+
+	<TrapNightID>268</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5031</RowID>
+
+	<TrapNightID>270</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5032</RowID>
+
+	<TrapNightID>270</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5033</RowID>
+
+	<TrapNightID>270</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5034</RowID>
+
+	<TrapNightID>271</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5035</RowID>
+
+	<TrapNightID>271</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5036</RowID>
+
+	<TrapNightID>272</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5037</RowID>
+
+	<TrapNightID>272</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5038</RowID>
+
+	<TrapNightID>273</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5039</RowID>
+
+	<TrapNightID>273</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5040</RowID>
+
+	<TrapNightID>274</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>23</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5041</RowID>
+
+	<TrapNightID>274</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5042</RowID>
+
+	<TrapNightID>275</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5043</RowID>
+
+	<TrapNightID>275</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5044</RowID>
+
+	<TrapNightID>275</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5045</RowID>
+
+	<TrapNightID>275</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5046</RowID>
+
+	<TrapNightID>275</TrapNightID>
+
+	<Species>6</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5047</RowID>
+
+	<TrapNightID>276</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>17</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5048</RowID>
+
+	<TrapNightID>276</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5049</RowID>
+
+	<TrapNightID>277</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5050</RowID>
+
+	<TrapNightID>277</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5051</RowID>
+
+	<TrapNightID>277</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5052</RowID>
+
+	<TrapNightID>278</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5053</RowID>
+
+	<TrapNightID>278</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5054</RowID>
+
+	<TrapNightID>279</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5055</RowID>
+
+	<TrapNightID>279</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5056</RowID>
+
+	<TrapNightID>279</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5057</RowID>
+
+	<TrapNightID>280</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5058</RowID>
+
+	<TrapNightID>280</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5059</RowID>
+
+	<TrapNightID>280</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5060</RowID>
+
+	<TrapNightID>280</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5061</RowID>
+
+	<TrapNightID>280</TrapNightID>
+
+	<Species>6</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5062</RowID>
+
+	<TrapNightID>281</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5063</RowID>
+
+	<TrapNightID>281</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5064</RowID>
+
+	<TrapNightID>281</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5065</RowID>
+
+	<TrapNightID>282</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5066</RowID>
+
+	<TrapNightID>282</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5067</RowID>
+
+	<TrapNightID>282</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5068</RowID>
+
+	<TrapNightID>283</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5069</RowID>
+
+	<TrapNightID>283</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5070</RowID>
+
+	<TrapNightID>283</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5071</RowID>
+
+	<TrapNightID>284</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5072</RowID>
+
+	<TrapNightID>284</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5073</RowID>
+
+	<TrapNightID>284</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5074</RowID>
+
+	<TrapNightID>284</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5075</RowID>
+
+	<TrapNightID>285</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5076</RowID>
+
+	<TrapNightID>287</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5077</RowID>
+
+	<TrapNightID>288</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5078</RowID>
+
+	<TrapNightID>288</TrapNightID>
+
+	<Species>10</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5079</RowID>
+
+	<TrapNightID>289</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5080</RowID>
+
+	<TrapNightID>290</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5081</RowID>
+
+	<TrapNightID>290</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5082</RowID>
+
+	<TrapNightID>291</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>22</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5083</RowID>
+
+	<TrapNightID>291</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5084</RowID>
+
+	<TrapNightID>291</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5085</RowID>
+
+	<TrapNightID>292</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5086</RowID>
+
+	<TrapNightID>292</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5087</RowID>
+
+	<TrapNightID>292</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5088</RowID>
+
+	<TrapNightID>292</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5089</RowID>
+
+	<TrapNightID>292</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5090</RowID>
+
+	<TrapNightID>293</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5091</RowID>
+
+	<TrapNightID>293</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5092</RowID>
+
+	<TrapNightID>293</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5093</RowID>
+
+	<TrapNightID>294</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>20</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5094</RowID>
+
+	<TrapNightID>294</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5095</RowID>
+
+	<TrapNightID>295</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5096</RowID>
+
+	<TrapNightID>295</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5097</RowID>
+
+	<TrapNightID>295</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5098</RowID>
+
+	<TrapNightID>296</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5099</RowID>
+
+	<TrapNightID>296</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5100</RowID>
+
+	<TrapNightID>297</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5101</RowID>
+
+	<TrapNightID>297</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5102</RowID>
+
+	<TrapNightID>298</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5103</RowID>
+
+	<TrapNightID>298</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5104</RowID>
+
+	<TrapNightID>299</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5105</RowID>
+
+	<TrapNightID>299</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5106</RowID>
+
+	<TrapNightID>300</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5107</RowID>
+
+	<TrapNightID>300</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5108</RowID>
+
+	<TrapNightID>300</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5109</RowID>
+
+	<TrapNightID>300</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5110</RowID>
+
+	<TrapNightID>301</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5111</RowID>
+
+	<TrapNightID>303</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5112</RowID>
+
+	<TrapNightID>303</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5113</RowID>
+
+	<TrapNightID>303</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5114</RowID>
+
+	<TrapNightID>304</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>19</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5115</RowID>
+
+	<TrapNightID>304</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5116</RowID>
+
+	<TrapNightID>305</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5117</RowID>
+
+	<TrapNightID>305</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5118</RowID>
+
+	<TrapNightID>306</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5119</RowID>
+
+	<TrapNightID>306</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5120</RowID>
+
+	<TrapNightID>307</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5121</RowID>
+
+	<TrapNightID>308</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5122</RowID>
+
+	<TrapNightID>310</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5123</RowID>
+
+	<TrapNightID>311</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5124</RowID>
+
+	<TrapNightID>314</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5125</RowID>
+
+	<TrapNightID>315</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5126</RowID>
+
+	<TrapNightID>315</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5127</RowID>
+
+	<TrapNightID>316</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5128</RowID>
+
+	<TrapNightID>317</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5129</RowID>
+
+	<TrapNightID>318</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5130</RowID>
+
+	<TrapNightID>320</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5131</RowID>
+
+	<TrapNightID>320</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5132</RowID>
+
+	<TrapNightID>321</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5133</RowID>
+
+	<TrapNightID>322</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5134</RowID>
+
+	<TrapNightID>323</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5135</RowID>
+
+	<TrapNightID>323</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5136</RowID>
+
+	<TrapNightID>324</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5137</RowID>
+
+	<TrapNightID>324</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5138</RowID>
+
+	<TrapNightID>325</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>16</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5139</RowID>
+
+	<TrapNightID>325</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5140</RowID>
+
+	<TrapNightID>326</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5141</RowID>
+
+	<TrapNightID>326</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5142</RowID>
+
+	<TrapNightID>327</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5143</RowID>
+
+	<TrapNightID>327</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5144</RowID>
+
+	<TrapNightID>328</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5145</RowID>
+
+	<TrapNightID>329</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5146</RowID>
+
+	<TrapNightID>330</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5147</RowID>
+
+	<TrapNightID>330</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5148</RowID>
+
+	<TrapNightID>330</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5149</RowID>
+
+	<TrapNightID>330</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5150</RowID>
+
+	<TrapNightID>331</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5151</RowID>
+
+	<TrapNightID>332</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5152</RowID>
+
+	<TrapNightID>333</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5153</RowID>
+
+	<TrapNightID>334</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5154</RowID>
+
+	<TrapNightID>334</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5155</RowID>
+
+	<TrapNightID>336</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5156</RowID>
+
+	<TrapNightID>336</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5157</RowID>
+
+	<TrapNightID>336</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5158</RowID>
+
+	<TrapNightID>338</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5159</RowID>
+
+	<TrapNightID>338</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5160</RowID>
+
+	<TrapNightID>339</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5161</RowID>
+
+	<TrapNightID>339</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5162</RowID>
+
+	<TrapNightID>340</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>19</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5163</RowID>
+
+	<TrapNightID>340</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5164</RowID>
+
+	<TrapNightID>340</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5165</RowID>
+
+	<TrapNightID>340</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5166</RowID>
+
+	<TrapNightID>341</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5167</RowID>
+
+	<TrapNightID>341</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5168</RowID>
+
+	<TrapNightID>341</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5169</RowID>
+
+	<TrapNightID>342</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5170</RowID>
+
+	<TrapNightID>342</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5171</RowID>
+
+	<TrapNightID>342</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5172</RowID>
+
+	<TrapNightID>342</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5173</RowID>
+
+	<TrapNightID>343</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5174</RowID>
+
+	<TrapNightID>343</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5175</RowID>
+
+	<TrapNightID>344</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5176</RowID>
+
+	<TrapNightID>344</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5177</RowID>
+
+	<TrapNightID>345</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5178</RowID>
+
+	<TrapNightID>345</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5179</RowID>
+
+	<TrapNightID>345</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5180</RowID>
+
+	<TrapNightID>345</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5181</RowID>
+
+	<TrapNightID>345</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5182</RowID>
+
+	<TrapNightID>345</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5183</RowID>
+
+	<TrapNightID>346</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5184</RowID>
+
+	<TrapNightID>346</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5185</RowID>
+
+	<TrapNightID>346</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5186</RowID>
+
+	<TrapNightID>348</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5187</RowID>
+
+	<TrapNightID>348</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5188</RowID>
+
+	<TrapNightID>349</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5189</RowID>
+
+	<TrapNightID>349</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5190</RowID>
+
+	<TrapNightID>350</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5191</RowID>
+
+	<TrapNightID>350</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5192</RowID>
+
+	<TrapNightID>350</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5193</RowID>
+
+	<TrapNightID>351</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>29</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5194</RowID>
+
+	<TrapNightID>351</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5195</RowID>
+
+	<TrapNightID>352</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5196</RowID>
+
+	<TrapNightID>352</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5197</RowID>
+
+	<TrapNightID>352</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5198</RowID>
+
+	<TrapNightID>352</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5199</RowID>
+
+	<TrapNightID>353</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5200</RowID>
+
+	<TrapNightID>353</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5201</RowID>
+
+	<TrapNightID>353</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>15</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5202</RowID>
+
+	<TrapNightID>354</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5203</RowID>
+
+	<TrapNightID>354</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5204</RowID>
+
+	<TrapNightID>354</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5205</RowID>
+
+	<TrapNightID>355</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5206</RowID>
+
+	<TrapNightID>355</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5207</RowID>
+
+	<TrapNightID>355</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5208</RowID>
+
+	<TrapNightID>356</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>22</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5209</RowID>
+
+	<TrapNightID>356</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5210</RowID>
+
+	<TrapNightID>357</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5211</RowID>
+
+	<TrapNightID>357</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5212</RowID>
+
+	<TrapNightID>358</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>16</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5213</RowID>
+
+	<TrapNightID>358</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5214</RowID>
+
+	<TrapNightID>358</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5215</RowID>
+
+	<TrapNightID>359</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>26</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5216</RowID>
+
+	<TrapNightID>360</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>20</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5217</RowID>
+
+	<TrapNightID>360</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5218</RowID>
+
+	<TrapNightID>360</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5219</RowID>
+
+	<TrapNightID>361</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5220</RowID>
+
+	<TrapNightID>361</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5221</RowID>
+
+	<TrapNightID>362</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5222</RowID>
+
+	<TrapNightID>362</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>20</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5223</RowID>
+
+	<TrapNightID>362</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5224</RowID>
+
+	<TrapNightID>363</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5225</RowID>
+
+	<TrapNightID>363</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5226</RowID>
+
+	<TrapNightID>363</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5227</RowID>
+
+	<TrapNightID>364</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>21</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5228</RowID>
+
+	<TrapNightID>364</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5229</RowID>
+
+	<TrapNightID>365</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5230</RowID>
+
+	<TrapNightID>366</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5231</RowID>
+
+	<TrapNightID>366</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5232</RowID>
+
+	<TrapNightID>367</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5233</RowID>
+
+	<TrapNightID>368</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5234</RowID>
+
+	<TrapNightID>369</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5235</RowID>
+
+	<TrapNightID>370</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5236</RowID>
+
+	<TrapNightID>370</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5237</RowID>
+
+	<TrapNightID>370</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5238</RowID>
+
+	<TrapNightID>371</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5239</RowID>
+
+	<TrapNightID>371</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5240</RowID>
+
+	<TrapNightID>371</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5241</RowID>
+
+	<TrapNightID>372</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5242</RowID>
+
+	<TrapNightID>372</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5243</RowID>
+
+	<TrapNightID>373</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5244</RowID>
+
+	<TrapNightID>374</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5245</RowID>
+
+	<TrapNightID>375</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5246</RowID>
+
+	<TrapNightID>377</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5247</RowID>
+
+	<TrapNightID>377</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5248</RowID>
+
+	<TrapNightID>378</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5249</RowID>
+
+	<TrapNightID>379</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5250</RowID>
+
+	<TrapNightID>380</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5251</RowID>
+
+	<TrapNightID>380</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5252</RowID>
+
+	<TrapNightID>380</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5253</RowID>
+
+	<TrapNightID>382</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5254</RowID>
+
+	<TrapNightID>382</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5255</RowID>
+
+	<TrapNightID>383</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5256</RowID>
+
+	<TrapNightID>384</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5257</RowID>
+
+	<TrapNightID>384</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5258</RowID>
+
+	<TrapNightID>385</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5259</RowID>
+
+	<TrapNightID>386</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>11</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5260</RowID>
+
+	<TrapNightID>387</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5261</RowID>
+
+	<TrapNightID>388</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>16</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5262</RowID>
+
+	<TrapNightID>388</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5263</RowID>
+
+	<TrapNightID>388</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5264</RowID>
+
+	<TrapNightID>389</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>40</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5265</RowID>
+
+	<TrapNightID>389</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5266</RowID>
+
+	<TrapNightID>390</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5267</RowID>
+
+	<TrapNightID>390</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5268</RowID>
+
+	<TrapNightID>390</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5269</RowID>
+
+	<TrapNightID>390</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5270</RowID>
+
+	<TrapNightID>391</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5271</RowID>
+
+	<TrapNightID>391</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5272</RowID>
+
+	<TrapNightID>392</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5273</RowID>
+
+	<TrapNightID>392</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5274</RowID>
+
+	<TrapNightID>392</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5275</RowID>
+
+	<TrapNightID>392</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5276</RowID>
+
+	<TrapNightID>393</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5277</RowID>
+
+	<TrapNightID>393</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5278</RowID>
+
+	<TrapNightID>393</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5279</RowID>
+
+	<TrapNightID>394</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5280</RowID>
+
+	<TrapNightID>394</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5281</RowID>
+
+	<TrapNightID>394</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5282</RowID>
+
+	<TrapNightID>394</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5283</RowID>
+
+	<TrapNightID>395</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5284</RowID>
+
+	<TrapNightID>395</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5285</RowID>
+
+	<TrapNightID>395</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5286</RowID>
+
+	<TrapNightID>396</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5287</RowID>
+
+	<TrapNightID>396</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5288</RowID>
+
+	<TrapNightID>396</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5289</RowID>
+
+	<TrapNightID>397</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5290</RowID>
+
+	<TrapNightID>397</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5291</RowID>
+
+	<TrapNightID>397</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5292</RowID>
+
+	<TrapNightID>397</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5293</RowID>
+
+	<TrapNightID>397</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5294</RowID>
+
+	<TrapNightID>398</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5295</RowID>
+
+	<TrapNightID>398</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5296</RowID>
+
+	<TrapNightID>398</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5297</RowID>
+
+	<TrapNightID>398</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5298</RowID>
+
+	<TrapNightID>399</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5299</RowID>
+
+	<TrapNightID>399</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5300</RowID>
+
+	<TrapNightID>399</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5301</RowID>
+
+	<TrapNightID>399</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5302</RowID>
+
+	<TrapNightID>400</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5303</RowID>
+
+	<TrapNightID>400</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5304</RowID>
+
+	<TrapNightID>400</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>22</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5305</RowID>
+
+	<TrapNightID>401</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5306</RowID>
+
+	<TrapNightID>401</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5307</RowID>
+
+	<TrapNightID>401</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5308</RowID>
+
+	<TrapNightID>402</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5309</RowID>
+
+	<TrapNightID>402</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5310</RowID>
+
+	<TrapNightID>402</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5311</RowID>
+
+	<TrapNightID>402</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5312</RowID>
+
+	<TrapNightID>403</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5313</RowID>
+
+	<TrapNightID>403</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5314</RowID>
+
+	<TrapNightID>403</TrapNightID>
+
+	<Species>6</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5315</RowID>
+
+	<TrapNightID>404</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5316</RowID>
+
+	<TrapNightID>404</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5317</RowID>
+
+	<TrapNightID>404</TrapNightID>
+
+	<Species>5</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5318</RowID>
+
+	<TrapNightID>405</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5319</RowID>
+
+	<TrapNightID>405</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5320</RowID>
+
+	<TrapNightID>405</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5321</RowID>
+
+	<TrapNightID>406</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5322</RowID>
+
+	<TrapNightID>407</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5323</RowID>
+
+	<TrapNightID>407</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5324</RowID>
+
+	<TrapNightID>407</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5325</RowID>
+
+	<TrapNightID>408</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5326</RowID>
+
+	<TrapNightID>408</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5327</RowID>
+
+	<TrapNightID>408</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5328</RowID>
+
+	<TrapNightID>409</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5329</RowID>
+
+	<TrapNightID>409</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5330</RowID>
+
+	<TrapNightID>409</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5331</RowID>
+
+	<TrapNightID>410</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5332</RowID>
+
+	<TrapNightID>410</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5333</RowID>
+
+	<TrapNightID>410</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5334</RowID>
+
+	<TrapNightID>411</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5335</RowID>
+
+	<TrapNightID>411</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5336</RowID>
+
+	<TrapNightID>411</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5337</RowID>
+
+	<TrapNightID>412</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5338</RowID>
+
+	<TrapNightID>412</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5339</RowID>
+
+	<TrapNightID>412</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5340</RowID>
+
+	<TrapNightID>413</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5341</RowID>
+
+	<TrapNightID>413</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5342</RowID>
+
+	<TrapNightID>414</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>13</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5343</RowID>
+
+	<TrapNightID>414</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5344</RowID>
+
+	<TrapNightID>415</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>12</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5345</RowID>
+
+	<TrapNightID>415</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5346</RowID>
+
+	<TrapNightID>415</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5347</RowID>
+
+	<TrapNightID>416</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5348</RowID>
+
+	<TrapNightID>416</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5349</RowID>
+
+	<TrapNightID>417</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5350</RowID>
+
+	<TrapNightID>417</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5351</RowID>
+
+	<TrapNightID>417</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5352</RowID>
+
+	<TrapNightID>417</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5353</RowID>
+
+	<TrapNightID>418</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>22</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5354</RowID>
+
+	<TrapNightID>418</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5355</RowID>
+
+	<TrapNightID>418</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5356</RowID>
+
+	<TrapNightID>419</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5357</RowID>
+
+	<TrapNightID>419</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5358</RowID>
+
+	<TrapNightID>419</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5359</RowID>
+
+	<TrapNightID>420</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5360</RowID>
+
+	<TrapNightID>420</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5361</RowID>
+
+	<TrapNightID>420</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5362</RowID>
+
+	<TrapNightID>420</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5363</RowID>
+
+	<TrapNightID>420</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5364</RowID>
+
+	<TrapNightID>421</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5365</RowID>
+
+	<TrapNightID>421</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5366</RowID>
+
+	<TrapNightID>422</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5367</RowID>
+
+	<TrapNightID>422</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5368</RowID>
+
+	<TrapNightID>423</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5369</RowID>
+
+	<TrapNightID>423</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5370</RowID>
+
+	<TrapNightID>424</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5371</RowID>
+
+	<TrapNightID>424</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5372</RowID>
+
+	<TrapNightID>424</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5373</RowID>
+
+	<TrapNightID>425</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5374</RowID>
+
+	<TrapNightID>425</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5375</RowID>
+
+	<TrapNightID>425</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5376</RowID>
+
+	<TrapNightID>426</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5377</RowID>
+
+	<TrapNightID>426</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5378</RowID>
+
+	<TrapNightID>426</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5379</RowID>
+
+	<TrapNightID>426</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5380</RowID>
+
+	<TrapNightID>427</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5381</RowID>
+
+	<TrapNightID>428</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5382</RowID>
+
+	<TrapNightID>428</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5383</RowID>
+
+	<TrapNightID>429</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>6</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5384</RowID>
+
+	<TrapNightID>429</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5385</RowID>
+
+	<TrapNightID>429</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5386</RowID>
+
+	<TrapNightID>429</TrapNightID>
+
+	<Species>9</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5387</RowID>
+
+	<TrapNightID>430</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>10</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5388</RowID>
+
+	<TrapNightID>430</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>3</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5389</RowID>
+
+	<TrapNightID>430</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5390</RowID>
+
+	<TrapNightID>431</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5391</RowID>
+
+	<TrapNightID>431</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5392</RowID>
+
+	<TrapNightID>431</TrapNightID>
+
+	<Species>1</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5393</RowID>
+
+	<TrapNightID>431</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>4</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5394</RowID>
+
+	<TrapNightID>432</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>9</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5395</RowID>
+
+	<TrapNightID>432</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>8</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5396</RowID>
+
+	<TrapNightID>432</TrapNightID>
+
+	<Species>8</Species>
+
+	<Count>2</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5397</RowID>
+
+	<TrapNightID>433</TrapNightID>
+
+	<Species>3</Species>
+
+	<Count>5</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5398</RowID>
+
+	<TrapNightID>433</TrapNightID>
+
+	<Species>4</Species>
+
+	<Count>1</Count>
+
+</RECORD>
+<RECORD>
+	<RowID>5399</RowID>
+
+	<TrapNightID>433</TrapNightID>
+
+	<Species>7</Species>
+
+	<Count>7</Count>
+
+</RECORD>
+</RECORDS>

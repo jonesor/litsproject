@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<TableName>tblBirdID</TableName>
+
+	<Description>Master list of all individuals</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<Description>Breeding success at each nest site</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<Description>Master list of data codes and their translations</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMeasurements</TableName>
+
+	<Description>Biometric measurements</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblOffspring</TableName>
+
+	<Description>Master list of the territory on which individuals hatched</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPesticides</TableName>
+
+	<Description>Pesticide levels in eggs</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteList</TableName>
+
+	<Description>Master list of nest sites</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<Description>Description of every field in each table of the database</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<Description>Description of all tables in the database</Description>
+
+</RECORD>
+</RECORDS>

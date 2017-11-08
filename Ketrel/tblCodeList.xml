@@ -1,0 +1,2491 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<CodeRef>AGESEX</CodeRef>
+
+	<Value>AF</Value>
+
+	<Label>Adult females</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AGESEX</CodeRef>
+
+	<Value>AM</Value>
+
+	<Label>Adult males</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AGESEX</CodeRef>
+
+	<Value>BB</Value>
+
+	<Label>Brown birds: i.e. females or juvenile males</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AGESEX</CodeRef>
+
+	<Value>JF</Value>
+
+	<Label>Juvenile females (up to 31 July in year following hatching)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AGESEX</CodeRef>
+
+	<Value>JM</Value>
+
+	<Label>Juvenile males  (up to 31 July in year following hatching)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AGESEX</CodeRef>
+
+	<Value>JX</Value>
+
+	<Label>Juvenile, unknown sex  (up to 31 July in year following hatching)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AGESTATUS</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>No age information available</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AGESTATUS</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Known to be adult (i.e. older than juvenile) in all records in the database</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AGESTATUS</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Kestrel has a known hatch year</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AREA</CodeRef>
+
+	<Value>A</Value>
+
+	<Label>Arable farmland area, Cambs. England</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AREA</CodeRef>
+
+	<Value>G</Value>
+
+	<Label>Grassland, Eskdalemuir, Scotland</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AREA</CodeRef>
+
+	<Value>M</Value>
+
+	<Label>Mixed farmland area, Leicestershire, England</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AREA</CodeRef>
+
+	<Value>P</Value>
+
+	<Label>Lode Fen, Swaffham Prior, Cambridgeshire</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AREA</CodeRef>
+
+	<Value>S</Value>
+
+	<Label>Southern Scotland (not Eskdalemuir). Records collected by Mick Marquiss and Ian Newton)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>AREA</CodeRef>
+
+	<Value>W</Value>
+
+	<Label>Northamptonshire and Cambridgeshire records collected in another study by Ian Wyllie (Monks Wood)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BARWIDTH</CodeRef>
+
+	<Value>H</Value>
+
+	<Label>Bars go half across feathers</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BARWIDTH</CodeRef>
+
+	<Value>K</Value>
+
+	<Label>'Thick'</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BARWIDTH</CodeRef>
+
+	<Value>N</Value>
+
+	<Label>'Thin'</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BARWIDTH</CodeRef>
+
+	<Value>S</Value>
+
+	<Label>Some bars (details unknown)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>flying, unspecified</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>10</Value>
+
+	<Label>unknown category (original digits 1 & 2 were both 0)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>11</Value>
+
+	<Label>Perched, unspecified</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>12</Value>
+
+	<Label>Just perched</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>13</Value>
+
+	<Label>Perched-hunting</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>14</Value>
+
+	<Label>Preening</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>15</Value>
+
+	<Label>Copulation</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>16</Value>
+
+	<Label>Sitting on ground</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>17</Value>
+
+	<Label>Eating</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>18</Value>
+
+	<Label>Display or combat (on perch or ground)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>19</Value>
+
+	<Label>Radio location, assumed perched</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Directional flight</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Flight-hunting (unspecified)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Hovering</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Hanging (still wings)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>Mix of hovering and 'Hanging'</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>Soaring</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>Display or combat (flying)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAV</CodeRef>
+
+	<Value>9</Value>
+
+	<Label>Radio location, assumed flying</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>No strike</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Unsuccessful strike</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>11</Value>
+
+	<Label>Fighting (physical combat)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>12</Value>
+
+	<Label>Bird is chasing another</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>13</Value>
+
+	<Label>Bird is being chased</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>14</Value>
+
+	<Label>Sexual display</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>15</Value>
+
+	<Label>Territorial display</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Successful strike</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>'Half' strike (didn't hit ground)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Strike, uncertain outcome</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVMODIFIER</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Possible strike</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>No kill or strike</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Invertebrate (unspecified)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>11</Value>
+
+	<Label>Kestrel (Falco tinnunculus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>12</Value>
+
+	<Label>Crow (Corvus corone)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>13</Value>
+
+	<Label>Rook (Corvus frugilegus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>14</Value>
+
+	<Label>Magpie (Pica pica)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>15</Value>
+
+	<Label>Jay (Garrulus glandarius)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>16</Value>
+
+	<Label>Sparrowhawk (Accipiter nisus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>17</Value>
+
+	<Label>Other</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>18</Value>
+
+	<Label>Short-eared owl (Asio flammeus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>19</Value>
+
+	<Label>Unknown species</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Earthworm (Lumbricus terrestris)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Beetle</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Vertebrate (unspecified)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Vole</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>Other Mammal</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>Bird</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BEHAVSPECIES</CodeRef>
+
+	<Value>9</Value>
+
+	<Label>Prey type unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>A</Value>
+
+	<Label>Parent(s) deserted</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>B</Value>
+
+	<Label>Deserted: eggs or young removed (by predators?)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>C</Value>
+
+	<Label>Predation</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>D</Value>
+
+	<Label>Robbed by humans</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>E</Value>
+
+	<Label>Shot or human nest destruction</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>F</Value>
+
+	<Label>Experiment</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>G</Value>
+
+	<Label>Accident by observer</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>H</Value>
+
+	<Label>Nest collapse:stick nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>I</Value>
+
+	<Label>Nest collapse: hole</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>J</Value>
+
+	<Label>Nest tree felled</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>K</Value>
+
+	<Label>Nest flooded</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>L</Value>
+
+	<Label>Nestbox collapse</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>M</Value>
+
+	<Label>Parent died or injured (not shot)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>N</Value>
+
+	<Label>Eggs failed to hatch</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>O</Value>
+
+	<Label>Eggs broken</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>P</Value>
+
+	<Label>Fell from nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>R</Value>
+
+	<Label>Young died at hatch</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>S</Value>
+
+	<Label>Young died in 1st week</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>T</Value>
+
+	<Label>Young died after first week</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>V</Value>
+
+	<Label>Young died (time unknown)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>W</Value>
+
+	<Label>Cause unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDFAILURE</CodeRef>
+
+	<Value>Z</Value>
+
+	<Label>Eggs lost prior to hatch (cause unknown)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>F</Value>
+
+	<Label>First attempt- failed with complete clutch</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>I</Value>
+
+	<Label>First attempt- failed with incomplete clutch</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>L</Value>
+
+	<Label>Failed before clutch complete, did not repeat</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>N</Value>
+
+	<Label>'Normal' attempt</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>O</Value>
+
+	<Label>Non-laying pair</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>R</Value>
+
+	<Label>Repeat attempt after 'natural' failure (ie F or I)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>T</Value>
+
+	<Label>First attempt at nest site that was experimentally erected late in the season</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>U</Value>
+
+	<Label>First attempt at nest site that was experimentally erected late in the season; clutch incomplete</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>V</Value>
+
+	<Label>First attempt, clutch completed then experimentally removed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>W</Value>
+
+	<Label>Repeat attempt following experimental removal of clutch</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>X</Value>
+
+	<Label>First attempt, clutch completed then one/both parents experimetally removed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>Y</Value>
+
+	<Label>First attempt,one/both parents experimetally removed before clutch complete</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BREEDSTATUS</CodeRef>
+
+	<Value>Z</Value>
+
+	<Label>Repeat attempt following removal experiment</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CLUTCHSTATUS</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Number of eggs laid is known</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CLUTCHSTATUS</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Clutch probably laid, but size unkown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CLUTCHSTATUS</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Clutch definately laid, but size unkown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>AGESEX</Value>
+
+	<Label>Codes for age and sex classes</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>AGESTATUS</Value>
+
+	<Label>Codes indicating the level of ageing information available for a kestrel</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>AREA</Value>
+
+	<Label>Codes identifying the Study Area</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>BARWIDTH</Value>
+
+	<Label>Codes for the width of plumage tail bars</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>BEHAV</Value>
+
+	<Label>Codes for behaviours when kestrels were sighted/located</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>BEHAVMODIFIER</Value>
+
+	<Label>Codes for extra information about kestrel behaviours</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>BEHAVSPECIES</Value>
+
+	<Label>Codes for any other species involved in a behavioural interaction</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>BREEDFAILURE</Value>
+
+	<Label>Codes for the reasons a breeding attempt failed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>BREEDSTATUS</Value>
+
+	<Label>Codes for kestrel breeding status</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>CLUTCHSTATUS</Value>
+
+	<Label>Codes for level of information available about a clutch</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>CODEREF</Value>
+
+	<Label>Codes used to indicate the set of codes associated with a particular field</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>FLEDGESTATUS</Value>
+
+	<Label>Codes for level of information available about fledgling numbers</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>HATCHSTATUS</Value>
+
+	<Label>Codes for level of information available about nestling numbers</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>MOULTBODY</Value>
+
+	<Label>Codes indicating the degree of feather moult on the body</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>MOULTCOLOUR</Value>
+
+	<Label>Codes indicating the colour of feathers during the moult</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>MOULTFLANK</Value>
+
+	<Label>Codes indicating the degree of feather moult on the flanks</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>NESTDETAIL</Value>
+
+	<Label>Codes providing greater detail about the type/contruction of a nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>NESTSHELTER</Value>
+
+	<Label>Codes indicating the degree of shelter from bad weather experienced by a nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>NESTTYPE</Value>
+
+	<Label>Codes for the type/contruction of a nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>OCCDETAILS</Value>
+
+	<Label>Codes prviding detailed information about the occupancy of a nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>OCCUSABILITY</Value>
+
+	<Label>Codes indicating whether a nest was usable by kestrels</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>PECTORALCOND</Value>
+
+	<Label>Codes for the thickness of the pectoral muscle/fat layer</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>PELLETSPP</Value>
+
+	<Label>Codes for the species of prey found in pellets</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>RANGETYPE</Value>
+
+	<Label>Codes indicating whether a kestrel was located visually or by telemetry</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>SEASON</Value>
+
+	<Label>Codes for seasons of the year</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>SEX</Value>
+
+	<Label>Codes for the sex of an animal</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>SITETYPE</Value>
+
+	<Label>Codes indicating whether a site was used for roosting or nesting</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>VOLEAGE</Value>
+
+	<Label>Codes indicating the age of small mammals caught in snap-traps</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>VOLEBREEDSTATUS</Value>
+
+	<Label>Codes for the breeding status of small mammals caught in snap-traps</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>VOLECOND</Value>
+
+	<Label>Codes for the breeding condition of small mammals caught in snap-traps</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>VOLENIPPLE</Value>
+
+	<Label>Codes for the lactation status of female small mammals caught in snap-traps</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>VOLESPP</Value>
+
+	<Label>Codes for the species of small mammals caught in snap-traps</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CODEREF</CodeRef>
+
+	<Value>YESNO</Value>
+
+	<Label>Codes used to indicate Boolean True/False</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>FLEDGESTATUS</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Number of young fledged is known</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>FLEDGESTATUS</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Some young probably fledged, but number unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>FLEDGESTATUS</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Some young definitely fledged, but number unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>HATCHSTATUS</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Number of chicks hatched is known</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>HATCHSTATUS</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Some chicks probably hatched, but number unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>HATCHSTATUS</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Some chicks definitely hatched, but number unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTBODY</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>No new feather</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTBODY</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Some new feathers</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTBODY</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>50% new feathers</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTBODY</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Mostly new feather</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTBODY</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>All new feathers</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTCOLOUR</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Purge grey</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTCOLOUR</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Grey, slight brown cast</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTCOLOUR</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Grey/brown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTCOLOUR</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Brown, slight grey cast</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTCOLOUR</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Pure brown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTFLANK</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>All single waisted</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTFLANK</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Some double waisted</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTFLANK</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>50% double waisted</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTFLANK</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Most double waisted</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MOULTFLANK</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>All double waisted</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>Unknown type/species</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Ash (Fraxinus excelsior)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>11</Value>
+
+	<Label>Crow (Corvus corone)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>12</Value>
+
+	<Label>Rook (Corvus frugilegus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>13</Value>
+
+	<Label>Magpie (Pica pica)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>14</Value>
+
+	<Label>Pigeon (Columba livia)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>15</Value>
+
+	<Label>Squirrel (Sciurus carolinensis)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Oak (Quercus spp.)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>21</Value>
+
+	<Label>Farm building</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>22</Value>
+
+	<Label>Church</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>23</Value>
+
+	<Label>Urban</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>24</Value>
+
+	<Label>Straw inside barn</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>25</Value>
+
+	<Label>Straw outdoors</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Elm</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>31</Value>
+
+	<Label>Natural cliff</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>32</Value>
+
+	<Label>Quarry</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>41</Value>
+
+	<Label>Artificial stick nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>42</Value>
+
+	<Label>Open box on tree</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>43</Value>
+
+	<Label>Open box on building</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>44</Value>
+
+	<Label>Half-open box on tree</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>45</Value>
+
+	<Label>Half-open box on building</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>46</Value>
+
+	<Label>Long box on tree</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>47</Value>
+
+	<Label>Long box on building</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Poplar (Populus spp.)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>Sycamore (Acer pseudoplatanus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>Beech (Fagus sylvatica)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTDETAIL</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>Chestnut (Aesculus hippocastanum)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTSHELTER</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Very high shelter from weather</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTSHELTER</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>High shelter from weather</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTSHELTER</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Medium shelter from weather</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTSHELTER</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Low shelter from weather</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTSHELTER</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Very low shelter from weather</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>Unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Tree hole, small enclosed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Tree hole, large enclosed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Tree hole, small open</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Tree hole, large open</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Stick nest in tree (nest made by another species)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>Nest in building</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>Nest on rock face</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>Artificial nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>NESTTYPE</CodeRef>
+
+	<Value>9</Value>
+
+	<Label>Ground nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>Occupancy unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Temporarily flooded</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>10</Value>
+
+	<Label>Species unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>11</Value>
+
+	<Label>Tawny owl (Strix aluco)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>12</Value>
+
+	<Label>Barn owl (Tyto Alba)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>13</Value>
+
+	<Label>Long-eared owl (Asio otus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>14</Value>
+
+	<Label>Little owl (Athene noctua)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>15</Value>
+
+	<Label>Squirrel (Sciurus carolinensis)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>16</Value>
+
+	<Label>Jackdaw (Corvus monedula)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>17</Value>
+
+	<Label>Pigeon/dove (Columba livia)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>18</Value>
+
+	<Label>Duck</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Temporarily collapsed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>20</Value>
+
+	<Label>nest available early in season</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>21</Value>
+
+	<Label>late-nest experiment</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>22</Value>
+
+	<Label>removal experiment, second attempt</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>23</Value>
+
+	<Label>natural repeat</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>24</Value>
+
+	<Label>first attempt, removal experiment</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Other temporary reason</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Permanent collapse</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Branch gone</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>Tree blown down</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>Tree felled</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>other natural causes</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCDETAILS</CodeRef>
+
+	<Value>9</Value>
+
+	<Label>human causes</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>Unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Not usable by kestrels</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Used by other species before before kestrels and so not considered usable</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Usable, not occupied</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>usable, scraped by kestrels?</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>usable, scraped, not laid in</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>laid in by kestrels</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>young fledged</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>OCCUSABILITY</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>definitely occupied, outcome unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PECTORALCOND</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Very thin</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PECTORALCOND</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Thin</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PECTORALCOND</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Medium</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PECTORALCOND</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Fat</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PECTORALCOND</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Very fat</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Apodemus spp.</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>10</Value>
+
+	<Label>Flea</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>11</Value>
+
+	<Label>Frog (Rana temporaria)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>12</Value>
+
+	<Label>Grass/Veg</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>13</Value>
+
+	<Label>Harvest Mouse (Micromys minutus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>14</Value>
+
+	<Label>Hemiptera</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>15</Value>
+
+	<Label>House Mouse (Mus musculus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>16</Value>
+
+	<Label>Lizard</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>17</Value>
+
+	<Label>Field vole (Microtus agrestis)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>18</Value>
+
+	<Label>Millipede</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>19</Value>
+
+	<Label>Orthoptera</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Beetle, Carabid</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>20</Value>
+
+	<Label>Other Beetle Larva</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>21</Value>
+
+	<Label>Other Insect</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>22</Value>
+
+	<Label>Other Mammal</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>23</Value>
+
+	<Label>Other Unspecified</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>24</Value>
+
+	<Label>Rabbit (Oryctolagus cunniculus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>25</Value>
+
+	<Label>Rat (Rattus sp)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>26</Value>
+
+	<Label>Shrew (Sorex spp.)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>27</Value>
+
+	<Label>Snail</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>28</Value>
+
+	<Label>Spider</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>29</Value>
+
+	<Label>Unidentified Vole Spp</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Beetle, Scarabid</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>30</Value>
+
+	<Label>Water Vole (Arvicola terrestris)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>31</Value>
+
+	<Label>Weasel (Mustela nivalis)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>32</Value>
+
+	<Label>Woodlouse</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Unidentified Beetle</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Bird</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>Caterpillar</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>Bank vole (Clethrionomys glareolus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>Earthworm (Lumbricus terrestris)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>PELLETSPP</CodeRef>
+
+	<Value>9</Value>
+
+	<Label>Earwig</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>RANGETYPE</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>Located by sight</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>RANGETYPE</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Radio telemetry, bird not seen</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>RANGETYPE</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Radio telemetry, bird seen</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>RANGETYPE</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Radio telemetry, at roost</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>RANGETYPE</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Bird in trap</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SEASON</CodeRef>
+
+	<Value>A</Value>
+
+	<Label>Autumn (Sept-Nov)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SEASON</CodeRef>
+
+	<Value>S</Value>
+
+	<Label>Spring (Mar-May)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SEASON</CodeRef>
+
+	<Value>W</Value>
+
+	<Label>Winter (Dec-Feb)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SEX</CodeRef>
+
+	<Value>B</Value>
+
+	<Label>Brown birds: i.e. females or juvenile males</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SEX</CodeRef>
+
+	<Value>F</Value>
+
+	<Label>Female</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SEX</CodeRef>
+
+	<Value>M</Value>
+
+	<Label>Male</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SITETYPE</CodeRef>
+
+	<Value>B</Value>
+
+	<Label>Roost and Nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SITETYPE</CodeRef>
+
+	<Value>N</Value>
+
+	<Label>Nest</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>SITETYPE</CodeRef>
+
+	<Value>R</Value>
+
+	<Label>Roost</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLEAGE</CodeRef>
+
+	<Value>A</Value>
+
+	<Label>Adult (full grown)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLEBREEDSTATUS</CodeRef>
+
+	<Value>B</Value>
+
+	<Label>Breeding (testes scrotal of vagina perforated)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLEBREEDSTATUS</CodeRef>
+
+	<Value>L</Value>
+
+	<Label>Lactating (nipples erect)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLEBREEDSTATUS</CodeRef>
+
+	<Value>N</Value>
+
+	<Label>Non-breeding</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLEBREEDSTATUS</CodeRef>
+
+	<Value>P</Value>
+
+	<Label>Pregnant</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLECOND</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Testes Abdominal</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLECOND</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Testes scrotal</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLECOND</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>intact hymen</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLECOND</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Perforate hymen</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLECOND</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Perforate hymen with plug</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLENIPPLE</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Nipples hidden</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLENIPPLE</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Nipples protruding</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLENIPPLE</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Lactating</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Apodemus spp.</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>10</Value>
+
+	<Label>Other</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Water vole (Arvicola terrestris)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Field vole (Microtus agrestis)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Bank vole (Clethrionomys glareolus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>House mouse (Mus musculus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>Harvest mouse (Micromys minutus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>Common Shrew (Sorex araneus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>Pygmy shrew (Sorex minutus)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>9</Value>
+
+	<Label>Water Shrew (Neomys fodiens)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>VOLESPP</CodeRef>
+
+	<Value>J</Value>
+
+	<Label>Juvenile</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>YESNO</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>No</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>YESNO</CodeRef>
+
+	<Value>-1</Value>
+
+	<Label>Yes</Label>
+
+</RECORD>
+</RECORDS>

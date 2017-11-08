@@ -1,0 +1,1865 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<RookeryID>17</RookeryID>
+
+	<AreaID>1</AreaID>
+
+	<AreaName>Foveran House</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>990</Easting>
+
+	<Northing>240</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>31</RookeryID>
+
+	<AreaID>2</AreaID>
+
+	<AreaName>Menie House</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>974</Easting>
+
+	<Northing>202</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>32</RookeryID>
+
+	<AreaID>3</AreaID>
+
+	<AreaName>Middlemuir</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>936</Easting>
+
+	<Northing>207</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>13</RookeryID>
+
+	<AreaID>4</AreaID>
+
+	<AreaName>Cannahars</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>916</Easting>
+
+	<Northing>205</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>28</RookeryID>
+
+	<AreaID>5</AreaID>
+
+	<AreaName>Mains of Knapperna</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>887</Easting>
+
+	<Northing>240</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>12</RookeryID>
+
+	<AreaID>6</AreaID>
+
+	<AreaName>Cairnfechil</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>863</Easting>
+
+	<Northing>264</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>41</RookeryID>
+
+	<AreaID>7</AreaID>
+
+	<AreaName>Pittrichie</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>854</Easting>
+
+	<Northing>257</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>33</RookeryID>
+
+	<AreaID>8</AreaID>
+
+	<AreaName>Mill of Auchenuiue</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>842</Easting>
+
+	<Northing>255</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>5</RookeryID>
+
+	<AreaID>9</AreaID>
+
+	<AreaName>Auquhorthies</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>835</Easting>
+
+	<Northing>298</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>10</RookeryID>
+
+	<AreaID>10</AreaID>
+
+	<AreaName>Blairfowl</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>805</Easting>
+
+	<Northing>385</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>16</RookeryID>
+
+	<AreaID>11</AreaID>
+
+	<AreaName>Fetterletter</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>792</Easting>
+
+	<Northing>382</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>39</RookeryID>
+
+	<AreaID>12</AreaID>
+
+	<AreaName>Northtown</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>845</Easting>
+
+	<Northing>495</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>19</RookeryID>
+
+	<AreaID>13</AreaID>
+
+	<AreaName>Greenbrae</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>850</Easting>
+
+	<Northing>486</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>11</RookeryID>
+
+	<AreaID>14</AreaID>
+
+	<AreaName>Cairnbanno</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>850</Easting>
+
+	<Northing>443</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>37</RookeryID>
+
+	<AreaID>15</AreaID>
+
+	<AreaName>Newmill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>855</Easting>
+
+	<Northing>438</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>8</RookeryID>
+
+	<AreaID>16</AreaID>
+
+	<AreaName>Balquhindachy</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>851</Easting>
+
+	<Northing>431</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>3</RookeryID>
+
+	<AreaID>17</AreaID>
+
+	<AreaName>Asleid House</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>845</Easting>
+
+	<Northing>417</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>1</RookeryID>
+
+	<AreaID>18</AreaID>
+
+	<AreaName>Arnage Castle</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>932</Easting>
+
+	<Northing>375</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>45</RookeryID>
+
+	<AreaID>19</AreaID>
+
+	<AreaName>St. Fidamnans Chapel</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>27</Easting>
+
+	<Northing>329</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>29</RookeryID>
+
+	<AreaID>20</AreaID>
+
+	<AreaName>Mains of Leask</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>26</Easting>
+
+	<Northing>333</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>40</RookeryID>
+
+	<AreaID>21</AreaID>
+
+	<AreaName>Pitlurg</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>25</Easting>
+
+	<Northing>330</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>2</RookeryID>
+
+	<AreaID>22</AreaID>
+
+	<AreaName>Artrochie School</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>1</Easting>
+
+	<Northing>320</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>4</RookeryID>
+
+	<AreaID>23</AreaID>
+
+	<AreaName>Auchmacoy Station</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>994</Easting>
+
+	<Northing>317</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>24</RookeryID>
+
+	<AreaID>24</AreaID>
+
+	<AreaName>Home Farm</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>997</Easting>
+
+	<Northing>311</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>44</RookeryID>
+
+	<AreaID>25</AreaID>
+
+	<AreaName>South Atrochie</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>4</Easting>
+
+	<Northing>301</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>27</RookeryID>
+
+	<AreaID>26</AreaID>
+
+	<AreaName>Macharmuir</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>997</Easting>
+
+	<Northing>297</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>9</RookeryID>
+
+	<AreaID>27</AreaID>
+
+	<AreaName>Beaes of Waterton</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>983</Easting>
+
+	<Northing>302</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>25</RookeryID>
+
+	<AreaID>28</AreaID>
+
+	<AreaName>Kirkton, Logie Buchan</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>980</Easting>
+
+	<Northing>300</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>23</RookeryID>
+
+	<AreaID>29</AreaID>
+
+	<AreaName>Hillhead of Ferhil</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>953</Easting>
+
+	<Northing>294</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>14</RookeryID>
+
+	<AreaID>30</AreaID>
+
+	<AreaName>Claymires</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>942</Easting>
+
+	<Northing>285</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>43</RookeryID>
+
+	<AreaID>31</AreaID>
+
+	<AreaName>Skenes Belt</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>915</Easting>
+
+	<Northing>290</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>22</RookeryID>
+
+	<AreaID>32</AreaID>
+
+	<AreaName>Hillhead of Esslemont</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>911</Easting>
+
+	<Northing>288</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>34</RookeryID>
+
+	<AreaID>33</AreaID>
+
+	<AreaName>Milton of Ardlethen</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>915</Easting>
+
+	<Northing>306</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>47</RookeryID>
+
+	<AreaID>34</AreaID>
+
+	<AreaName>Northfield</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>915</Easting>
+
+	<Northing>232</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>47</RookeryID>
+
+	<AreaID>35</AreaID>
+
+	<AreaName>Woodside</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>918</Easting>
+
+	<Northing>231</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>47</RookeryID>
+
+	<AreaID>36</AreaID>
+
+	<AreaName>Tillery Burn 1</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>923</Easting>
+
+	<Northing>225</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>47</RookeryID>
+
+	<AreaID>37</AreaID>
+
+	<AreaName>Drive and Gate</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>913</Easting>
+
+	<Northing>226</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>47</RookeryID>
+
+	<AreaID>38</AreaID>
+
+	<AreaName>Home Farm</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>917</Easting>
+
+	<Northing>227</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>47</RookeryID>
+
+	<AreaID>39</AreaID>
+
+	<AreaName>Tillery Burn 2</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>919</Easting>
+
+	<Northing>224</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>47</RookeryID>
+
+	<AreaID>40</AreaID>
+
+	<AreaName>Tillery Burn 3</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>913</Easting>
+
+	<Northing>224</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>48</RookeryID>
+
+	<AreaID>41</AreaID>
+
+	<AreaName>First Beech Avenue (East)</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>890</Easting>
+
+	<Northing>265</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>48</RookeryID>
+
+	<AreaID>42</AreaID>
+
+	<AreaName>Second Beech Avenue</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>888</Easting>
+
+	<Northing>265</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>48</RookeryID>
+
+	<AreaID>43</AreaID>
+
+	<AreaName>Third Beech Avenue (West)</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>885</Easting>
+
+	<Northing>262</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>30</RookeryID>
+
+	<AreaID>44</AreaID>
+
+	<AreaName>Near Moss Head</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>806</Easting>
+
+	<Northing>288</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>30</RookeryID>
+
+	<AreaID>45</AreaID>
+
+	<AreaName>St. Mary's Chapel</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>810</Easting>
+
+	<Northing>298</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>30</RookeryID>
+
+	<AreaID>46</AreaID>
+
+	<AreaName>Main Gate</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>810</Easting>
+
+	<Northing>285</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>30</RookeryID>
+
+	<AreaID>47</AreaID>
+
+	<AreaName>Fraserburgh Rd</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>815</Easting>
+
+	<Northing>288</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>30</RookeryID>
+
+	<AreaID>48</AreaID>
+
+	<AreaName>Hillhead of Lightnot</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>805</Easting>
+
+	<Northing>299</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>38</RookeryID>
+
+	<AreaID>49</AreaID>
+
+	<AreaName>Road Junction</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>707</Easting>
+
+	<Northing>331</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>38</RookeryID>
+
+	<AreaID>50</AreaID>
+
+	<AreaName>Main Road</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>705</Easting>
+
+	<Northing>326</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>38</RookeryID>
+
+	<AreaID>51</AreaID>
+
+	<AreaName>Shop and Church</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>705</Easting>
+
+	<Northing>330</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>38</RookeryID>
+
+	<AreaID>52</AreaID>
+
+	<AreaName>Hillocks Crossroads</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>713</Easting>
+
+	<Northing>325</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>53</AreaID>
+
+	<AreaName>Near Kinbroom</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>716</Easting>
+
+	<Northing>345</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>54</AreaID>
+
+	<AreaName>Kinbroom Farm</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>716</Easting>
+
+	<Northing>349</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>55</AreaID>
+
+	<AreaName>Rogerleat</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>709</Easting>
+
+	<Northing>365</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>56</AreaID>
+
+	<AreaName>Blackburn Wood</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>714</Easting>
+
+	<Northing>355</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>57</AreaID>
+
+	<AreaName>Home Farm</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>709</Easting>
+
+	<Northing>356</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>58</AreaID>
+
+	<AreaName>South of Maryfield</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>707</Easting>
+
+	<Northing>357</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>59</AreaID>
+
+	<AreaName>Hill of Wells</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>705</Easting>
+
+	<Northing>370</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>60</AreaID>
+
+	<AreaName>Woods of Blackford</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>697</Easting>
+
+	<Northing>367</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>42</RookeryID>
+
+	<AreaID>61</AreaID>
+
+	<AreaName>Drummsimnie</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>701</Easting>
+
+	<Northing>376</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>62</AreaID>
+
+	<AreaName>Northgate</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>763</Easting>
+
+	<Northing>397</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>63</AreaID>
+
+	<AreaName>Between Gate and Quarry</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>762</Easting>
+
+	<Northing>397</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>64</AreaID>
+
+	<AreaName>Quarry to Beech</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>760</Easting>
+
+	<Northing>395</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>65</AreaID>
+
+	<AreaName>Between Mid Haddo & High Spruce</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>759</Easting>
+
+	<Northing>387</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>66</AreaID>
+
+	<AreaName>Silver Firs Drive</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>762</Easting>
+
+	<Northing>397</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>67</AreaID>
+
+	<AreaName>South of Estate Office</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>759</Easting>
+
+	<Northing>390</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>68</AreaID>
+
+	<AreaName>Mid Haddo</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>757</Easting>
+
+	<Northing>386</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>69</AreaID>
+
+	<AreaName>High Spruce</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>759</Easting>
+
+	<Northing>397</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>18</RookeryID>
+
+	<AreaID>70</AreaID>
+
+	<AreaName>Haddo Haugh</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>757</Easting>
+
+	<Northing>383</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>71</AreaID>
+
+	<AreaName>Maud Road</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>907</Easting>
+
+	<Northing>445</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>72</AreaID>
+
+	<AreaName>Bog Hole</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>907</Easting>
+
+	<Northing>440</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>73</AreaID>
+
+	<AreaName>Bend in Road</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>911</Easting>
+
+	<Northing>434</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>74</AreaID>
+
+	<AreaName>Near Railway Greenbae</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>919</Easting>
+
+	<Northing>441</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>75</AreaID>
+
+	<AreaName>Greenbae Track</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>918</Easting>
+
+	<Northing>445</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>76</AreaID>
+
+	<AreaName>Railway Bank</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>923</Easting>
+
+	<Northing>427</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>77</AreaID>
+
+	<AreaName>Whin Hill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>915</Easting>
+
+	<Northing>430</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>78</AreaID>
+
+	<AreaName>Ashy Folds</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>913</Easting>
+
+	<Northing>445</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>36</RookeryID>
+
+	<AreaID>79</AreaID>
+
+	<AreaName>Undocumented</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>904</Easting>
+
+	<Northing>431</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>80</AreaID>
+
+	<AreaName>New Trees</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>875</Easting>
+
+	<Northing>347</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>81</AreaID>
+
+	<AreaName>Northeast Corner Wall</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>884</Easting>
+
+	<Northing>346</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>82</AreaID>
+
+	<AreaName>Corner to Lake</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>882</Easting>
+
+	<Northing>347</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>83</AreaID>
+
+	<AreaName>At Bridge</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>879</Easting>
+
+	<Northing>348</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>84</AreaID>
+
+	<AreaName>North Pine Roundel</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>878</Easting>
+
+	<Northing>345</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>85</AreaID>
+
+	<AreaName>2nd Pine Roundel</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>877</Easting>
+
+	<Northing>343</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>86</AreaID>
+
+	<AreaName>Line of Alder, Elm etc.</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>880</Easting>
+
+	<Northing>343</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>87</AreaID>
+
+	<AreaName>Pines Along Wall</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>883</Easting>
+
+	<Northing>340</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>88</AreaID>
+
+	<AreaName>250 Yards From End of Wall</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>881</Easting>
+
+	<Northing>334</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>89</AreaID>
+
+	<AreaName>Outside Wall</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>880</Easting>
+
+	<Northing>332</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>90</AreaID>
+
+	<AreaName>Sycamores</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>879</Easting>
+
+	<Northing>334</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>91</AreaID>
+
+	<AreaName>North of Wire Fence</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>875</Easting>
+
+	<Northing>339</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>92</AreaID>
+
+	<AreaName>Ornamental Gate</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>876</Easting>
+
+	<Northing>343</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>93</AreaID>
+
+	<AreaName>Elm Roundel</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>881</Easting>
+
+	<Northing>345</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>94</AreaID>
+
+	<AreaName>Raxton Wood</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>877</Easting>
+
+	<Northing>333</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>20</RookeryID>
+
+	<AreaID>95</AreaID>
+
+	<AreaName>Tall Spruce Trees</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>879</Easting>
+
+	<Northing>349</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>15</RookeryID>
+
+	<AreaID>96</AreaID>
+
+	<AreaName>Quarry</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>937</Easting>
+
+	<Northing>305</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>15</RookeryID>
+
+	<AreaID>97</AreaID>
+
+	<AreaName>Rookery Belt</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>936</Easting>
+
+	<Northing>305</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>15</RookeryID>
+
+	<AreaID>98</AreaID>
+
+	<AreaName>Rookery</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>935</Easting>
+
+	<Northing>305</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>15</RookeryID>
+
+	<AreaID>99</AreaID>
+
+	<AreaName>Rookery Extension to Craigie Hill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>925</Easting>
+
+	<Northing>304</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>15</RookeryID>
+
+	<AreaID>100</AreaID>
+
+	<AreaName>Meiklemill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>944</Easting>
+
+	<Northing>303</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>15</RookeryID>
+
+	<AreaID>101</AreaID>
+
+	<AreaName>Mains Clump</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>939</Easting>
+
+	<Northing>298</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>15</RookeryID>
+
+	<AreaID>102</AreaID>
+
+	<AreaName>Deciduous Quarry</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>940</Easting>
+
+	<Northing>303</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>15</RookeryID>
+
+	<AreaID>103</AreaID>
+
+	<AreaName>Deciduous Meiklemill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>943</Easting>
+
+	<Northing>304</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>7</RookeryID>
+
+	<AreaID>104</AreaID>
+
+	<AreaName>Balmedie</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>967</Easting>
+
+	<Northing>186</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>6</RookeryID>
+
+	<AreaID>105</AreaID>
+
+	<AreaName>Backhill of Overhill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>929</Easting>
+
+	<Northing>182</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>26</RookeryID>
+
+	<AreaID>106</AreaID>
+
+	<AreaName>Longdrum</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>930</Easting>
+
+	<Northing>174</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>50</RookeryID>
+
+	<AreaID>107</AreaID>
+
+	<AreaName>White Myres</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>744</Easting>
+
+	<Northing>306</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>108</AreaID>
+
+	<AreaName>South of Mill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>858</Easting>
+
+	<Northing>212</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>109</AreaID>
+
+	<AreaName>West of Mill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>855</Easting>
+
+	<Northing>213</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>110</AreaID>
+
+	<AreaName>Sittyton</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>856</Easting>
+
+	<Northing>208</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>111</AreaID>
+
+	<AreaName>St. Mary's Well</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>862</Easting>
+
+	<Northing>211</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>112</AreaID>
+
+	<AreaName>Near Front House</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>862</Easting>
+
+	<Northing>209</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>113</AreaID>
+
+	<AreaName>Lake</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>868</Easting>
+
+	<Northing>205</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>114</AreaID>
+
+	<AreaName>Torryleith</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>879</Easting>
+
+	<Northing>204</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>115</AreaID>
+
+	<AreaName>Park</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>865</Easting>
+
+	<Northing>208</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>46</RookeryID>
+
+	<AreaID>116</AreaID>
+
+	<AreaName>Undocumented</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>864</Easting>
+
+	<Northing>214</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>35</RookeryID>
+
+	<AreaID>117</AreaID>
+
+	<AreaName>Castle / Lake</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>766</Easting>
+
+	<Northing>284</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>35</RookeryID>
+
+	<AreaID>118</AreaID>
+
+	<AreaName>Netherton</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>762</Easting>
+
+	<Northing>288</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>119</AreaID>
+
+	<AreaName>Crow Wood Ext.</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>747</Easting>
+
+	<Northing>474</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>120</AreaID>
+
+	<AreaName>Gate and Drive</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>747</Easting>
+
+	<Northing>467</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>121</AreaID>
+
+	<AreaName>Old Mill Belt</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>749</Easting>
+
+	<Northing>469</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>122</AreaID>
+
+	<AreaName>West of Gravel Pit</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>752</Easting>
+
+	<Northing>465</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>123</AreaID>
+
+	<AreaName>Old Lodge</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>745</Easting>
+
+	<Northing>475</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>124</AreaID>
+
+	<AreaName>Near Castle Hill</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>748</Easting>
+
+	<Northing>461</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>125</AreaID>
+
+	<AreaName>Lakes of Hatton</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>756</Easting>
+
+	<Northing>473</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>126</AreaID>
+
+	<AreaName>Crow Wood</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>749</Easting>
+
+	<Northing>473</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>21</RookeryID>
+
+	<AreaID>127</AreaID>
+
+	<AreaName>Lescraigie</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>750</Easting>
+
+	<Northing>460</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>49</RookeryID>
+
+	<AreaID>128</AreaID>
+
+	<AreaName>Auquarney</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>25</Easting>
+
+	<Northing>380</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>49</RookeryID>
+
+	<AreaID>129</AreaID>
+
+	<AreaName>Yonderton</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>38</Easting>
+
+	<Northing>378</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>49</RookeryID>
+
+	<AreaID>130</AreaID>
+
+	<AreaName>Aldie</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>70</Easting>
+
+	<Northing>399</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>49</RookeryID>
+
+	<AreaID>131</AreaID>
+
+	<AreaName>Cruden Bay</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>93</Easting>
+
+	<Northing>367</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>51</RookeryID>
+
+	<AreaID>132</AreaID>
+
+	<AreaName>Station Rookery</AreaName>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>996</Easting>
+
+	<Northing>317</Northing>
+
+</RECORD>
+<RECORD>
+	<RookeryID>52</RookeryID>
+
+	<AreaID>133</AreaID>
+
+	<AreaName>School Rookery</AreaName>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>1</Easting>
+
+	<Northing>321</Northing>
+
+</RECORD>
+</RECORDS>

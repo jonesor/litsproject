@@ -1,0 +1,3615 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<RowID>1</RowID>
+
+	<SiteCode>CROSSR</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>2</RowID>
+
+	<SiteCode>TICKEN</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>3</RowID>
+
+	<SiteCode>TICPKB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>4</RowID>
+
+	<SiteCode>TICKPK</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>5</RowID>
+
+	<SiteCode>MILLF1</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>6</RowID>
+
+	<SiteCode>MILLF2</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>7</RowID>
+
+	<SiteCode>TICKDR</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>2</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>8</RowID>
+
+	<SiteCode>TICLDN</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>4</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>9</RowID>
+
+	<SiteCode>TICLFM</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>10</RowID>
+
+	<SiteCode>TICLDW</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>11</RowID>
+
+	<SiteCode>TICKSL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>12</RowID>
+
+	<SiteCode>GRIFTK</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>13</RowID>
+
+	<SiteCode>SYKEGL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>6</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>14</RowID>
+
+	<SiteCode>TROUTH</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>15</RowID>
+
+	<SiteCode>EMPSTA</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>16</RowID>
+
+	<SiteCode>EMPWIL</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>17</RowID>
+
+	<SiteCode>SHACK1</SiteCode>
+
+	<NestType>0</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>18</RowID>
+
+	<SiteCode>SHAKSN</SiteCode>
+
+	<NestType>0</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>19</RowID>
+
+	<SiteCode>SHACK2</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>20</RowID>
+
+	<SiteCode>WILDLW</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>21</RowID>
+
+	<SiteCode>WILDLD</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>22</RowID>
+
+	<SiteCode>WILDLE</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>5</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>23</RowID>
+
+	<SiteCode>WILDE2</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>5</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>24</RowID>
+
+	<SiteCode>SCOUTH</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>25</RowID>
+
+	<SiteCode>HUNTF1</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>2</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>26</RowID>
+
+	<SiteCode>HUNTF2</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>27</RowID>
+
+	<SiteCode>HUNTF3</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>28</RowID>
+
+	<SiteCode>HUNTF4</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>29</RowID>
+
+	<SiteCode>TINROK</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>30</RowID>
+
+	<SiteCode>NORMLW</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>31</RowID>
+
+	<SiteCode>NORMPK</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>32</RowID>
+
+	<SiteCode>NEWOOD</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>33</RowID>
+
+	<SiteCode>ELLIWP</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>34</RowID>
+
+	<SiteCode>GRATQY</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>35</RowID>
+
+	<SiteCode>FLINTS</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>36</RowID>
+
+	<SiteCode>OHLBAD</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>37</RowID>
+
+	<SiteCode>OHLBRN</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>38</RowID>
+
+	<SiteCode>OHLOWL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>39</RowID>
+
+	<SiteCode>LANESF</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>40</RowID>
+
+	<SiteCode>LANESB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>41</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>41</RowID>
+
+	<SiteCode>KETQYB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>42</RowID>
+
+	<SiteCode>KETQYA</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>43</RowID>
+
+	<SiteCode>PITLAN</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>44</RowID>
+
+	<SiteCode>KETPAT</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>45</RowID>
+
+	<SiteCode>KETFPA</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>46</RowID>
+
+	<SiteCode>KETFPE</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>47</RowID>
+
+	<SiteCode>KEBULL</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>48</RowID>
+
+	<SiteCode>KETWML</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>49</RowID>
+
+	<SiteCode>MAKEYS</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>50</RowID>
+
+	<SiteCode>WATSPY</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>51</RowID>
+
+	<SiteCode>WWAREN</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>5</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>52</RowID>
+
+	<SiteCode>RAFSWK</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>53</RowID>
+
+	<SiteCode>LYNDBA</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>54</RowID>
+
+	<SiteCode>TOPHLA</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>55</RowID>
+
+	<SiteCode>TOPHLO</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>2</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>56</RowID>
+
+	<SiteCode>LYNWOD</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>2</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>57</RowID>
+
+	<SiteCode>LYNDSH</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>58</RowID>
+
+	<SiteCode>WINGRK</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>59</RowID>
+
+	<SiteCode>GGBARB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>60</RowID>
+
+	<SiteCode>GGBARE</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>61</RowID>
+
+	<SiteCode>GGBARW</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>62</RowID>
+
+	<SiteCode>WINGRB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>63</RowID>
+
+	<SiteCode>WINGRA</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>64</RowID>
+
+	<SiteCode>SEWVAS</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>65</RowID>
+
+	<SiteCode>SEWVEN</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>66</RowID>
+
+	<SiteCode>GLEBEB</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>67</RowID>
+
+	<SiteCode>GLEBES</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>11</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>68</RowID>
+
+	<SiteCode>GLEBEA</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>69</RowID>
+
+	<SiteCode>LUFFPS</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>6</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>70</RowID>
+
+	<SiteCode>LUFFPW</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>5</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>71</RowID>
+
+	<SiteCode>LUFPOL</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>72</RowID>
+
+	<SiteCode>QFMELM</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>73</RowID>
+
+	<SiteCode>QFMJAC</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>74</RowID>
+
+	<SiteCode>QFMASH</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>75</RowID>
+
+	<SiteCode>QFMBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>76</RowID>
+
+	<SiteCode>CUCKLC</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>11</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>77</RowID>
+
+	<SiteCode>CUCKLA</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>78</RowID>
+
+	<SiteCode>CUCKLB</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>79</RowID>
+
+	<SiteCode>CUCKLE</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>80</RowID>
+
+	<SiteCode>BARROB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>81</RowID>
+
+	<SiteCode>BEAVBK</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>82</RowID>
+
+	<SiteCode>BEAVBA</SiteCode>
+
+	<NestType>0</NestType>
+
+	<NestDetail>0</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>83</RowID>
+
+	<SiteCode>BEAVBB</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>24</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>84</RowID>
+
+	<SiteCode>COLLWB</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>24</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>85</RowID>
+
+	<SiteCode>COLLWE</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>86</RowID>
+
+	<SiteCode>COLWTS</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>24</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>87</RowID>
+
+	<SiteCode>COLFPN</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>88</RowID>
+
+	<SiteCode>COLFPA</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>89</RowID>
+
+	<SiteCode>COLFPB</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>90</RowID>
+
+	<SiteCode>COLFPC</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>91</RowID>
+
+	<SiteCode>HOPKQY</SiteCode>
+
+	<NestType>7</NestType>
+
+	<NestDetail>32</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>92</RowID>
+
+	<SiteCode>FOXCOV</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>93</RowID>
+
+	<SiteCode>RADIOH</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>94</RowID>
+
+	<SiteCode>SLUFWM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>95</RowID>
+
+	<SiteCode>SETTFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>96</RowID>
+
+	<SiteCode>PILTWT</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>44</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>97</RowID>
+
+	<SiteCode>PILTIP</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>98</RowID>
+
+	<SiteCode>WINGBA</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>99</RowID>
+
+	<SiteCode>GLASTM</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>100</RowID>
+
+	<SiteCode>GLASTB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>101</RowID>
+
+	<SiteCode>ELMSBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>102</RowID>
+
+	<SiteCode>MORCSW</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>103</RowID>
+
+	<SiteCode>MORRAA</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>104</RowID>
+
+	<SiteCode>MORRAD</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>105</RowID>
+
+	<SiteCode>MORRAX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>106</RowID>
+
+	<SiteCode>COPLYW</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>107</RowID>
+
+	<SiteCode>COPLYE</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>108</RowID>
+
+	<SiteCode>SHIREO</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>109</RowID>
+
+	<SiteCode>TIXLDG</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>110</RowID>
+
+	<SiteCode>TIXGRS</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>111</RowID>
+
+	<SiteCode>DNBPAS</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>112</RowID>
+
+	<SiteCode>GREGLD</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>113</RowID>
+
+	<SiteCode>DPSEWL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>5</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>114</RowID>
+
+	<SiteCode>DPSEAS</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>115</RowID>
+
+	<SiteCode>TIXHAL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>116</RowID>
+
+	<SiteCode>DPSWAS</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>117</RowID>
+
+	<SiteCode>WELSPY</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>118</RowID>
+
+	<SiteCode>WELOOP</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>119</RowID>
+
+	<SiteCode>BARDWW</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>120</RowID>
+
+	<SiteCode>MORCQY</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>121</RowID>
+
+	<SiteCode>LITCHF</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>122</RowID>
+
+	<SiteCode>GLASLD</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>123</RowID>
+
+	<SiteCode>SEATRY</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>124</RowID>
+
+	<SiteCode>SEATWT</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>125</RowID>
+
+	<SiteCode>SEATEA</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>44</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>126</RowID>
+
+	<SiteCode>COACHB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>127</RowID>
+
+	<SiteCode>RHLODG</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>47</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>128</RowID>
+
+	<SiteCode>WAKTWR</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>129</RowID>
+
+	<SiteCode>WAKCHH</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>22</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>130</RowID>
+
+	<SiteCode>WAKCAK</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>131</RowID>
+
+	<SiteCode>TIXCHH</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>132</RowID>
+
+	<SiteCode>DUDLAY</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>133</RowID>
+
+	<SiteCode>BOWLOK</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>134</RowID>
+
+	<SiteCode>BOWLAH</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>135</RowID>
+
+	<SiteCode>FINEAB</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>8</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>136</RowID>
+
+	<SiteCode>ROBARN</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>137</RowID>
+
+	<SiteCode>ROBBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>138</RowID>
+
+	<SiteCode>MFRBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>139</RowID>
+
+	<SiteCode>SHOTHL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>140</RowID>
+
+	<SiteCode>SHOTFM</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>141</RowID>
+
+	<SiteCode>HARWHL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>142</RowID>
+
+	<SiteCode>LIMESA</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>143</RowID>
+
+	<SiteCode>LIMESB</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>144</RowID>
+
+	<SiteCode>DEXTER</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>145</RowID>
+
+	<SiteCode>BARNLG</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>146</RowID>
+
+	<SiteCode>LINGSA</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>147</RowID>
+
+	<SiteCode>HARDWK</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>14</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>148</RowID>
+
+	<SiteCode>CHRISL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>0</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>149</RowID>
+
+	<SiteCode>CHRISX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>150</RowID>
+
+	<SiteCode>BAINES</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>151</RowID>
+
+	<SiteCode>PGWDA1</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>152</RowID>
+
+	<SiteCode>PGWDA2</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>153</RowID>
+
+	<SiteCode>PGWDA3</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>154</RowID>
+
+	<SiteCode>HUNDAC</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>155</RowID>
+
+	<SiteCode>RYHALL</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>156</RowID>
+
+	<SiteCode>WALKFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>157</RowID>
+
+	<SiteCode>COWPFM</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>158</RowID>
+
+	<SiteCode>CASTAS</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>159</RowID>
+
+	<SiteCode>TICLD2</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>160</RowID>
+
+	<SiteCode>GLATUN</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>161</RowID>
+
+	<SiteCode>GLABCR</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>11</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>162</RowID>
+
+	<SiteCode>TOPHBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>163</RowID>
+
+	<SiteCode>DPSERN</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>164</RowID>
+
+	<SiteCode>COLLBR</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>165</RowID>
+
+	<SiteCode>BELMYS</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>166</RowID>
+
+	<SiteCode>ROBAR2</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>167</RowID>
+
+	<SiteCode>SEATW2</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>168</RowID>
+
+	<SiteCode>SHOWGR</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>169</RowID>
+
+	<SiteCode>ELDWES</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>170</RowID>
+
+	<SiteCode>ELDPOM</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>171</RowID>
+
+	<SiteCode>EDLRIN</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>172</RowID>
+
+	<SiteCode>REDHON</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>173</RowID>
+
+	<SiteCode>WHITR1</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>174</RowID>
+
+	<SiteCode>WHITR2</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>175</RowID>
+
+	<SiteCode>LINWOD</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>176</RowID>
+
+	<SiteCode>GRANGE</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>4</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>177</RowID>
+
+	<SiteCode>FLOODF</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>178</RowID>
+
+	<SiteCode>WHITDK</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>179</RowID>
+
+	<SiteCode>DELAVA</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>4</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>180</RowID>
+
+	<SiteCode>BURNTH</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>181</RowID>
+
+	<SiteCode>LATFEN</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>182</RowID>
+
+	<SiteCode>CHAPBR</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>183</RowID>
+
+	<SiteCode>UNWDGR</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>184</RowID>
+
+	<SiteCode>UNWDG2</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>185</RowID>
+
+	<SiteCode>UNWDSP</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>186</RowID>
+
+	<SiteCode>PARKHO</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>187</RowID>
+
+	<SiteCode>PARKH2</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>12</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>188</RowID>
+
+	<SiteCode>PONDBR</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>189</RowID>
+
+	<SiteCode>KEWOR1</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>4</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>190</RowID>
+
+	<SiteCode>KEWOR2</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>191</RowID>
+
+	<SiteCode>KEWOR3</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>192</RowID>
+
+	<SiteCode>KEWOR4</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>193</RowID>
+
+	<SiteCode>KEWBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>194</RowID>
+
+	<SiteCode>KEWOR5</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>195</RowID>
+
+	<SiteCode>4OOBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>196</RowID>
+
+	<SiteCode>CRADAM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>197</RowID>
+
+	<SiteCode>CONEYW</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>198</RowID>
+
+	<SiteCode>RANSMR</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>199</RowID>
+
+	<SiteCode>DODGHR</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>200</RowID>
+
+	<SiteCode>DODGHS</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>201</RowID>
+
+	<SiteCode>DYKEAS</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>202</RowID>
+
+	<SiteCode>DYKEBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>203</RowID>
+
+	<SiteCode>DYKESH</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>204</RowID>
+
+	<SiteCode>BEBBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>205</RowID>
+
+	<SiteCode>FOURHR</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>206</RowID>
+
+	<SiteCode>MEREFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>207</RowID>
+
+	<SiteCode>MEREFH</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>208</RowID>
+
+	<SiteCode>FOURAS</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>209</RowID>
+
+	<SiteCode>DAIRYF</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>210</RowID>
+
+	<SiteCode>GLASSM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>211</RowID>
+
+	<SiteCode>RMERBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>212</RowID>
+
+	<SiteCode>CHURCH</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>213</RowID>
+
+	<SiteCode>WELLBR</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>214</RowID>
+
+	<SiteCode>CADESX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>215</RowID>
+
+	<SiteCode>FOUTYP</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>216</RowID>
+
+	<SiteCode>BEEZLG</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>217</RowID>
+
+	<SiteCode>SWINGB</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>218</RowID>
+
+	<SiteCode>CHATS1</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>219</RowID>
+
+	<SiteCode>CHATS2</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>220</RowID>
+
+	<SiteCode>CHATS3</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>4</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>221</RowID>
+
+	<SiteCode>WESTSH</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>222</RowID>
+
+	<SiteCode>WESTFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>223</RowID>
+
+	<SiteCode>LAMBP1</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>224</RowID>
+
+	<SiteCode>LAMBCR</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>11</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>225</RowID>
+
+	<SiteCode>LAMBP2</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>44</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>226</RowID>
+
+	<SiteCode>LAMBPN</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>11</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>227</RowID>
+
+	<SiteCode>MORLEY</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>228</RowID>
+
+	<SiteCode>DAWSON</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>229</RowID>
+
+	<SiteCode>TOLLFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>230</RowID>
+
+	<SiteCode>WORELM</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>231</RowID>
+
+	<SiteCode>WORBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>232</RowID>
+
+	<SiteCode>WORASH</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>233</RowID>
+
+	<SiteCode>WORWBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>234</RowID>
+
+	<SiteCode>WAYPOS</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>2</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>235</RowID>
+
+	<SiteCode>WAYCAT</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>236</RowID>
+
+	<SiteCode>WAYBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>237</RowID>
+
+	<SiteCode>R4OWIL</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>5</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>238</RowID>
+
+	<SiteCode>WOODLA</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>239</RowID>
+
+	<SiteCode>BODJON</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>240</RowID>
+
+	<SiteCode>BODCRO</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>14</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>241</RowID>
+
+	<SiteCode>BODBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>242</RowID>
+
+	<SiteCode>BODELM</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>243</RowID>
+
+	<SiteCode>BRICKE</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>244</RowID>
+
+	<SiteCode>BRICKX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>245</RowID>
+
+	<SiteCode>LODEBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>246</RowID>
+
+	<SiteCode>LODEST</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>247</RowID>
+
+	<SiteCode>RSMWML</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>0</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>248</RowID>
+
+	<SiteCode>RSMCHN</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>22</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>249</RowID>
+
+	<SiteCode>STOCKF</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>250</RowID>
+
+	<SiteCode>RACEMY</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>0</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>251</RowID>
+
+	<SiteCode>CAMPBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>252</RowID>
+
+	<SiteCode>HOLHSW</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>253</RowID>
+
+	<SiteCode>HOLHAS</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>254</RowID>
+
+	<SiteCode>HHEAPX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>255</RowID>
+
+	<SiteCode>COOKSD</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>256</RowID>
+
+	<SiteCode>FROGHL</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>257</RowID>
+
+	<SiteCode>ELMSEN</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>258</RowID>
+
+	<SiteCode>ELMSFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>259</RowID>
+
+	<SiteCode>TFENCR</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>11</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>260</RowID>
+
+	<SiteCode>TFENAS</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>261</RowID>
+
+	<SiteCode>SETCHF</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>262</RowID>
+
+	<SiteCode>ROWELL</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>263</RowID>
+
+	<SiteCode>FENMAR</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>264</RowID>
+
+	<SiteCode>SEWARD</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>265</RowID>
+
+	<SiteCode>GRAYAS</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>266</RowID>
+
+	<SiteCode>NEWTON</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>267</RowID>
+
+	<SiteCode>REDTIL</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>268</RowID>
+
+	<SiteCode>DOVEHS</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>269</RowID>
+
+	<SiteCode>MOXOWS</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>270</RowID>
+
+	<SiteCode>DORRIN</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>42</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>271</RowID>
+
+	<SiteCode>BURYST</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>24</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>272</RowID>
+
+	<SiteCode>BURYSK</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>273</RowID>
+
+	<SiteCode>BURYCH</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>274</RowID>
+
+	<SiteCode>KINGS1</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>275</RowID>
+
+	<SiteCode>KIWGS2</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>276</RowID>
+
+	<SiteCode>TURFSC</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>277</RowID>
+
+	<SiteCode>NEWBAR</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>44</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>278</RowID>
+
+	<SiteCode>SPOOLF</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>279</RowID>
+
+	<SiteCode>BILLUP</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>280</RowID>
+
+	<SiteCode>MILLFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>45</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>281</RowID>
+
+	<SiteCode>BPOOLD</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>282</RowID>
+
+	<SiteCode>FOXHBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>283</RowID>
+
+	<SiteCode>WOODFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>284</RowID>
+
+	<SiteCode>HUMBRL</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>285</RowID>
+
+	<SiteCode>FENBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>286</RowID>
+
+	<SiteCode>PCUMFN</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>287</RowID>
+
+	<SiteCode>ROWEYF</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>288</RowID>
+
+	<SiteCode>PIDBOT</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>289</RowID>
+
+	<SiteCode>PIDMID</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>43</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>290</RowID>
+
+	<SiteCode>UPWDEM</SiteCode>
+
+	<NestType>2</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>291</RowID>
+
+	<SiteCode>UPWDE2</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>292</RowID>
+
+	<SiteCode>GTRVAS</SiteCode>
+
+	<NestType>1</NestType>
+
+	<NestDetail>1</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>293</RowID>
+
+	<SiteCode>EDWDFM</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>44</NestDetail>
+
+	<Exposure>3</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>294</RowID>
+
+	<SiteCode>DOVCOT</SiteCode>
+
+	<NestType>4</NestType>
+
+	<NestDetail>4</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>295</RowID>
+
+	<SiteCode>SLYSTK</SiteCode>
+
+	<NestType>5</NestType>
+
+	<NestDetail>11</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>296</RowID>
+
+	<SiteCode>SLYBOX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>46</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>297</RowID>
+
+	<SiteCode>SLYFNE</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>4</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>298</RowID>
+
+	<SiteCode>HOLWDB</SiteCode>
+
+	<NestType>6</NestType>
+
+	<NestDetail>21</NestDetail>
+
+	<Exposure>1</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>299</RowID>
+
+	<SiteCode>NFENPT</SiteCode>
+
+	<NestType>3</NestType>
+
+	<NestDetail>3</NestDetail>
+
+	<Exposure>5</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>300</RowID>
+
+	<SiteCode>DOVCBX</SiteCode>
+
+	<NestType>8</NestType>
+
+	<NestDetail>44</NestDetail>
+
+	<Exposure>2</Exposure>
+
+</RECORD>
+<RECORD>
+	<RowID>301</RowID>
+
+	<SiteCode>WIMBLN</SiteCode>
+
+	<NestType>0</NestType>
+
+	<NestDetail>0</NestDetail>
+
+	<Exposure></Exposure>
+
+</RECORD>
+</RECORDS>

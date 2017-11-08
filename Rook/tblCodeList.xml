@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>CodeRef</Value>
+
+	<Label>Codes for the classes of codings used in the database</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>CropType</Value>
+
+	<Label>Codes for crops in Field sightings</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>DeathCause</Value>
+
+	<Label>Codes for cause of death</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>GapeWorm</Value>
+
+	<Label>Codes used for assessing Gapeworm infestation</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>MarkType</Value>
+
+	<Label>Codes for type of identification mark used</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>Sex</Value>
+
+	<Label>Codes for the sex of a bird</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>Trap</Value>
+
+	<Label>Codes for rook trapping sites</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>YesNo</Value>
+
+	<Label>Codes used to indicate Boolean True/False</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>CUL</Value>
+
+	<Label>Cultivation in progress</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>CUT</Value>
+
+	<Label>Cut grass</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>DRI</Value>
+
+	<Label>Drills</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>FEE</Value>
+
+	<Label>Feeds</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>FEN</Value>
+
+	<Label>Fence</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>GRA</Value>
+
+	<Label>Grass</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>MUD</Value>
+
+	<Label>Mud flat</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>OAT</Value>
+
+	<Label>Oat stooks</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>PIG</Value>
+
+	<Label>Pigs</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>PLO</Value>
+
+	<Label>Plough</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>POT</Value>
+
+	<Label>Potatoes</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>ROA</Value>
+
+	<Label>Roadside</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>SH</Value>
+
+	<Label>Shore</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>SOW</Value>
+
+	<Label>Sown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>STU</Value>
+
+	<Label>Stubble</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>TIL</Value>
+
+	<Label>Tilling</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>TRE</Value>
+
+	<Label>Tree</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>TUR</Value>
+
+	<Label>Turnips</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>WINT</Value>
+
+	<Label>Winter wheat</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CropType</CodeRef>
+
+	<Value>WIR</Value>
+
+	<Label>Wires</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>ACC</Value>
+
+	<Label>Accidental death during trapping or handling</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>DIS</Value>
+
+	<Label>Disease</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>FLEDG</Value>
+
+	<Label>Fledgling mortality</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>INJ</Value>
+
+	<Label>Injury</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>KILL</Value>
+
+	<Label>Killed by humans (not shot)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>NAT</Value>
+
+	<Label>Unknown or Natural causes (unspecified)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>NEST</Value>
+
+	<Label>Nestling mortality</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>ROAD</Value>
+
+	<Label>Road kill</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>SHOT</Value>
+
+	<Label>Shot</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>STAR</Value>
+
+	<Label>Starvation</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>DeathCause</CodeRef>
+
+	<Value>TRAP</Value>
+
+	<Label>Found in Trap</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>GapeWorm</CodeRef>
+
+	<Value>H</Value>
+
+	<Label>Heavy</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>GapeWorm</CodeRef>
+
+	<Value>L</Value>
+
+	<Label>Light</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>GapeWorm</CodeRef>
+
+	<Value>M</Value>
+
+	<Label>Medium</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MarkType</CodeRef>
+
+	<Value>COL</Value>
+
+	<Label>Colour leg rings</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MarkType</CodeRef>
+
+	<Value>MET</Value>
+
+	<Label>Metal leg ring</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MarkType</CodeRef>
+
+	<Value>TAGC</Value>
+
+	<Label>Colour wing tag</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>MarkType</CodeRef>
+
+	<Value>TAGL</Value>
+
+	<Label>Letter wing tag</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Sex</CodeRef>
+
+	<Value>F</Value>
+
+	<Label>Female</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Sex</CodeRef>
+
+	<Value>M</Value>
+
+	<Label>Male</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>South Artrochie rookery</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>10</Value>
+
+	<Label>Pitlurg</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>11</Value>
+
+	<Label>Rubbish Dump trap</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>12</Value>
+
+	<Label>Straduff Pig Fields</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>13</Value>
+
+	<Label>Ythan Bank</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>14</Value>
+
+	<Label>Station Rookery</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>15</Value>
+
+	<Label>School Rookery</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Waterside Farm</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>Smiddyhill Farm</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>Duck trap on estuary</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>Brownhill</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>Culterty Pond trap</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>Forvie Bank Pigs trap</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>Green Hill trap</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Trap</CodeRef>
+
+	<Value>9</Value>
+
+	<Label>Macharmuir</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>YesNo</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>No</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>YesNo</CodeRef>
+
+	<Value>-1</Value>
+
+	<Label>Yes</Label>
+
+</RECORD>
+</RECORDS>

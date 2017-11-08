@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<TrapID>1</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>3</Easting>
+
+	<Northing>301</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>2</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>6</Easting>
+
+	<Northing>274</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>3</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>20</Easting>
+
+	<Northing>314</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>4</TrapID>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>999</Easting>
+
+	<Northing>278</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>5</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>47</Easting>
+
+	<Northing>326</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>6</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>0</Easting>
+
+	<Northing>259</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>7</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>9</Easting>
+
+	<Northing>297</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>8</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>5</Easting>
+
+	<Northing>268</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>9</TrapID>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>998</Easting>
+
+	<Northing>297</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>10</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>27</Easting>
+
+	<Northing>328</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>11</TrapID>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>998</Easting>
+
+	<Northing>271</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>12</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>12</Easting>
+
+	<Northing>285</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>13</TrapID>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>919</Easting>
+
+	<Northing>326</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>14</TrapID>
+
+	<GridSquare>NJ</GridSquare>
+
+	<Easting>996</Easting>
+
+	<Northing>317</Northing>
+
+</RECORD>
+<RECORD>
+	<TrapID>15</TrapID>
+
+	<GridSquare>NK</GridSquare>
+
+	<Easting>1</Easting>
+
+	<Northing>321</Northing>
+
+</RECORD>
+</RECORDS>

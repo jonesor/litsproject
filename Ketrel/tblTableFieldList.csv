@@ -1,0 +1,180 @@
+"TableName","FieldName","CodeRef","FieldDescription","FieldType","FieldSize"
+"tblBreeding","ClutchSize",,"Number of eggs in complete clutch","Byte",1
+"tblBreeding","ClutchStatus","ClutchStatus","Whether the exact number of eggs laid is known","Text",1
+"tblBreeding","EggLoss","BreedFailure","Causes of failure at egg stage","Text",1
+"tblBreeding","FemaleID",,"Unique Identity number for the female kestrel (or this specific breeding attempt by this female if it was an unmarked bird)","Long",4
+"tblBreeding","FledgeSize",,"Brood size at fledging (taken as point when young were ringed, ~2-4 weeks after hatching)","Byte",1
+"tblBreeding","FledgeStatus","FledgeStatus","Whether the exact number of young fledged is known","Text",1
+"tblBreeding","HatchSize",,"Brood size at hatching. (Nests checked within a fw daya of hatching - any eggs lost around then were assumed to have hatched young that died)","Byte",1
+"tblBreeding","HatchStatus","HatchStatus","Whether the exact number of chicks hatched is known","Text",1
+"tblBreeding","Layday",,"Day of clutch initiation","Integer",2
+"tblBreeding","LayMonth",,"Month of clutch initiation","Integer",2
+"tblBreeding","LayYear",,"Year of breeding attempt","Integer",2
+"tblBreeding","MaleID",,"Unique Identity number for the male kestrel (or this specific breeding attempt by this male if it was an unmarked bird)","Long",4
+"tblBreeding","NestLoss","BreedFailure","Causes of failure at nestling stage","Text",1
+"tblBreeding","RowID",,"Unique table-row identifier","Long",4
+"tblBreeding","SiteCode",,"Site code for the breeding attempt","Text",7
+"tblBreeding","Status","BreedStatus","Breeding attempt status. (Used for calculating mean laying datyes etc.: Use codes N,L,F,V,X,Y for mean date of first natural clutch. Use codes N,F,V,X for first natural clutch size)","Text",1
+"tblCensusCalibration","AreaSearched",,"Area searched for kestrels (km2)","Byte",1
+"tblCensusCalibration","NMarked",,"Number of marked kestrels seen","Byte",1
+"tblCensusCalibration","NUnmarked",,"Number of unmarked kestrels seen","Byte",1
+"tblCensusCalibration","RowID",,"Unique table-row identifier","Long",4
+"tblCensusCalibration","Season",,"Season in which the count was conducted","Text",1
+"tblCensusCalibration","StudyArea","Area","Study area code","Text",1
+"tblCensusCalibration","Year",,"Year in which the count was conducted","Integer",2
+"tblCensusData","AgeSex","AgeSex","Age/sex class of kestrel","Text",2
+"tblCensusData","Count",,"Number of kestrels seen","Integer",2
+"tblCensusData","CountDate",,"Date of census","Date/Time",8
+"tblCensusData","RowID",,"Unique table-row identifier","Long",4
+"tblCensusData","StudyArea","Area","Study area code","Text",6
+"tblCensusDensities","Adults",,"Mean density of adult kestrels (/100km2) (Calculated as Kests * ((AdultMale + AdultFemale) / NSeen)","Single",4
+"tblCensusDensities","Juvs",,"Mean density of apparent juveniles (includes 'Brown birds' that may be either juveniles or adult females) (Calculated as Kests * ((AllJuveniles + BrownBirds) / NSeen)","Single",4
+"tblCensusDensities","Kests",,"Mean density per count (number per 100 km2) (calculated from calibration relationships; see tblCensusCalibration)","Single",4
+"tblCensusDensities","Mice",,"Mean number of field mice per trap site in given Season","Single",4
+"tblCensusDensities","Nseen",,"Mean number of kestrels seen per count","Single",4
+"tblCensusDensities","Rain",,"Total rainfall in Season (mm)","Integer",2
+"tblCensusDensities","RowID",,"Unique table-row identifier","Long",4
+"tblCensusDensities","Season","Season","Season of the density estimate","Text",1
+"tblCensusDensities","Shrews",,"Mean number of shrews per trap site in given Season","Single",4
+"tblCensusDensities","SnowDays",,"Mean number of days per month with snowfall in Season","Single",4
+"tblCensusDensities","StudyArea","Area","Study area code","Text",1
+"tblCensusDensities","Temp",,"Mean temperature across Season","Single",4
+"tblCensusDensities","Voles",,"Mean number of voles per trap site in given Season","Single",4
+"tblCensusDensities","WinterYear",,"Year (in which winter started, i.e. the year of the appropriate December)","Integer",2
+"tblCodeList","CodeRef","CodeRef","Category identifying each set of codes","Text",20
+"tblCodeList","Label",,"Translation of the code","Text",100
+"tblCodeList","Value",,"Code used in the database","Text",15
+"tblDensitySpring","BreedingDensity",,"Breeding density- i.e. density of birds that are part of laying pairs in Spring (birds/100km2)","Single",4
+"tblDensitySpring","StudyArea","Area","Study area code","Text",1
+"tblDensitySpring","TotalDensity",,"Total density of kestrel in Spring (birds/100km2)","Single",4
+"tblDensitySpring","Year",,"Breeding year","Integer",2
+"tblGutComp","GutID",,"Kestrel gut Identity number","Long",4
+"tblGutComp","MonksWoodID",,"Identity number used to identity the carcass when autopsied at Monks Wood","Long",4
+"tblGutComp","RowID",,"Unique table-row identifier","Long",4
+"tblGutComp","Score",,"Number of identifiable fragments for this species","Byte",1
+"tblGutComp","Species","PelletSpp","Prey species identified in the gut","Text",2
+"tblKestrelID","AgeStatus","AgeStatus","Level of information available about the age of the kestrel","Text",1
+"tblKestrelID","HatchYear",,"Year of birth. If null, then the kestrel was an adult (i.e. not in juvenile plumage) throughout the study","Integer",2
+"tblKestrelID","KestrelID",,"Unique number identifying the kestrel (or a specific kestrel-record for unmarked birds) in the database","Long",4
+"tblKestrelID","MarkedBird","YesNo","Whether or not the kestrel had a ring or other identity mark. If 'No' then then the kestrel is an unknown unmarked individual, and so may occur under different KestrelIDs in the database","Boolean",1
+"tblKestrelID","RingLetters",,"BTO ring prefix. 'XX' indicates that the ring letters existed but were unrecorded. If no ring letters present then RingNo is not a BTO ring","Text",2
+"tblKestrelID","RingNo",,"BTO ring number of the kestrel (or another number used to identify it)","Long",4
+"tblKestrelID","Sex",,"Sex of the bird","Text",1
+"tblKestrelTrapping","BarGap",,"Size of gap between bars (mm)","Integer",2
+"tblKestrelTrapping","BarWidth","BarWidth"," Width of the tail bar - either numeric measurement (mm), or else text-coded categories","Text",1
+"tblKestrelTrapping","BuffSize",,"Size of buff fringe on primaries (used for ageing) (mm)","Integer",2
+"tblKestrelTrapping","Chord",,"Wing chord measurement (mm)","Integer",2
+"tblKestrelTrapping","ColHead","MoultColour","Colour of head","Text",1
+"tblKestrelTrapping","ColRump","MoultColour","Colour of rump","Text",1
+"tblKestrelTrapping","ColTail","MoultColour","Colour of tail","Text",1
+"tblKestrelTrapping","ColUTC","MoultColour","Colour of upper tail-coverts","Text",1
+"tblKestrelTrapping","Condition","PectoralCond","Thickness of the pectoral muscle/fat","Text",1
+"tblKestrelTrapping","Date",,"Date on which the bird was caught","Date/Time",8
+"tblKestrelTrapping","FlankFeathers","MoultFlank","Degree of flank feather moult (if applicable)","Text",1
+"tblKestrelTrapping","KestrelID",,"Unique number used to identify the kestrel in the database","Long",4
+"tblKestrelTrapping","MoultBack","MoultBody","Degree of back feather moult (if applicable)","Text",1
+"tblKestrelTrapping","MoultHead","MoultBody","Degree of head feather moult (if applicable)","Text",1
+"tblKestrelTrapping","MoultPrimaries",,"Primary moult score (0-50)","Integer",2
+"tblKestrelTrapping","MoultRump","MoultBody","Degree of rump feather moult (if applicable)","Text",1
+"tblKestrelTrapping","MoultTail",,"Tail moult score (0-30)","Integer",2
+"tblKestrelTrapping","MoultUTC","MoultBody","Degree of upper tail-coverts moult (if applicable)","Text",1
+"tblKestrelTrapping","Parasites",,"Number of ectoparasites seen while kestrel was handled","Integer",2
+"tblKestrelTrapping","RowID",,"Unique table-row identifier","Long",4
+"tblKestrelTrapping","StudyArea","Area","Study area where the kestrel was trapped","Text",1
+"tblKestrelTrapping","Weight",,"Mass of the bird (g)","Integer",2
+"tblNestList","Exposure","NestShelter","Level of exposure to weather","Text",1
+"tblNestList","NestDetail","NestDetail","Code for nest construction, tree species, original species that built the nest etc.","Text",2
+"tblNestList","NestType","NestType","Code for nest location","Text",1
+"tblNestList","RowID",,"Unique table-row identifier","Long",4
+"tblNestList","SiteCode",,"Site mnemonic","Text",7
+"tblNestOccupancy","RowID",,"Unique table-row identifier","Long",4
+"tblNestOccupancy","SiteCode","SiteCode","Site mnemonic","Text",7
+"tblNestOccupancy","Usability","OccUsability","Code describing th level of use by kestrels in a given year","Text",1
+"tblNestOccupancy","UsabilityDetails","OccDetails","Code giving reasons why a nest was not used, or the level of use if it was occupied by kestrels","Text",2
+"tblNestOccupancy","Year",,"Year in which the nest's occupancy was scored","Integer",2
+"tblPelletComposition","PelletID",,"Pellet  identifier","Long",4
+"tblPelletComposition","RowID",,"Unique table-row identifier","Long",4
+"tblPelletComposition","Score",,"Number of identifiable fragments of the species","Byte",1
+"tblPelletComposition","Species","PelletSpp","Prey species found in the pellet","Text",2
+"tblPelletInfo","AgeSex","AgeSex","Age and sex class of the kestrel","Text",3
+"tblPelletInfo","Breadth",,"Pellet breadth (mm)","Single",4
+"tblPelletInfo","Date",,"Date of pellet collection","Date/Time",8
+"tblPelletInfo","Length",,"Pellet length (mm)","Single",4
+"tblPelletInfo","PelletID",,"Unique pellet identifier","Long",4
+"tblPelletInfo","SiteCode","SiteCode","Code for the site at which the pellet was collected","Text",7
+"tblPelletInfo","Weight",,"Oven-dried pellet mass (g)","Single",4
+"tblRangeBehavModifiers","BehavModifier","BehavModifier","Further information about the kestrel's behaviour when sighted","Text",2
+"tblRangeBehavModifiers","BehavSpp","BehavSpecies","Prey species or other species with which the kestrel was interacting","Text",2
+"tblRangeBehavModifiers","SightingID",,"Unique sighting identifier","Long",4
+"tblRanging","Behaviour","Behav","Code for behaviour at time of observation","Byte",1
+"tblRanging","Date",,"Date of sighting","Date/Time",8
+"tblRanging","Easting",,"OS National Grid Easting","Long",4
+"tblRanging","GridSquare",,"OS National Grid 100km-square identifier","Text",2
+"tblRanging","KestrelID",,"Unique Identity number for the kestrel (or this specific ranging observation if it was an unmarked bird)","Long",4
+"tblRanging","Northing",,"OS National Grid Northing","Integer",2
+"tblRanging","SightingID",,"Unique sighting identifier","Long",4
+"tblRanging","SightingNo",,"Position in observation sequence for the individual kestrel (multiple fixes may be recorded for a kestrel when being tracked). 0=first, or only, observation","Integer",2
+"tblRanging","SightType","RangeType","Whether kestrel was sighted, located by telemetry or trapped","Text",1
+"tblRanging","StudyArea","Area","Study area code","Text",1
+"tblSiteCodes","Easting",,"OS National Grid Easting","Integer",2
+"tblSiteCodes","FullName",,"Location Name","Text",255
+"tblSiteCodes","GridSquare",,"OS National Grid 100km-square identifier","Text",2
+"tblSiteCodes","Northing",,"OS National Grid Northing","Integer",2
+"tblSiteCodes","SiteCode",,"Code used for the specified grid reference","Text",7
+"tblSiteCodes","StudyArea","Area","Study area code","Text",1
+"tblSiteCodes","Type","SiteType","Whether the site was used as a roost, nest or both","Text",1
+"tblTableFieldList","CodeRef",,"Category of codes used for data in this field","Text",50
+"tblTableFieldList","FieldDescription",,"Description of the contents of the field","Text",255
+"tblTableFieldList","FieldName",,"Name of the field in the table","Text",64
+"tblTableFieldList","FieldSize",,"Storage requirement of the field (bytes)","Byte",1
+"tblTableFieldList","FieldType",,"Data type of the field","Text",10
+"tblTableFieldList","TableName",,"Name of the database table","Text",64
+"tblTableList","Description",,"Description of the table","Text",250
+"tblTableList","TableName",,"Name of the database table","Text",25
+"tblVoleCarcassData","Age","VoleAge","Age class of trapped animal","Text",1
+"tblVoleCarcassData","AnoGenDist",,"Anogenital distance (mm)","Single",4
+"tblVoleCarcassData","BodyLength",,"Body length (mm)","Integer",2
+"tblVoleCarcassData","BreedCond","VoleCond","Breeding condition","Text",1
+"tblVoleCarcassData","CarcassID",,"Unique carcass identifier","Integer",2
+"tblVoleCarcassData","CatchMonth",,"Trapping month","Byte",1
+"tblVoleCarcassData","CatchYear",,"Trapping year","Integer",2
+"tblVoleCarcassData","DryWt",,"Carcass dry mass (g)","Double",8
+"tblVoleCarcassData","HindFootLen",,"Hind foot length (mm)","Integer",2
+"tblVoleCarcassData","LeanDryWt",,"Carcass lean dry mass (following Soxhlet extraction) (g)","Double",8
+"tblVoleCarcassData","Nembryos",,"Number of embryos visible","Byte",1
+"tblVoleCarcassData","Nipples","VoleNipple","Lactation status of nipples","Text",1
+"tblVoleCarcassData","OvaryOviductWt",,"Ovary and oviduct mass (g)","Double",8
+"tblVoleCarcassData","Pregnant","YesNo","Whether or not pregnant","Boolean",1
+"tblVoleCarcassData","Sex","Sex","Sex of trapped animal","Text",1
+"tblVoleCarcassData","Site",,"Trapping site","Byte",1
+"tblVoleCarcassData","Species","VoleSpp","Species of small mammal","Text",2
+"tblVoleCarcassData","StudyArea","Area","Study area","Text",1
+"tblVoleCarcassData","TailLen",,"Tail length (mm)","Integer",2
+"tblVoleCarcassData","TestLen",,"Testes length (mm)","Single",4
+"tblVoleCarcassData","TestWidth",,"Testes width (mm)","Single",4
+"tblVoleCarcassData","TestWt",,"Testes mass (g)","Double",8
+"tblVoleCarcassData","Weight",,"Mass of trapped animal (g)","Single",4
+"tblVoleTrapNightData","Count",,"Number of species caught. This is the number caught per 60-trap nights (i.e. scaling the actual numbers to account for missing and sprung traps)","Integer",2
+"tblVoleTrapNightData","RowID",,"Unique table-row identifier","Long",4
+"tblVoleTrapNightData","Species","VoleSpp","Small mammal species caught in trap","Text",2
+"tblVoleTrapNightData","TrapNightID",,"Unique trapping-night identifier","Long",4
+"tblVoleTrapNightInfo","DropIndex",,"Number of random quadrats that contained vole droppings at trap site/night (out of 25 25x25cm quadrats)","Integer",2
+"tblVoleTrapNightInfo","GrassStemIndex",,"Number of random quadrats that contained cut grass stems at trap site/night (out of 25 25x25cm quadrats)","Integer",2
+"tblVoleTrapNightInfo","MissingTraps",,"Number of snap-traps that could not be found the following day","Byte",1
+"tblVoleTrapNightInfo","Month",,"Month of trapping","Byte",1
+"tblVoleTrapNightInfo","Site",,"Trapping site","Byte",1
+"tblVoleTrapNightInfo","SprungTraps",,"Number of snap-traps that had sprung without catching anything","Byte",1
+"tblVoleTrapNightInfo","StudyArea","Area","Study area code","Text",1
+"tblVoleTrapNightInfo","TotalTrapNights",,"Number of snap-traps that either caught or weren't sprung (this is used to scale the counts in tblVoleTrapNightData)","Byte",1
+"tblVoleTrapNightInfo","TrapNightID",,"Unique trap-night identifier","Long",4
+"tblVoleTrapNightInfo","Year",,"Year of trapping","Integer",2
+"tblVoleWeights","Breeding","VoleBreedStatus","Breeding status of the trapped animal","Text",1
+"tblVoleWeights","Month",,"Month of trapping","Byte",1
+"tblVoleWeights","RowID",,"Unique table-row identifier","Long",4
+"tblVoleWeights","Sex","Sex","Sex of the animal","Text",1
+"tblVoleWeights","Site",,"Trapping site","Integer",2
+"tblVoleWeights","Species","VoleSpp","Species of small mammal","Text",2
+"tblVoleWeights","StudyArea","Area","Study area code","Text",1
+"tblVoleWeights","TrapNightID",,"Unique trapping night identifier","Long",4
+"tblVoleWeights","Weight",,"Mass of the trapped animal (g)","Integer",2
+"tblVoleWeights","Year",,"Year of trapping","Integer",2

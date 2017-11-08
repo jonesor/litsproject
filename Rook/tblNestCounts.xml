@@ -1,0 +1,7543 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<RowRef>1</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>790</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>2</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>819</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>3</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>983</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>4</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>865</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>5</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>766</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>6</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>887</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>7</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>1358</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>8</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>1091</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>9</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>1037</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>10</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>885</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>11</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>943</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>12</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>1154</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>13</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>1131</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>14</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>1199</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>15</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>1110</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>18</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>1108</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>19</RowRef>
+
+	<RookeryID>17</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>1310</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>20</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>130</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>21</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>6</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>22</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>121</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>23</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>105</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>24</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>93</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>25</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>92</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>26</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>88</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>27</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>113</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>28</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>110</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>29</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>89</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>30</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>88</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>31</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>105</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>32</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>161</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>33</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>140</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>38</RowRef>
+
+	<RookeryID>31</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>245</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>39</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>166</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>40</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>158</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>41</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>221</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>42</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>263</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>43</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>173</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>44</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>212</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>45</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>222</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>46</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>101</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>47</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>199</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>48</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>187</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>49</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>179</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>50</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>188</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>51</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>183</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>52</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>142</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>53</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>152</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>54</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>168</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>55</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>163</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>56</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>161</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>57</RowRef>
+
+	<RookeryID>32</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>179</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>58</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>247</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>59</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>321</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>60</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>403</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>61</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>327</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>62</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>384</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>63</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>379</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>64</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>379</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>65</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>422</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>66</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>495</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>67</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>423</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>68</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>437</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>69</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>457</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>70</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>321</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>71</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>320</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>72</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>253</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>73</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>227</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>74</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>201</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>75</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>220</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>76</RowRef>
+
+	<RookeryID>13</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>279</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>78</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>250</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>79</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>229</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>80</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>200</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>81</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>115</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>82</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>225</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>83</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>221</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>84</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>214</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>85</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>202</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>86</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>172</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>87</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>180</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>88</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>194</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>89</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>202</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>90</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>208</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>95</RowRef>
+
+	<RookeryID>28</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>232</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>96</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>4</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>97</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>12</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>98</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>28</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>99</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>18</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>100</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>35</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>101</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>63</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>102</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>67</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>103</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>135</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>104</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>93</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>105</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>111</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>106</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>97</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>107</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>166</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>108</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>155</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>109</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>244</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>114</RowRef>
+
+	<RookeryID>12</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>328</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>115</RowRef>
+
+	<RookeryID>41</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>35</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>116</RowRef>
+
+	<RookeryID>41</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>23</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>117</RowRef>
+
+	<RookeryID>41</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>46</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>118</RowRef>
+
+	<RookeryID>41</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>30</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>119</RowRef>
+
+	<RookeryID>41</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>12</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>120</RowRef>
+
+	<RookeryID>41</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>40</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>121</RowRef>
+
+	<RookeryID>41</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>16</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>134</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>108</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>135</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>148</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>136</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>159</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>137</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>123</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>138</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>96</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>139</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>150</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>140</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>72</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>141</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>109</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>142</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>75</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>143</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>77</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>144</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>69</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>145</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>62</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>146</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>66</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>147</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>77</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>152</RowRef>
+
+	<RookeryID>33</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>78</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>153</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>7</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>154</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>9</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>155</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>2</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>156</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>157</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>2</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>158</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>1</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>159</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>160</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>2</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>161</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>162</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>5</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>163</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>164</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>165</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>2</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>166</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>9</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>171</RowRef>
+
+	<RookeryID>5</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>172</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>75</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>173</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>264</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>174</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>302</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>175</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>346</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>176</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>318</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>177</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>339</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>178</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>388</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>179</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>339</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>180</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>367</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>181</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>451</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>182</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>402</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>183</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>380</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>184</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>336</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>185</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>394</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>189</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>390</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>190</RowRef>
+
+	<RookeryID>10</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>646</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>191</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>260</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>192</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>340</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>193</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>406</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>194</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>380</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>195</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>463</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>196</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>411</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>197</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>427</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>198</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>487</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>199</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>558</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>200</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>579</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>201</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>544</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>202</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>567</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>203</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>607</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>204</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>662</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>209</RowRef>
+
+	<RookeryID>16</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>666</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>210</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>177</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>211</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>203</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>212</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>364</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>213</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>352</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>214</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>290</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>215</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>329</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>216</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>292</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>217</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>294</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>218</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>353</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>219</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>337</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>220</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>335</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>221</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>397</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>222</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>338</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>223</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>341</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>227</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>195</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>228</RowRef>
+
+	<RookeryID>39</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>353</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>229</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>82</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>230</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>150</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>231</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>175</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>232</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>182</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>233</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>215</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>234</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>265</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>235</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>263</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>236</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>281</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>237</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>226</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>238</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>283</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>239</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>323</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>240</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>334</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>241</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>325</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>242</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>300</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>246</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>384</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>247</RowRef>
+
+	<RookeryID>19</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>482</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>248</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>420</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>249</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>758</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>250</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>493</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>251</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>528</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>252</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>516</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>253</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>512</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>254</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>503</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>255</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>539</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>256</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>501</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>257</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>566</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>258</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>534</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>259</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>528</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>260</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>543</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>261</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>536</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>262</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>555</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>263</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>592</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>264</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>725</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>265</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>685</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>266</RowRef>
+
+	<RookeryID>11</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>775</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>267</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>196</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>268</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>232</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>269</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>200</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>270</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>272</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>271</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>271</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>272</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>288</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>273</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>163</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>274</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>229</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>275</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>198</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>276</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>209</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>277</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>201</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>278</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>288</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>279</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>291</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>280</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>248</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>281</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>204</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>282</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>300</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>283</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>123</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>284</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>169</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>285</RowRef>
+
+	<RookeryID>37</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>195</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>286</RowRef>
+
+	<RookeryID>8</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>200</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>287</RowRef>
+
+	<RookeryID>8</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>201</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>288</RowRef>
+
+	<RookeryID>8</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>159</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>306</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>185</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>307</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>216</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>308</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>195</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>309</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>165</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>310</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>170</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>311</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>151</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>312</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>177</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>313</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>157</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>314</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>197</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>315</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>181</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>316</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>203</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>317</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>162</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>318</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>170</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>319</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>170</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>320</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>168</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>321</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>166</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>322</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>189</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>323</RowRef>
+
+	<RookeryID>3</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>221</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>324</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>340</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>325</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>1059</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>326</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>1339</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>327</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>1761</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>328</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>2129</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>329</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>2074</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>330</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>2178</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>331</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>2459</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>332</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>1912</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>333</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>2241</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>334</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>2218</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>335</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>1895</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>336</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>2087</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>337</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>1757</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>341</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>1902</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>342</RowRef>
+
+	<RookeryID>1</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>2218</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>343</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>92</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>344</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>59</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>345</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>63</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>346</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>59</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>347</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>48</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>348</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>62</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>349</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>67</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>350</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>64</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>351</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>53</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>352</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>65</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>353</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>68</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>354</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>73</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>355</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>50</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>356</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>77</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>357</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>83</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>358</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>100</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>359</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>112</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>360</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>105</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>361</RowRef>
+
+	<RookeryID>45</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>96</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>362</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>9</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>363</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>8</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>364</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>9</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>365</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>7</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>366</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>367</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>368</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>8</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>369</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>15</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>370</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>7</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>371</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>2</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>372</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>373</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>374</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>5</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>375</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>7</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>376</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>13</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>377</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>20</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>378</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>15</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>379</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>13</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>380</RowRef>
+
+	<RookeryID>29</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>18</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>381</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>52</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>382</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>75</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>383</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>69</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>384</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>49</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>385</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>15</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>386</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>13</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>387</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>388</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>389</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>390</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>391</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>392</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>393</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>5</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>394</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>7</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>396</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>397</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>5</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>398</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>8</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>399</RowRef>
+
+	<RookeryID>40</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>37</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>400</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>108</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>401</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>96</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>402</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>78</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>403</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>79</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>404</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>76</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>405</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>83</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>406</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>62</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>407</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>66</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>408</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>60</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>409</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>62</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>410</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>46</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>411</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>38</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>412</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>38</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>413</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>35</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>414</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>36</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>415</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>9</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>416</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>417</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>10</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>418</RowRef>
+
+	<RookeryID>2</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>9</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>419</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>111</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>420</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>184</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>421</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>133</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>422</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>221</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>423</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>286</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>424</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>297</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>425</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>243</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>426</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>395</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>427</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>379</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>428</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>297</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>429</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>405</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>430</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>399</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>431</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>322</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>432</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>453</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>433</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>497</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>434</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>490</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>435</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>446</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>436</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>654</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>437</RowRef>
+
+	<RookeryID>4</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>476</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>438</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>283</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>439</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>96</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>440</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>75</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>441</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>86</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>442</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>101</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>443</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>96</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>444</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>73</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>445</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>97</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>446</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>100</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>447</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>94</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>448</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>90</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>449</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>99</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>450</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>90</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>451</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>101</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>452</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>102</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>453</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>106</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>454</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>109</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>455</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>102</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>456</RowRef>
+
+	<RookeryID>24</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>140</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>457</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>220</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>458</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>274</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>459</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>292</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>460</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>263</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>461</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>238</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>462</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>260</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>463</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>233</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>464</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>273</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>465</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>237</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>466</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>235</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>467</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>144</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>468</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>107</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>469</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>99</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>470</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>92</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>471</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>107</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>472</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>91</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>473</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>118</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>474</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>75</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>475</RowRef>
+
+	<RookeryID>44</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>50</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>476</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>154</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>477</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>118</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>478</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>126</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>479</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>116</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>480</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>122</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>481</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>141</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>482</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>135</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>483</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>89</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>484</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>94</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>485</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>125</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>486</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>97</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>487</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>139</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>488</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>149</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>489</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>164</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>490</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>181</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>491</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>219</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>492</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>222</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>493</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>246</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>494</RowRef>
+
+	<RookeryID>27</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>263</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>495</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>256</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>496</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>296</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>497</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>339</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>498</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>320</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>499</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>288</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>500</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>314</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>501</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>368</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>502</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>305</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>503</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>297</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>504</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>269</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>505</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>243</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>506</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>234</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>507</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>291</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>508</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>319</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>512</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>279</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>513</RowRef>
+
+	<RookeryID>9</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>293</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>514</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>240</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>515</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>244</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>516</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>224</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>517</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>232</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>518</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>166</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>519</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>199</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>520</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>219</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>521</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>184</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>522</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>210</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>523</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>182</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>524</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>158</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>525</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>201</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>526</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>119</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>527</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>116</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>531</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>90</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>532</RowRef>
+
+	<RookeryID>25</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>73</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>533</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>151</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>534</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>154</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>535</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>128</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>536</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>95</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>537</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>93</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>538</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>91</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>539</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>101</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>540</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>65</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>541</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>79</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>542</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>72</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>543</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>51</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>544</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>53</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>545</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>53</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>546</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>33</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>547</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>43</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>548</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>40</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>549</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>41</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>550</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>551</RowRef>
+
+	<RookeryID>23</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>3</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>553</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>22</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>554</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>33</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>555</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>25</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>556</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>10</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>557</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>0</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>558</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>45</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>559</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>20</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>560</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>53</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>561</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>48</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>562</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>47</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>563</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>34</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>564</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>36</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>565</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>38</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>566</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>27</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>567</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>34</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>568</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>28</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>569</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>48</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>570</RowRef>
+
+	<RookeryID>14</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>54</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>571</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>320</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>572</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>404</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>573</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>412</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>574</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>404</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>575</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>434</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>576</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>386</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>577</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>358</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>578</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>346</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>579</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>487</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>580</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>429</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>581</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>395</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>582</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>327</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>583</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>357</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>584</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>381</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>585</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>385</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>586</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>393</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>587</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>374</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>588</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>439</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>589</RowRef>
+
+	<RookeryID>43</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>530</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>591</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>75</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>592</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>74</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>593</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>66</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>594</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>55</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>595</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>36</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>596</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>61</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>597</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>51</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>598</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>39</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>599</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>35</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>600</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>41</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>601</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>42</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>602</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>41</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>603</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>45</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>604</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>42</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>605</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>46</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>606</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>41</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>607</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>35</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>608</RowRef>
+
+	<RookeryID>22</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>40</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>610</RowRef>
+
+	<RookeryID>34</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>257</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>628</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>651</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>629</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>479</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>630</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>685</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>631</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>522</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>632</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>650</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>633</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>648</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>634</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>550</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>635</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>574</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>636</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>330</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>637</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>361</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>638</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>503</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>639</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>504</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>640</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>523</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>641</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>502</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>645</RowRef>
+
+	<RookeryID>47</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>515</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>647</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>145</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>648</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>183</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>649</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>219</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>650</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>280</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>651</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>389</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>652</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>442</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>653</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>404</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>654</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>408</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>655</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>422</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>656</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>498</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>657</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>522</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>658</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>493</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>659</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>529</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>660</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>564</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>661</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>489</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>665</RowRef>
+
+	<RookeryID>48</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>644</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>666</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>170</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>667</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>472</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>668</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>687</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>669</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>415</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>670</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>485</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>671</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>367</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>672</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>343</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>673</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>349</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>674</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>379</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>675</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>315</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>676</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>637</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>677</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>627</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>678</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>643</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>679</RowRef>
+
+	<RookeryID>30</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>568</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>685</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>451</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>686</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>514</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>687</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>475</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>688</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>676</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>689</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>599</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>690</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>573</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>691</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>755</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>692</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>488</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>693</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>472</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>694</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>508</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>695</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>594</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>696</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>678</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>697</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>691</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>698</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>586</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>703</RowRef>
+
+	<RookeryID>38</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>609</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>704</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>584</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>705</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>691</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>706</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>844</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>707</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>948</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>708</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>902</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>709</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>1050</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>710</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>856</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>711</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>842</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>712</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>824</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>713</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>888</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>714</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>914</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>715</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>1011</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>716</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>1046</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>717</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>909</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>718</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>822</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>719</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>881</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>720</RowRef>
+
+	<RookeryID>42</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>924</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>723</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>1555</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>724</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>1370</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>725</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>1272</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>726</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>2182</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>727</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>1427</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>728</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>1502</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>729</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>1207</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>730</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>1134</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>731</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>1221</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>732</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>1328</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>733</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>1376</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>734</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>1540</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>735</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>1579</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>736</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>1367</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>737</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>1333</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>738</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>1350</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>739</RowRef>
+
+	<RookeryID>18</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>1389</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>742</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>1426</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>743</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>1227</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>744</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>1168</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>745</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>1211</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>746</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>1084</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>747</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>1061</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>748</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>1169</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>749</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>843</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>750</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>852</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>751</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>848</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>752</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>864</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>753</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>829</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>754</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>628</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>755</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>734</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>756</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>807</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>757</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>1001</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>759</RowRef>
+
+	<RookeryID>36</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>712</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>761</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>1824</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>762</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>2186</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>763</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>1443</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>764</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>2440</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>765</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>2546</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>766</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>2100</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>767</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>2199</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>768</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>2036</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>769</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>1717</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>770</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>1402</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>771</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>1392</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>772</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>1341</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>773</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>1285</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>774</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>972</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>778</RowRef>
+
+	<RookeryID>20</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>1107</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>780</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>1453</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>781</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>2142</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>782</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>2567</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>783</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>2565</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>784</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>2797</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>785</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>2572</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>786</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>2361</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>787</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>2227</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>788</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>1754</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>789</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>1935</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>790</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>2113</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>791</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>1872</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>792</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>2323</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>793</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>1993</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>794</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1977</CountYear>
+
+	<NestCount>2177</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>795</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1978</CountYear>
+
+	<NestCount>1928</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>796</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1979</CountYear>
+
+	<NestCount>1719</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>797</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1980</CountYear>
+
+	<NestCount>1748</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>798</RowRef>
+
+	<RookeryID>15</RookeryID>
+
+	<CountYear>1981</CountYear>
+
+	<NestCount>1120</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>799</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>29</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>800</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>66</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>801</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>141</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>802</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>261</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>803</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>376</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>804</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>361</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>805</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>334</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>806</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>249</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>807</RowRef>
+
+	<RookeryID>7</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>442</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>818</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>133</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>819</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>196</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>820</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>134</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>821</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>158</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>822</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>159</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>823</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>73</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>824</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>69</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>825</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>87</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>826</RowRef>
+
+	<RookeryID>6</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>111</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>837</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>659</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>838</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>485</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>839</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>742</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>840</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>502</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>841</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>443</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>842</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>600</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>843</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>681</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>844</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>499</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>845</RowRef>
+
+	<RookeryID>26</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>614</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>856</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>46</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>857</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>54</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>858</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>42</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>859</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>46</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>860</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>42</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>861</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>44</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>862</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>43</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>863</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>57</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>864</RowRef>
+
+	<RookeryID>50</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>45</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>875</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>1913</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>876</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>1848</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>877</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>1775</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>878</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>1690</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>879</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>2266</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>880</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>2606</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>881</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>2179</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>882</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>1932</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>883</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>1775</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>884</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1972</CountYear>
+
+	<NestCount>1937</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>885</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1973</CountYear>
+
+	<NestCount>1699</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>886</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1974</CountYear>
+
+	<NestCount>1852</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>887</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1975</CountYear>
+
+	<NestCount>1743</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>888</RowRef>
+
+	<RookeryID>46</RookeryID>
+
+	<CountYear>1976</CountYear>
+
+	<NestCount>1769</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>894</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>300</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>895</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>579</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>896</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>629</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>897</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>392</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>898</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>493</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>899</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>529</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>900</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>498</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>901</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>441</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>902</RowRef>
+
+	<RookeryID>35</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>471</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>913</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>3066</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>914</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>2616</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>915</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>3499</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>916</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>4183</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>917</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>3565</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>918</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>3457</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>919</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>3136</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>920</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>2876</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>921</RowRef>
+
+	<RookeryID>21</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>3068</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>932</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1963</CountYear>
+
+	<NestCount>824</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>933</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1964</CountYear>
+
+	<NestCount>1541</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>934</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1965</CountYear>
+
+	<NestCount>1988</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>935</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1966</CountYear>
+
+	<NestCount>1438</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>936</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1967</CountYear>
+
+	<NestCount>2377</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>937</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1968</CountYear>
+
+	<NestCount>1774</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>938</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1969</CountYear>
+
+	<NestCount>2023</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>939</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1970</CountYear>
+
+	<NestCount>1399</NestCount>
+
+</RECORD>
+<RECORD>
+	<RowRef>940</RowRef>
+
+	<RookeryID>49</RookeryID>
+
+	<CountYear>1971</CountYear>
+
+	<NestCount>1123</NestCount>
+
+</RECORD>
+</RECORDS>

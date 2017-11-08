@@ -1,0 +1,2903 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<SiteID>1</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>320.04</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>2</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>289.56</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>3</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>243.84</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>4</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>5</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>6</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>7</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>8</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>9</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>10</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>11</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>274.32</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>12</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>320.04</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>13</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>14</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>304.8</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>15</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>304.8</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>16</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>274.32</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>17</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>304.8</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>18</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>19</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>20</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>21</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>22</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>23</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>24</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>274.32</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>25</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>26</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>27</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>28</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>29</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>30</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>31</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>32</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>33</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>34</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>35</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>36</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>37</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>38</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>39</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>40</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>41</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>42</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>43</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>44</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>45</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>46</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>243.84</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>47</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>48</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>49</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>50</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>51</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>52</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>53</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>54</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>55</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>56</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>57</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>58</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>129.54</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>59</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>60</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>61</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>62</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>63</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>64</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>83.82</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>65</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>66</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>67</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>73.152</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>68</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>69</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>70</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>144.78</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>71</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>72</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>73</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>74</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>160.02</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>75</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>76</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>77</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>78</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>79</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>80</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>81</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>82</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>83</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>68.58</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>84</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>85</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>86</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>87</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>88</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>89</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>90</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>91</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>68.58</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>92</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>93</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>53.34</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>94</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>45.72</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>95</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>45.72</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>96</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>45.72</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>97</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>45.72</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>98</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>99</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>100</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>101</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>102</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>103</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>104</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>105</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>106</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>107</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>108</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>109</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>30.48</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>110</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>30.48</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>111</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>30.48</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>112</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>113</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>114</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>115</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>116</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>30.48</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>117</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>30.48</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>118</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>30.48</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>119</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>30.48</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>120</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>30.48</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>121</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>122</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>123</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>124</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>125</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>126</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>127</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>128</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>129</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>304.8</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>130</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>243.84</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>131</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>132</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>205.74</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>133</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>259.08</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>134</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>135</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>243.84</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>136</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>137</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>138</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>139</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>140</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>141</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>289.56</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>142</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>243.84</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>143</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>259.08</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>144</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>243.84</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>145</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>289.56</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>146</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>259.08</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>147</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>148</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>149</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>150</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>151</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>152</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>213.36</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>153</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>154</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>155</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>156</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>157</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>158</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>68.58</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>159</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>160</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>161</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>38.1</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>165</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>243.84</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>166</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>169</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>160.02</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>170</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>171</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>172</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>22.86</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>173</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>174</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>176</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>177</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>178</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>179</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>199</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>201</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>202</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>53.34</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>203</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>68.58</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>204</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>205</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>7.62</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>206</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>207</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>208</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>209</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>210</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>211</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>7.62</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>212</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>7.62</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>213</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>7.62</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>214</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>216</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>53.34</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>217</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>218</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>219</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>220</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>45.72</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>221</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>7.62</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>222</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>7.62</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>223</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>224</SiteID>
+
+	<Region>A</Region>
+
+	<Altitude>15.24</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>301</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>302</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>303</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>304</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>305</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>306</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>307</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>308</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>309</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>310</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>311</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>314</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>315</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>316</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>317</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>318</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>319</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>320</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>321</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>322</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>324</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>325</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>326</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>327</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>328</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>329</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>330</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>331</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>332</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>333</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>334</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>339</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>342</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>343</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>345</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>346</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>347</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>348</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>350</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>91.44</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>351</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>352</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>353</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>53.34</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>354</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>355</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>356</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>357</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>358</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>60.96</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>359</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>106.68</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>360</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>361</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>380</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>167.64</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>383</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>384</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>152.4</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>385</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>386</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>387</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>388</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>198.12</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>389</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>228.6</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>390</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>173.736</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>391</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>175.26</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>392</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>393</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>394</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>121.92</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>395</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>182.88</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>396</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>76.2</Altitude>
+
+	<LandUse>0</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>397</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>137.16</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>398</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>243.84</Altitude>
+
+	<LandUse>2</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>399</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude>289.56</Altitude>
+
+	<LandUse>1</LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>400</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>405</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>406</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>407</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>408</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>409</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>410</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>411</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>412</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>413</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>414</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>415</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>416</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>417</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>418</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>419</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>420</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>421</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>422</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>423</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>424</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>425</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>426</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>427</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+<RECORD>
+	<SiteID>428</SiteID>
+
+	<Region>E</Region>
+
+	<Altitude></Altitude>
+
+	<LandUse></LandUse>
+
+</RECORD>
+</RECORDS>

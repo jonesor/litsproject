@@ -1,0 +1,1623 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<RowID>1</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1980</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>8.3</Nseen>
+
+	<Kests>48.7</Kests>
+
+	<Adults>7.4</Adults>
+
+	<Juvs>29.5</Juvs>
+
+	<Voles></Voles>
+
+	<Mice></Mice>
+
+	<Shrews></Shrews>
+
+	<Temp>10</Temp>
+
+	<SnowDays>0.7</SnowDays>
+
+	<Rain>42</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>2</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1980</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>6.8</Nseen>
+
+	<Kests>46</Kests>
+
+	<Adults>4.3</Adults>
+
+	<Juvs>32.4</Juvs>
+
+	<Voles></Voles>
+
+	<Mice></Mice>
+
+	<Shrews></Shrews>
+
+	<Temp>5.1</Temp>
+
+	<SnowDays>2.3</SnowDays>
+
+	<Rain>46</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>3</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1980</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>5.5</Nseen>
+
+	<Kests>43.8</Kests>
+
+	<Adults>8</Adults>
+
+	<Juvs>23.9</Juvs>
+
+	<Voles>15.7</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>2.8</Shrews>
+
+	<Temp>9.7</Temp>
+
+	<SnowDays>0.5</SnowDays>
+
+	<Rain>52</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>4</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1981</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>12.5</Nseen>
+
+	<Kests>56.2</Kests>
+
+	<Adults>12.7</Adults>
+
+	<Juvs>36</Juvs>
+
+	<Voles>14</Voles>
+
+	<Mice>5.2</Mice>
+
+	<Shrews>2.3</Shrews>
+
+	<Temp>10.3</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>54</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>5</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1981</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>10.3</Nseen>
+
+	<Kests>52.4</Kests>
+
+	<Adults>18.6</Adults>
+
+	<Juvs>25.9</Juvs>
+
+	<Voles>6.3</Voles>
+
+	<Mice>0.2</Mice>
+
+	<Shrews>0.3</Shrews>
+
+	<Temp>3.3</Temp>
+
+	<SnowDays>2.9</SnowDays>
+
+	<Rain>41</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>6</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1981</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>6.7</Nseen>
+
+	<Kests>46</Kests>
+
+	<Adults>15.6</Adults>
+
+	<Juvs>24.4</Juvs>
+
+	<Voles>4.4</Voles>
+
+	<Mice>0.4</Mice>
+
+	<Shrews>0.4</Shrews>
+
+	<Temp>10.2</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>37</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>7</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1982</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>18.7</Nseen>
+
+	<Kests>67.3</Kests>
+
+	<Adults>13.4</Adults>
+
+	<Juvs>47.3</Juvs>
+
+	<Voles>5.2</Voles>
+
+	<Mice>6.8</Mice>
+
+	<Shrews>1.3</Shrews>
+
+	<Temp>11</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>73</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>8</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1982</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>13.9</Nseen>
+
+	<Kests>58.7</Kests>
+
+	<Adults>18.7</Adults>
+
+	<Juvs>36.9</Juvs>
+
+	<Voles>3.2</Voles>
+
+	<Mice>2.7</Mice>
+
+	<Shrews>0.2</Shrews>
+
+	<Temp>4.6</Temp>
+
+	<SnowDays>1.9</SnowDays>
+
+	<Rain>36</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>9</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1982</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>7.5</Nseen>
+
+	<Kests>47.3</Kests>
+
+	<Adults>28.4</Adults>
+
+	<Juvs>14.7</Juvs>
+
+	<Voles>0.8</Voles>
+
+	<Mice>0.4</Mice>
+
+	<Shrews>0.4</Shrews>
+
+	<Temp>8.9</Temp>
+
+	<SnowDays>1.3</SnowDays>
+
+	<Rain>93</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>10</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1983</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>11.9</Nseen>
+
+	<Kests>55.1</Kests>
+
+	<Adults>15.3</Adults>
+
+	<Juvs>31.2</Juvs>
+
+	<Voles>6</Voles>
+
+	<Mice>2.6</Mice>
+
+	<Shrews>1.2</Shrews>
+
+	<Temp>10.8</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>43</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>11</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1983</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>11.6</Nseen>
+
+	<Kests>54.6</Kests>
+
+	<Adults>22.2</Adults>
+
+	<Juvs>29.7</Juvs>
+
+	<Voles>4.5</Voles>
+
+	<Mice>6.7</Mice>
+
+	<Shrews>0.3</Shrews>
+
+	<Temp>4.2</Temp>
+
+	<SnowDays>1.9</SnowDays>
+
+	<Rain>42</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>12</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1983</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>8.8</Nseen>
+
+	<Kests>49.7</Kests>
+
+	<Adults>27.1</Adults>
+
+	<Juvs>19.2</Juvs>
+
+	<Voles>1.7</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>0</Shrews>
+
+	<Temp>8.5</Temp>
+
+	<SnowDays>0.5</SnowDays>
+
+	<Rain>36</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>13</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1984</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>14.7</Nseen>
+
+	<Kests>60.1</Kests>
+
+	<Adults>26</Adults>
+
+	<Juvs>33.5</Juvs>
+
+	<Voles>9.8</Voles>
+
+	<Mice>4.3</Mice>
+
+	<Shrews>0.7</Shrews>
+
+	<Temp>11.3</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>66</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>14</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1984</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>11.5</Nseen>
+
+	<Kests>54.5</Kests>
+
+	<Adults>24.9</Adults>
+
+	<Juvs>29.6</Juvs>
+
+	<Voles>5.3</Voles>
+
+	<Mice>0.7</Mice>
+
+	<Shrews>0.2</Shrews>
+
+	<Temp>3</Temp>
+
+	<SnowDays>5</SnowDays>
+
+	<Rain>33</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>15</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1984</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>11</Nseen>
+
+	<Kests>53.6</Kests>
+
+	<Adults>27.6</Adults>
+
+	<Juvs>26</Juvs>
+
+	<Voles>1.8</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>0</Shrews>
+
+	<Temp>9.9</Temp>
+
+	<SnowDays>0.3</SnowDays>
+
+	<Rain>55</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>16</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1985</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>10.8</Nseen>
+
+	<Kests>53.1</Kests>
+
+	<Adults>21</Adults>
+
+	<Juvs>32.1</Juvs>
+
+	<Voles>7.2</Voles>
+
+	<Mice>9.2</Mice>
+
+	<Shrews>1</Shrews>
+
+	<Temp>10.1</Temp>
+
+	<SnowDays>1.2</SnowDays>
+
+	<Rain>25</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>17</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1985</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>12.3</Nseen>
+
+	<Kests>55.8</Kests>
+
+	<Adults>35.3</Adults>
+
+	<Juvs>20.5</Juvs>
+
+	<Voles>4.5</Voles>
+
+	<Mice>2.5</Mice>
+
+	<Shrews>0.3</Shrews>
+
+	<Temp>3.4</Temp>
+
+	<SnowDays>4.6</SnowDays>
+
+	<Rain>49</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>18</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1985</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>6.8</Nseen>
+
+	<Kests>46.2</Kests>
+
+	<Adults>37.2</Adults>
+
+	<Juvs>9</Juvs>
+
+	<Voles>5.6</Voles>
+
+	<Mice>0.7</Mice>
+
+	<Shrews>0.9</Shrews>
+
+	<Temp>9</Temp>
+
+	<SnowDays>1.5</SnowDays>
+
+	<Rain>64</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>19</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1986</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>12.8</Nseen>
+
+	<Kests>56.8</Kests>
+
+	<Adults>19.5</Adults>
+
+	<Juvs>30.2</Juvs>
+
+	<Voles>7.4</Voles>
+
+	<Mice>4.2</Mice>
+
+	<Shrews>0.2</Shrews>
+
+	<Temp>10.1</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>48</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>20</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1986</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>8.3</Nseen>
+
+	<Kests>48.7</Kests>
+
+	<Adults>20.2</Adults>
+
+	<Juvs>21.9</Juvs>
+
+	<Voles>2.3</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>0</Shrews>
+
+	<Temp>3.5</Temp>
+
+	<SnowDays>4.9</SnowDays>
+
+	<Rain>38</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>21</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1986</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>7.8</Nseen>
+
+	<Kests>47.9</Kests>
+
+	<Adults>28.6</Adults>
+
+	<Juvs>16.3</Juvs>
+
+	<Voles>2.9</Voles>
+
+	<Mice>0.3</Mice>
+
+	<Shrews>0.3</Shrews>
+
+	<Temp>10.5</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>44</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>22</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1987</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>7.3</Nseen>
+
+	<Kests>47.1</Kests>
+
+	<Adults>8.6</Adults>
+
+	<Juvs>29.9</Juvs>
+
+	<Voles>13.4</Voles>
+
+	<Mice>4.1</Mice>
+
+	<Shrews>1.3</Shrews>
+
+	<Temp>10.2</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>71</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>23</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1987</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>10.8</Nseen>
+
+	<Kests>53.3</Kests>
+
+	<Adults>19.7</Adults>
+
+	<Juvs>25.4</Juvs>
+
+	<Voles>2.2</Voles>
+
+	<Mice>1.5</Mice>
+
+	<Shrews>0</Shrews>
+
+	<Temp>5.6</Temp>
+
+	<SnowDays>2.4</SnowDays>
+
+	<Rain>49</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>24</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1987</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>7.8</Nseen>
+
+	<Kests>47.9</Kests>
+
+	<Adults>31.9</Adults>
+
+	<Juvs>9.8</Juvs>
+
+	<Voles>4.2</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>0</Shrews>
+
+	<Temp>10.2</Temp>
+
+	<SnowDays>0.5</SnowDays>
+
+	<Rain>41</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>25</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1988</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>16.4</Nseen>
+
+	<Kests>63.2</Kests>
+
+	<Adults>21.6</Adults>
+
+	<Juvs>33.1</Juvs>
+
+	<Voles>9</Voles>
+
+	<Mice>5.6</Mice>
+
+	<Shrews>0.8</Shrews>
+
+	<Temp>9.9</Temp>
+
+	<SnowDays>0.7</SnowDays>
+
+	<Rain>34</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>26</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1988</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>20</Nseen>
+
+	<Kests>69.6</Kests>
+
+	<Adults>23.2</Adults>
+
+	<Juvs>34.2</Juvs>
+
+	<Voles>10.5</Voles>
+
+	<Mice>1.8</Mice>
+
+	<Shrews>0.8</Shrews>
+
+	<Temp>6.6</Temp>
+
+	<SnowDays>0.5</SnowDays>
+
+	<Rain>27</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>27</RowID>
+
+	<StudyArea>A</StudyArea>
+
+	<WinterYear>1988</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>12.3</Nseen>
+
+	<Kests>55.8</Kests>
+
+	<Adults>26.2</Adults>
+
+	<Juvs>22.8</Juvs>
+
+	<Voles>8.5</Voles>
+
+	<Mice>0.7</Mice>
+
+	<Shrews>3.8</Shrews>
+
+	<Temp>9.7</Temp>
+
+	<SnowDays>1.5</SnowDays>
+
+	<Rain>56</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>28</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1980</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>6</Nseen>
+
+	<Kests>61.3</Kests>
+
+	<Adults>17.9</Adults>
+
+	<Juvs>33.2</Juvs>
+
+	<Voles></Voles>
+
+	<Mice></Mice>
+
+	<Shrews></Shrews>
+
+	<Temp>9.7</Temp>
+
+	<SnowDays>1.3</SnowDays>
+
+	<Rain>60</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>29</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1980</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>4.9</Nseen>
+
+	<Kests>49.5</Kests>
+
+	<Adults>26.6</Adults>
+
+	<Juvs>16.5</Juvs>
+
+	<Voles>8.4</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>1.2</Shrews>
+
+	<Temp>4.8</Temp>
+
+	<SnowDays>4.8</SnowDays>
+
+	<Rain>54</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>30</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1980</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>6.4</Nseen>
+
+	<Kests>65.8</Kests>
+
+	<Adults>42.4</Adults>
+
+	<Juvs>13.2</Juvs>
+
+	<Voles>17.8</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>4.3</Shrews>
+
+	<Temp>9.2</Temp>
+
+	<SnowDays>1</SnowDays>
+
+	<Rain>76</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>31</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1981</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>5</Nseen>
+
+	<Kests>50.8</Kests>
+
+	<Adults>13.5</Adults>
+
+	<Juvs>32.2</Juvs>
+
+	<Voles>10.8</Voles>
+
+	<Mice>0.5</Mice>
+
+	<Shrews>2.7</Shrews>
+
+	<Temp>9.7</Temp>
+
+	<SnowDays>0.7</SnowDays>
+
+	<Rain>57</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>32</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1981</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>4.7</Nseen>
+
+	<Kests>47.3</Kests>
+
+	<Adults>33.8</Adults>
+
+	<Juvs>13.5</Juvs>
+
+	<Voles>5.9</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>0.4</Shrews>
+
+	<Temp>3.1</Temp>
+
+	<SnowDays>5</SnowDays>
+
+	<Rain>54</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>33</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1981</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>5</Nseen>
+
+	<Kests>50.8</Kests>
+
+	<Adults>40.6</Adults>
+
+	<Juvs>6.8</Juvs>
+
+	<Voles>2.8</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>1</Shrews>
+
+	<Temp>9.5</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>23</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>34</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1982</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>5.7</Nseen>
+
+	<Kests>58.3</Kests>
+
+	<Adults>20.4</Adults>
+
+	<Juvs>32.1</Juvs>
+
+	<Voles>9.4</Voles>
+
+	<Mice>0.9</Mice>
+
+	<Shrews>0.9</Shrews>
+
+	<Temp>10.3</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>62</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>35</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1982</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>5</Nseen>
+
+	<Kests>50.8</Kests>
+
+	<Adults>31.7</Adults>
+
+	<Juvs>19</Juvs>
+
+	<Voles>6.6</Voles>
+
+	<Mice>1.1</Mice>
+
+	<Shrews>0.6</Shrews>
+
+	<Temp>4.2</Temp>
+
+	<SnowDays>3.5</SnowDays>
+
+	<Rain>39</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>36</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1982</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>4.8</Nseen>
+
+	<Kests>48.7</Kests>
+
+	<Adults>24.3</Adults>
+
+	<Juvs>20.3</Juvs>
+
+	<Voles>4</Voles>
+
+	<Mice>0.3</Mice>
+
+	<Shrews>1.9</Shrews>
+
+	<Temp>8.4</Temp>
+
+	<SnowDays>2</SnowDays>
+
+	<Rain>92</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>37</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1983</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>7</Nseen>
+
+	<Kests>71.8</Kests>
+
+	<Adults>38.1</Adults>
+
+	<Juvs>27.8</Juvs>
+
+	<Voles>17.7</Voles>
+
+	<Mice>1.9</Mice>
+
+	<Shrews>2</Shrews>
+
+	<Temp>10.3</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>46</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>38</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1983</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>5.4</Nseen>
+
+	<Kests>55.3</Kests>
+
+	<Adults>29.1</Adults>
+
+	<Juvs>24.7</Juvs>
+
+	<Voles>6.6</Voles>
+
+	<Mice>0.3</Mice>
+
+	<Shrews>0.1</Shrews>
+
+	<Temp>3.8</Temp>
+
+	<SnowDays>3.3</SnowDays>
+
+	<Rain>56</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>39</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1983</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>6</Nseen>
+
+	<Kests>61.3</Kests>
+
+	<Adults>40.9</Adults>
+
+	<Juvs>14.3</Juvs>
+
+	<Voles>4.9</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>0.7</Shrews>
+
+	<Temp>8.2</Temp>
+
+	<SnowDays>0.5</SnowDays>
+
+	<Rain>32</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>40</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1984</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>5.3</Nseen>
+
+	<Kests>53.8</Kests>
+
+	<Adults>21.8</Adults>
+
+	<Juvs>32</Juvs>
+
+	<Voles>15.6</Voles>
+
+	<Mice>1.4</Mice>
+
+	<Shrews>1.9</Shrews>
+
+	<Temp>10.9</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>64</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>41</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1984</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>4.3</Nseen>
+
+	<Kests>43.3</Kests>
+
+	<Adults>20.2</Adults>
+
+	<Juvs>23.1</Juvs>
+
+	<Voles>4.2</Voles>
+
+	<Mice>1</Mice>
+
+	<Shrews>0.2</Shrews>
+
+	<Temp>2.5</Temp>
+
+	<SnowDays>6.3</SnowDays>
+
+	<Rain>35</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>42</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1984</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>4.8</Nseen>
+
+	<Kests>49</Kests>
+
+	<Adults>38.9</Adults>
+
+	<Juvs>10.1</Juvs>
+
+	<Voles>2.6</Voles>
+
+	<Mice>0.1</Mice>
+
+	<Shrews>1.1</Shrews>
+
+	<Temp>9.3</Temp>
+
+	<SnowDays>0.5</SnowDays>
+
+	<Rain>58</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>43</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1985</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>6</Nseen>
+
+	<Kests>61.3</Kests>
+
+	<Adults>33.2</Adults>
+
+	<Juvs>28.1</Juvs>
+
+	<Voles>22.9</Voles>
+
+	<Mice>1.3</Mice>
+
+	<Shrews>2.4</Shrews>
+
+	<Temp>9.5</Temp>
+
+	<SnowDays>1</SnowDays>
+
+	<Rain>36</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>44</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1985</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>5.3</Nseen>
+
+	<Kests>53.4</Kests>
+
+	<Adults>28</Adults>
+
+	<Juvs>25.4</Juvs>
+
+	<Voles>9.3</Voles>
+
+	<Mice>0.3</Mice>
+
+	<Shrews>0.4</Shrews>
+
+	<Temp>2.9</Temp>
+
+	<SnowDays>7</SnowDays>
+
+	<Rain>64</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>45</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1985</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>3.8</Nseen>
+
+	<Kests>38.5</Kests>
+
+	<Adults>30.2</Adults>
+
+	<Juvs>8.4</Juvs>
+
+	<Voles>5.9</Voles>
+
+	<Mice>0.1</Mice>
+
+	<Shrews>1.4</Shrews>
+
+	<Temp>8.6</Temp>
+
+	<SnowDays>2</SnowDays>
+
+	<Rain>65</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>46</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1986</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>3.3</Nseen>
+
+	<Kests>33.3</Kests>
+
+	<Adults>23.3</Adults>
+
+	<Juvs>10</Juvs>
+
+	<Voles>9.7</Voles>
+
+	<Mice>0.4</Mice>
+
+	<Shrews>1.3</Shrews>
+
+	<Temp>9.5</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>46</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>47</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1986</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>4</Nseen>
+
+	<Kests>40.3</Kests>
+
+	<Adults>25.2</Adults>
+
+	<Juvs>15.1</Juvs>
+
+	<Voles>3.1</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>0</Shrews>
+
+	<Temp>3.1</Temp>
+
+	<SnowDays>6.8</SnowDays>
+
+	<Rain>46</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>48</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1986</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>1.2</Nseen>
+
+	<Kests>10.9</Kests>
+
+	<Adults>5.4</Adults>
+
+	<Juvs>5.4</Juvs>
+
+	<Voles>4.1</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>0.7</Shrews>
+
+	<Temp>9.9</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>48</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>49</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1987</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>6.8</Nseen>
+
+	<Kests>69.2</Kests>
+
+	<Adults>10.2</Adults>
+
+	<Juvs>46.1</Juvs>
+
+	<Voles>20.1</Voles>
+
+	<Mice>1.6</Mice>
+
+	<Shrews>0.3</Shrews>
+
+	<Temp>9.5</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>67</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>50</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1987</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>5.8</Nseen>
+
+	<Kests>59.5</Kests>
+
+	<Adults>23.8</Adults>
+
+	<Juvs>22.1</Juvs>
+
+	<Voles>6.2</Voles>
+
+	<Mice>0.2</Mice>
+
+	<Shrews>0.2</Shrews>
+
+	<Temp>5.3</Temp>
+
+	<SnowDays>2.8</SnowDays>
+
+	<Rain>59</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>51</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1987</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>4.4</Nseen>
+
+	<Kests>44.5</Kests>
+
+	<Adults>26.3</Adults>
+
+	<Juvs>14.2</Juvs>
+
+	<Voles>3.5</Voles>
+
+	<Mice>0.2</Mice>
+
+	<Shrews>0.5</Shrews>
+
+	<Temp>9.5</Temp>
+
+	<SnowDays>0.5</SnowDays>
+
+	<Rain>29</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>52</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1988</WinterYear>
+
+	<Season>A</Season>
+
+	<Nseen>8.6</Nseen>
+
+	<Kests>88.6</Kests>
+
+	<Adults>39.1</Adults>
+
+	<Juvs>45.3</Juvs>
+
+	<Voles>10.4</Voles>
+
+	<Mice>1.2</Mice>
+
+	<Shrews>0.8</Shrews>
+
+	<Temp>9.3</Temp>
+
+	<SnowDays>0.3</SnowDays>
+
+	<Rain>37</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>53</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1988</WinterYear>
+
+	<Season>W</Season>
+
+	<Nseen>8.3</Nseen>
+
+	<Kests>84.9</Kests>
+
+	<Adults>36</Adults>
+
+	<Juvs>36</Juvs>
+
+	<Voles>9.5</Voles>
+
+	<Mice>1</Mice>
+
+	<Shrews>0.8</Shrews>
+
+	<Temp>6.2</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>33</Rain>
+
+</RECORD>
+<RECORD>
+	<RowID>54</RowID>
+
+	<StudyArea>M</StudyArea>
+
+	<WinterYear>1988</WinterYear>
+
+	<Season>S</Season>
+
+	<Nseen>6.4</Nseen>
+
+	<Kests>65.5</Kests>
+
+	<Adults>32.7</Adults>
+
+	<Juvs>26.6</Juvs>
+
+	<Voles>7.7</Voles>
+
+	<Mice>0</Mice>
+
+	<Shrews>4.5</Shrews>
+
+	<Temp>9.1</Temp>
+
+	<SnowDays>0</SnowDays>
+
+	<Rain>67</Rain>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,7635 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<SiteCode>400PHO</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3220</Easting>
+
+	<Northing>9110</Northing>
+
+	<FullName>400 PUMP HOUSE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>40FTPH</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3311</Easting>
+
+	<Northing>8800</Northing>
+
+	<FullName>40 FOOT PUMP HOUSE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>4OOBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3312</Easting>
+
+	<Northing>9112</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ASHY</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2222</Easting>
+
+	<Northing>111</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BACKRE</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3171</Easting>
+
+	<Northing>9351</Northing>
+
+	<FullName>BACK REACH FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BAINES</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9859</Easting>
+
+	<Northing>1317</Northing>
+
+	<FullName>BAINES</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BARDWW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9397</Easting>
+
+	<Northing>30</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BARNLG</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9850</Easting>
+
+	<Northing>1140</Northing>
+
+	<FullName>BARN LODGE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BARROB</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9770</Easting>
+
+	<Northing>311</Northing>
+
+	<FullName>BARROWDEN RD SHED</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BEAR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>1950</Easting>
+
+	<Northing>480</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BEAVBA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9931</Easting>
+
+	<Northing>318</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BEAVBB</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9949</Easting>
+
+	<Northing>349</Northing>
+
+	<FullName>BEAVERS BANK COLLYW</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BEAVBK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9920</Easting>
+
+	<Northing>380</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BEBBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3362</Easting>
+
+	<Northing>9068</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BEEZLG</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3582</Easting>
+
+	<Northing>8855</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BELMYS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9475</Easting>
+
+	<Northing>178</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BENWPH</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3520</Easting>
+
+	<Northing>9097</Northing>
+
+	<FullName>BENWICK PUMP HOUSE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BILLUP</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3708</Easting>
+
+	<Northing>8220</Northing>
+
+	<FullName>BILLUPS BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BKSB_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2210</Easting>
+
+	<Northing>417</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BKSB_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2211</Easting>
+
+	<Northing>420</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BODBOX</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2960</Easting>
+
+	<Northing>8867</Northing>
+
+	<FullName>BODSET T JUNCTION</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BODCRO</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2959</Easting>
+
+	<Northing>8665</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BODELM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2950</Easting>
+
+	<Northing>8670</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BODJON</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2960</Easting>
+
+	<Northing>8700</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BOWLAH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9845</Easting>
+
+	<Northing>9978</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BOWLOK</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9820</Easting>
+
+	<Northing>9970</Northing>
+
+	<FullName>BLINKING OWL</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BPOOLD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3378</Easting>
+
+	<Northing>8198</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BRICKE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2930</Easting>
+
+	<Northing>8750</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BRICKX</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2905</Easting>
+
+	<Northing>8723</Northing>
+
+	<FullName>BRICK KILNS</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BROAD2</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3370</Easting>
+
+	<Northing>8190</Northing>
+
+	<FullName>BROADPOOL DROVE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BROADF</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3415</Easting>
+
+	<Northing>8310</Northing>
+
+	<FullName>BROADPOOL FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BSSB_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2010</Easting>
+
+	<Northing>464</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BSSB_4</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2020</Easting>
+
+	<Northing>471</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BURNTH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3426</Easting>
+
+	<Northing>9348</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BURYCH</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2865</Easting>
+
+	<Northing>8351</Northing>
+
+	<FullName>BURY CHURCH BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BURYSK</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2939</Easting>
+
+	<Northing>8325</Northing>
+
+	<FullName>BURY FEN STACK</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>BURYST</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2940</Easting>
+
+	<Northing>8325</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CADESX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3104</Easting>
+
+	<Northing>8820</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CAGL_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2439</Easting>
+
+	<Northing>168</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CAGL_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2440</Easting>
+
+	<Northing>161</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CAMPBX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2970</Easting>
+
+	<Northing>8470</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CASTAS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>TF</GridSquare>
+
+	<Easting>7</Easting>
+
+	<Northing>960</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CATR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>3235</Easting>
+
+	<Northing>98</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CHAPBR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2895</Easting>
+
+	<Northing>9402</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CHATS1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3868</Easting>
+
+	<Northing>8700</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CHATS2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3865</Easting>
+
+	<Northing>8715</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CHATS3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3851</Easting>
+
+	<Northing>8710</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CHRISL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9953</Easting>
+
+	<Northing>1290</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CHRISX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9953</Easting>
+
+	<Northing>1290</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CHURCH</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2712</Easting>
+
+	<Northing>8990</Northing>
+
+	<FullName>CHURCH FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COACHB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9170</Easting>
+
+	<Northing>9891</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COLFPA</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9900</Easting>
+
+	<Northing>252</Northing>
+
+	<FullName>COLLYW FISH PONDS</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COLFPB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9870</Easting>
+
+	<Northing>250</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COLFPC</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9842</Easting>
+
+	<Northing>240</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COLFPN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9900</Easting>
+
+	<Northing>268</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COLLBR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9945</Easting>
+
+	<Northing>420</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COLLWB</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>TF</GridSquare>
+
+	<Easting>30</Easting>
+
+	<Northing>301</Northing>
+
+	<FullName>COLLYN WATER TNR</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COLLWE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>TF</GridSquare>
+
+	<Easting>75</Easting>
+
+	<Northing>285</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COLWTS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9953</Easting>
+
+	<Northing>221</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CONEYW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3980</Easting>
+
+	<Northing>9285</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COOKSD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3065</Easting>
+
+	<Northing>8512</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COPLYE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9595</Easting>
+
+	<Northing>142</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COPLYW</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9470</Easting>
+
+	<Northing>145</Northing>
+
+	<FullName>COPPICE LEYS WEST</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>COWPFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>TF</GridSquare>
+
+	<Easting>115</Easting>
+
+	<Northing>1074</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CRADAM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3661</Easting>
+
+	<Northing>9222</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CRGL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2440</Easting>
+
+	<Northing>161</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CROSSR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9688</Easting>
+
+	<Northing>995</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CUCKLA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9678</Easting>
+
+	<Northing>302</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CUCKLB</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9673</Easting>
+
+	<Northing>292</Northing>
+
+	<FullName>CUCKOO LODGE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CUCKLC</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9649</Easting>
+
+	<Northing>306</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>CUCKLE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9718</Easting>
+
+	<Northing>300</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DAIRYF</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3005</Easting>
+
+	<Northing>9000</Northing>
+
+	<FullName>DAIRY FARM BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DAVN_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2309</Easting>
+
+	<Northing>274</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DAVN_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2361</Easting>
+
+	<Northing>228</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DAWSON</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3410</Easting>
+
+	<Northing>8730</Northing>
+
+	<FullName>DAWSONS FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DELAVA</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3110</Easting>
+
+	<Northing>9380</Northing>
+
+	<FullName>DELAVALS</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DEXTER</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9890</Easting>
+
+	<Northing>1082</Northing>
+
+	<FullName>DEXTERS TREECLOSE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DNBPAS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9880</Easting>
+
+	<Northing>148</Northing>
+
+	<FullName>DUDDINGTON NBP</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DODGHR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3852</Easting>
+
+	<Northing>9081</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DODGHS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3851</Easting>
+
+	<Northing>9060</Northing>
+
+	<FullName>DODDINGTON GLASSHOUSES</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DORING</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2990</Easting>
+
+	<Northing>8420</Northing>
+
+	<FullName>DORRINGTONS FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DORRIN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3140</Easting>
+
+	<Northing>8405</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DOVCBX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3620</Easting>
+
+	<Northing>8120</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DOVCOT</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3625</Easting>
+
+	<Northing>8112</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DOVEHS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3203</Easting>
+
+	<Northing>8421</Northing>
+
+	<FullName>DOVEHOUSE FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DPSEAS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9835</Easting>
+
+	<Northing>28</Northing>
+
+	<FullName>DUDDINGTON PS EAST</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DPSERN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9839</Easting>
+
+	<Northing>58</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DPSEWL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9840</Easting>
+
+	<Northing>33</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DPSWAS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9790</Easting>
+
+	<Northing>26</Northing>
+
+	<FullName>DUDDINGTON PS WEST</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DUDLAY</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9780</Easting>
+
+	<Northing>9995</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DUMK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2555</Easting>
+
+	<Northing>280</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DUMW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2468</Easting>
+
+	<Northing>210</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DYKEAS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3825</Easting>
+
+	<Northing>9010</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DYKEBX</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3788</Easting>
+
+	<Northing>9015</Northing>
+
+	<FullName>DYKEMOOR FM BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>DYKESH</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3650</Easting>
+
+	<Northing>9012</Northing>
+
+	<FullName>DYKEMOOR SHED</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>EDLRIN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3160</Easting>
+
+	<Northing>9782</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>EDWDFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3635</Easting>
+
+	<Northing>8000</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>EKWD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2428</Easting>
+
+	<Northing>278</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ELDPOM</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3125</Easting>
+
+	<Northing>9862</Northing>
+
+	<FullName>ELDERNELL POND</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ELDRIN</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3160</Easting>
+
+	<Northing>9782</Northing>
+
+	<FullName>ELDERNEL DRIVE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ELDWES</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3100</Easting>
+
+	<Northing>9854</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ELLIWP</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9652</Easting>
+
+	<Northing>610</Northing>
+
+	<FullName>ELLIS WIND PUMP</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ELMSBX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9235</Easting>
+
+	<Northing>100</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ELMSEN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3349</Easting>
+
+	<Northing>8497</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ELMSFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3361</Easting>
+
+	<Northing>8492</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>EMPSTA</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9492</Easting>
+
+	<Northing>816</Northing>
+
+	<FullName>EMPINGHAM PUMP STATION</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>EMPWIL</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9561</Easting>
+
+	<Northing>824</Northing>
+
+	<FullName>EMP WILLOUGHBY</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ESKW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2428</Easting>
+
+	<Northing>278</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FBOG_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2491</Easting>
+
+	<Northing>739</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FBOG_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2492</Easting>
+
+	<Northing>732</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FBOG_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2495</Easting>
+
+	<Northing>792</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FBOG1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2495</Easting>
+
+	<Northing>742</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FBOG2_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2492</Easting>
+
+	<Northing>723</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FBOG2_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2492</Easting>
+
+	<Northing>732</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FBOG3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2494</Easting>
+
+	<Northing>712</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FENBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3270</Easting>
+
+	<Northing>7980</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FENMAR</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3760</Easting>
+
+	<Northing>8370</Northing>
+
+	<FullName>SEWARDS FARM ASH</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FENTON</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3270</Easting>
+
+	<Northing>7980</Northing>
+
+	<FullName>FENTON BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FHWD_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2355</Easting>
+
+	<Northing>412</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FHWD_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2356</Easting>
+
+	<Northing>410</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FHWD_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2358</Easting>
+
+	<Northing>410</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FIBG</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2379</Easting>
+
+	<Northing>385</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FINEAB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9705</Easting>
+
+	<Northing>9785</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FLINTS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9949</Easting>
+
+	<Northing>620</Northing>
+
+	<FullName>FLINTS ROAD</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FLOODF</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3530</Easting>
+
+	<Northing>9375</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FOURAS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3178</Easting>
+
+	<Northing>9088</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FOURHR</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3241</Easting>
+
+	<Northing>8985</Northing>
+
+	<FullName>400 FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FOURSH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3242</Easting>
+
+	<Northing>8986</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FOUTYP</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3312</Easting>
+
+	<Northing>8800</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FOXCOV</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9653</Easting>
+
+	<Northing>211</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FOXHBX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3222</Easting>
+
+	<Northing>8162</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FROGHL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3210</Easting>
+
+	<Northing>8524</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FSBN_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2469</Easting>
+
+	<Northing>398</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FSBN_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2472</Easting>
+
+	<Northing>400</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FSBS_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2469</Easting>
+
+	<Northing>361</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>FSBS_4</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2470</Easting>
+
+	<Northing>374</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GAIR_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2760</Easting>
+
+	<Northing>954</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GAIR_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2764</Easting>
+
+	<Northing>952</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GAIR_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2764</Easting>
+
+	<Northing>953</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GAIR_4</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2769</Easting>
+
+	<Northing>962</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GAIR1_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2764</Easting>
+
+	<Northing>953</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GAIR1_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2769</Easting>
+
+	<Northing>962</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GAIR2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2764</Easting>
+
+	<Northing>953</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GATE_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2820</Easting>
+
+	<Northing>1279</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GATE_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2820</Easting>
+
+	<Northing>1280</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GGBARB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9200</Easting>
+
+	<Northing>390</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GGBARE</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9192</Easting>
+
+	<Northing>359</Northing>
+
+	<FullName>GGBARN EAST</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GGBARW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9150</Easting>
+
+	<Northing>345</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLABCR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9090</Easting>
+
+	<Northing>150</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLASLD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9089</Easting>
+
+	<Northing>58</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLASSM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2975</Easting>
+
+	<Northing>9080</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLASTB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9134</Easting>
+
+	<Northing>140</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLASTM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9117</Easting>
+
+	<Northing>141</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLATBA</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9035</Easting>
+
+	<Northing>132</Northing>
+
+	<FullName>GLASTON BARN</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLATUN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9027</Easting>
+
+	<Northing>70</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLEBEA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9276</Easting>
+
+	<Northing>295</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLEBEB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9289</Easting>
+
+	<Northing>320</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLEBES</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9278</Easting>
+
+	<Northing>304</Northing>
+
+	<FullName>GLEBE ROAD N LUFF</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLEN_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2775</Easting>
+
+	<Northing>1075</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLEN_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2805</Easting>
+
+	<Northing>1105</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLEN1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2775</Easting>
+
+	<Northing>1075</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GLEN2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2805</Easting>
+
+	<Northing>1095</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRANGE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3967</Easting>
+
+	<Northing>9354</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRANHO</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3985</Easting>
+
+	<Northing>9398</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRATQY</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9695</Easting>
+
+	<Northing>605</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRAYAS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3642</Easting>
+
+	<Northing>8352</Northing>
+
+	<FullName>GRAYS FARM ASH BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GREGLD</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9961</Easting>
+
+	<Northing>52</Northing>
+
+	<FullName>GREGORYS LODGE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRIFTK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9639</Easting>
+
+	<Northing>872</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRKW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2778</Easting>
+
+	<Northing>838</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRSK_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2565</Easting>
+
+	<Northing>720</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRSK_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2570</Easting>
+
+	<Northing>710</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRSK2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2565</Easting>
+
+	<Northing>720</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRYD_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2546</Easting>
+
+	<Northing>117</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GRYD_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2549</Easting>
+
+	<Northing>105</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>GTRVAS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2252</Easting>
+
+	<Northing>8092</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HARDWK</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9710</Easting>
+
+	<Northing>1275</Northing>
+
+	<FullName>HARDWICK FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HARE_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2746</Easting>
+
+	<Northing>1132</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HARE_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2750</Easting>
+
+	<Northing>1132</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HARE1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2750</Easting>
+
+	<Northing>1133</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HARE2_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2746</Easting>
+
+	<Northing>1132</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HARE2_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2748</Easting>
+
+	<Northing>1130</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HART</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2540</Easting>
+
+	<Northing>1430</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HARWHL</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9192</Easting>
+
+	<Northing>9716</Northing>
+
+	<FullName>HARRINGWORTH HILL</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HDLWDB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3842</Easting>
+
+	<Northing>8013</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HHEAPF</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3110</Easting>
+
+	<Northing>8560</Northing>
+
+	<FullName>HOLLOW HEAP FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HHEAPS</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3060</Easting>
+
+	<Northing>8500</Northing>
+
+	<FullName>HOLLOW HEAP STUMP</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HHEAPX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3108</Easting>
+
+	<Northing>8557</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HOLHAS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3079</Easting>
+
+	<Northing>8544</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HOLHSW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3060</Easting>
+
+	<Northing>8541</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HOLWDB</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3842</Easting>
+
+	<Northing>8013</Northing>
+
+	<FullName>HOLWOOD FARM BARN</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HONEYS</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3795</Easting>
+
+	<Northing>8662</Northing>
+
+	<FullName>HONEYSOME FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HOPKQY</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9762</Easting>
+
+	<Northing>251</Northing>
+
+	<FullName>HOPKINS QUARRY</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HUMBRL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3061</Easting>
+
+	<Northing>8130</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HUNDAC</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>TF</GridSquare>
+
+	<Easting>64</Easting>
+
+	<Northing>1375</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HUNTF1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9821</Easting>
+
+	<Northing>750</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HUNTF2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9820</Easting>
+
+	<Northing>745</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HUNTF3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9832</Easting>
+
+	<Northing>738</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>HUNTF4</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9835</Easting>
+
+	<Northing>730</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>JHNSN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2410</Easting>
+
+	<Northing>318</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>JHSN_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2400</Easting>
+
+	<Northing>343</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>JHSN_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2404</Easting>
+
+	<Northing>330</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>JHSN_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2410</Easting>
+
+	<Northing>318</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>JHSS_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2412</Easting>
+
+	<Northing>311</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>JHSS_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2415</Easting>
+
+	<Northing>303</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KEBULL</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9821</Easting>
+
+	<Northing>470</Northing>
+
+	<FullName>KETTON FISHPONDS</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KETFPA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9842</Easting>
+
+	<Northing>482</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KETFPE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9840</Easting>
+
+	<Northing>465</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KETPAT</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9885</Easting>
+
+	<Northing>495</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KETQYA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9758</Easting>
+
+	<Northing>529</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KETQYB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9722</Easting>
+
+	<Northing>541</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KETWML</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9719</Easting>
+
+	<Northing>464</Northing>
+
+	<FullName>KETTON WMILL</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KEWBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3342</Easting>
+
+	<Northing>9181</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KEWOR1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3346</Easting>
+
+	<Northing>9200</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KEWOR2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3345</Easting>
+
+	<Northing>9198</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KEWOR3</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3341</Easting>
+
+	<Northing>9190</Northing>
+
+	<FullName>KEYWORTH HOUSE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KEWOR4</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3342</Easting>
+
+	<Northing>9188</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KEWOR5</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3335</Easting>
+
+	<Northing>9180</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KIDM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2089</Easting>
+
+	<Northing>237</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KINGS1</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2785</Easting>
+
+	<Northing>8275</Northing>
+
+	<FullName>KINGSLAND FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KIWGS2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2785</Easting>
+
+	<Northing>8276</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2423</Easting>
+
+	<Northing>213</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KLKW_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2423</Easting>
+
+	<Northing>213</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>KLKW_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2428</Easting>
+
+	<Northing>278</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LAMBCR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3725</Easting>
+
+	<Northing>8750</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LAMBP1</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3730</Easting>
+
+	<Northing>8750</Northing>
+
+	<FullName>LAMB PLANTATION</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LAMBP2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3614</Easting>
+
+	<Northing>8742</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LAMBPN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3595</Easting>
+
+	<Northing>8770</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LAMBSB</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9995</Easting>
+
+	<Northing>1061</Northing>
+
+	<FullName>LAMBS BARN</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LANESB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9378</Easting>
+
+	<Northing>552</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LANESF</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9370</Easting>
+
+	<Northing>552</Northing>
+
+	<FullName>LANES FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LANG</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2845</Easting>
+
+	<Northing>460</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LATFEN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2970</Easting>
+
+	<Northing>9630</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LIMESA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9059</Easting>
+
+	<Northing>9639</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LIMESB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9048</Easting>
+
+	<Northing>9648</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LINGSA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9826</Easting>
+
+	<Northing>1215</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LINKRD</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3320</Easting>
+
+	<Northing>8605</Northing>
+
+	<FullName>LINK ROAD</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LINL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2340</Easting>
+
+	<Northing>15</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LINT</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2282</Easting>
+
+	<Northing>26</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LINWOD</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>4070</Easting>
+
+	<Northing>9380</Northing>
+
+	<FullName>LINWOOD HOUSE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LITCHF</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9172</Easting>
+
+	<Northing>25</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LODEBX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2860</Easting>
+
+	<Northing>8770</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LODEST</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2850</Easting>
+
+	<Northing>8759</Northing>
+
+	<FullName>LODEND STUMP</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LONDBC</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3115</Easting>
+
+	<Northing>8170</Northing>
+
+	<FullName>LONDON BRICK CO</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LUFFPS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9340</Easting>
+
+	<Northing>299</Northing>
+
+	<FullName>N LUFF POND</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LUFFPW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9345</Easting>
+
+	<Northing>282</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LUFPOL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9393</Easting>
+
+	<Northing>308</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LYNDBA</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9165</Easting>
+
+	<Northing>453</Northing>
+
+	<FullName>LYNDON BARN</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LYNDSH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9041</Easting>
+
+	<Northing>402</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>LYNWOD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9041</Easting>
+
+	<Northing>481</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MAKEYS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9651</Easting>
+
+	<Northing>441</Northing>
+
+	<FullName>MAKEYS LANE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MAKW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2381</Easting>
+
+	<Northing>298</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MANPIC</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9918</Easting>
+
+	<Northing>1390</Northing>
+
+	<FullName>MANOR FM PICKWORTH</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MAYBSH</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3105</Easting>
+
+	<Northing>8340</Northing>
+
+	<FullName>MAYBUSH FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MEREFH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3113</Easting>
+
+	<Northing>8959</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MEREFM</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3139</Easting>
+
+	<Northing>8961</Northing>
+
+	<FullName>MERE FARM BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MFRBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9329</Easting>
+
+	<Northing>9795</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MIDH_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2134</Easting>
+
+	<Northing>132</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MIDH_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2135</Easting>
+
+	<Northing>132</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MILE_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2775</Easting>
+
+	<Northing>449</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MILE_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2776</Easting>
+
+	<Northing>449</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MILE_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2778</Easting>
+
+	<Northing>451</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MILLF1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9915</Easting>
+
+	<Northing>920</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MILLF2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9905</Easting>
+
+	<Northing>930</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MILLFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3650</Easting>
+
+	<Northing>8176</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MILLFZ</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9905</Easting>
+
+	<Northing>930</Northing>
+
+	<FullName>MILL FM TICKENCOTE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MKWD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2381</Easting>
+
+	<Northing>298</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MONK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2261</Easting>
+
+	<Northing>48</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MOORLA</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9382</Easting>
+
+	<Northing>240</Northing>
+
+	<FullName>MOOR LANE SLUFF</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MORCHH</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9246</Easting>
+
+	<Northing>78</Northing>
+
+	<FullName>MORCOTT CHURCH</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MORCQY</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9286</Easting>
+
+	<Northing>25</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MORCSW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9266</Easting>
+
+	<Northing>92</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MORCWM</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9305</Easting>
+
+	<Northing>10</Northing>
+
+	<FullName>MORCOTT WMILL</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MORLEY</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3517</Easting>
+
+	<Northing>8700</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MORRAA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9332</Easting>
+
+	<Northing>138</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MORRAD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9346</Easting>
+
+	<Northing>132</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MORRAX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9352</Easting>
+
+	<Northing>138</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MOXONS</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3160</Easting>
+
+	<Northing>8380</Northing>
+
+	<FullName>MOXONS FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>MOXOWS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3150</Easting>
+
+	<Northing>8389</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NDHP</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2610</Easting>
+
+	<Northing>938</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NDPL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2748</Easting>
+
+	<Northing>902</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NEWBAR</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3345</Easting>
+
+	<Northing>8339</Northing>
+
+	<FullName>NEW BARN FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NEWOOD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9608</Easting>
+
+	<Northing>608</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NEWTON</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3490</Easting>
+
+	<Northing>8420</Northing>
+
+	<FullName>NEWTONS FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NFENPT</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3745</Easting>
+
+	<Northing>7940</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NITF</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2770</Easting>
+
+	<Northing>367</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NLUFCH</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9342</Easting>
+
+	<Northing>325</Northing>
+
+	<FullName>N LUFF CHURCH</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NORMLW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9405</Easting>
+
+	<Northing>698</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NORMPK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9410</Easting>
+
+	<Northing>645</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NTFW_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2764</Easting>
+
+	<Northing>372</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NTFW_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2768</Easting>
+
+	<Northing>373</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NTFW_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2770</Easting>
+
+	<Northing>367</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NWAB_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2606</Easting>
+
+	<Northing>370</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>NWAB_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2608</Easting>
+
+	<Northing>370</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OAKFRM</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3260</Easting>
+
+	<Northing>8480</Northing>
+
+	<FullName>OAK FARM ROOST</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OCAS_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2306</Easting>
+
+	<Northing>468</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OCAS_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2310</Easting>
+
+	<Northing>431</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODAB_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2640</Easting>
+
+	<Northing>544</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODAB_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2645</Easting>
+
+	<Northing>550</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODBG_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2553</Easting>
+
+	<Northing>829</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODBG_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2559</Easting>
+
+	<Northing>828</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODBG_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2559</Easting>
+
+	<Northing>829</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODBG1_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2559</Easting>
+
+	<Northing>828</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODBG1_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2559</Easting>
+
+	<Northing>829</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODBG2_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2554</Easting>
+
+	<Northing>828</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODBG2_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2555</Easting>
+
+	<Northing>827</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODHP_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2530</Easting>
+
+	<Northing>874</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ODHP_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2530</Easting>
+
+	<Northing>879</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OHLBAD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9720</Easting>
+
+	<Northing>685</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OHLBRN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9758</Easting>
+
+	<Northing>690</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OHLOWL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9750</Easting>
+
+	<Northing>666</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OPDM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2460</Easting>
+
+	<Northing>807</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OPDM1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2640</Easting>
+
+	<Northing>807</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>OPDM2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2645</Easting>
+
+	<Northing>800</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PARKER</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3195</Easting>
+
+	<Northing>8597</Northing>
+
+	<FullName>PARKERS STACK</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PARKH2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2270</Easting>
+
+	<Northing>9320</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PARKHO</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2250</Easting>
+
+	<Northing>9330</Northing>
+
+	<FullName>PARK HOUSE FM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PCUMFN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3320</Easting>
+
+	<Northing>7910</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PENT</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2440</Easting>
+
+	<Northing>780</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PERYPH</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9738</Easting>
+
+	<Northing>10</Northing>
+
+	<FullName>PERCYS PUMP HOUSE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PGWDA1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9792</Easting>
+
+	<Northing>1398</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PGWDA2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9778</Easting>
+
+	<Northing>1392</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PGWDA3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9776</Easting>
+
+	<Northing>1393</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PGWDAS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9778</Easting>
+
+	<Northing>1392</Northing>
+
+	<FullName>PICKWORTH GREAT WOOD</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PIDBOT</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3530</Easting>
+
+	<Northing>8091</Northing>
+
+	<FullName>PIDLEY FEN BOTTOM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PIDMID</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3580</Easting>
+
+	<Northing>8041</Northing>
+
+	<FullName>PIDLEY FEN MIDDLE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PILTIP</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9081</Easting>
+
+	<Northing>207</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PILTWT</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9162</Easting>
+
+	<Northing>232</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PITLAN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9796</Easting>
+
+	<Northing>510</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>POCK_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2174</Easting>
+
+	<Northing>425</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>POCK_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2176</Easting>
+
+	<Northing>422</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>POCK_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2181</Easting>
+
+	<Northing>417</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>POCK1_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2174</Easting>
+
+	<Northing>425</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>POCK1_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2181</Easting>
+
+	<Northing>417</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>POCK2_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2174</Easting>
+
+	<Northing>425</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>POCK2_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2181</Easting>
+
+	<Northing>417</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PONDBR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2625</Easting>
+
+	<Northing>9180</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>PONDER</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2620</Easting>
+
+	<Northing>9190</Northing>
+
+	<FullName>PONDERS BR CHURCH</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>QFMASH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9530</Easting>
+
+	<Northing>369</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>QFMBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9530</Easting>
+
+	<Northing>371</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>QFMELM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9513</Easting>
+
+	<Northing>319</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>QFMJAC</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9523</Easting>
+
+	<Northing>369</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>R4OWIL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3011</Easting>
+
+	<Northing>8750</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RABH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2834</Easting>
+
+	<Northing>194</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RABS_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2632</Easting>
+
+	<Northing>20</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RABS_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2632</Easting>
+
+	<Northing>21</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RABS_3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2642</Easting>
+
+	<Northing>38</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RACEMY</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2930</Easting>
+
+	<Northing>8555</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RADIOH</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9509</Easting>
+
+	<Northing>250</Northing>
+
+	<FullName>RADIO HILL</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RAFSWK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9265</Easting>
+
+	<Northing>450</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RANSMR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3852</Easting>
+
+	<Northing>9135</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RCHL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2259</Easting>
+
+	<Northing>80</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>REDBAR</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9388</Easting>
+
+	<Northing>142</Northing>
+
+	<FullName>RED BARN A6121</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>REDHON</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3860</Easting>
+
+	<Northing>9825</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>REDTIL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3412</Easting>
+
+	<Northing>8395</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RHLODG</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9272</Easting>
+
+	<Northing>9925</Northing>
+
+	<FullName>RED HILL LODGE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RMERBX</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2937</Easting>
+
+	<Northing>9035</Northing>
+
+	<FullName>RMERSIDE BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROBAR2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9370</Easting>
+
+	<Northing>9830</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROBARN</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9380</Easting>
+
+	<Northing>9870</Northing>
+
+	<FullName>ROBERTS BARN</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROBARZ</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9370</Easting>
+
+	<Northing>9830</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROBBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9375</Easting>
+
+	<Northing>9852</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROOK_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2490</Easting>
+
+	<Northing>1080</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROOK_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2495</Easting>
+
+	<Northing>1090</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROOK1_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2490</Easting>
+
+	<Northing>1080</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROOK1_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2495</Easting>
+
+	<Northing>1090</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROOK2_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2490</Easting>
+
+	<Northing>1080</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROOK2_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2500</Easting>
+
+	<Northing>1090</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROOK3</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2509</Easting>
+
+	<Northing>1109</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROWELL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3519</Easting>
+
+	<Northing>8597</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>ROWEYF</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3355</Easting>
+
+	<Northing>8070</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RSMCHN</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2557</Easting>
+
+	<Northing>8722</Northing>
+
+	<FullName>RSM CHURCH</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RSMWML</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2487</Easting>
+
+	<Northing>8750</Northing>
+
+	<FullName>RSM WINDMILL</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>RYHALL</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>TF</GridSquare>
+
+	<Easting>198</Easting>
+
+	<Northing>1302</Northing>
+
+	<FullName>RYHALL FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SCOUTH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9770</Easting>
+
+	<Northing>789</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SEATBA</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>8990</Easting>
+
+	<Northing>9900</Northing>
+
+	<FullName>SEATON BARN</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SEATEA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9080</Easting>
+
+	<Northing>9848</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SEATRY</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9026</Easting>
+
+	<Northing>9925</Northing>
+
+	<FullName>SEATON RAILWAY BOX</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SEATW2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>8930</Easting>
+
+	<Northing>9886</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SEATWT</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>8930</Easting>
+
+	<Northing>9885</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SETCHF</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3585</Easting>
+
+	<Northing>8535</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SETTFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9310</Easting>
+
+	<Northing>229</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SEWARD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3720</Easting>
+
+	<Northing>8370</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SEWVAS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9288</Easting>
+
+	<Northing>379</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SEWVEN</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9289</Easting>
+
+	<Northing>378</Northing>
+
+	<FullName>SEWELLS VALLEY</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SHACK1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9654</Easting>
+
+	<Northing>823</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SHACK2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9690</Easting>
+
+	<Northing>785</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SHAKSN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9678</Easting>
+
+	<Northing>831</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SHIREO</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9654</Easting>
+
+	<Northing>110</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SHOTFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9232</Easting>
+
+	<Northing>9715</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SHOTHL</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9280</Easting>
+
+	<Northing>9690</Northing>
+
+	<FullName>SHOTLEY HILL</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SHOWGR</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2730</Easting>
+
+	<Northing>9800</Northing>
+
+	<FullName>SHOWGROUND</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SIKW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2680</Easting>
+
+	<Northing>1145</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SLKW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2680</Easting>
+
+	<Northing>1145</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SLUFWM</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9470</Easting>
+
+	<Northing>230</Northing>
+
+	<FullName>S.LUFF WINDMILL</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SLYBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3675</Easting>
+
+	<Northing>8052</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SLYFNE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3690</Easting>
+
+	<Northing>8048</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SLYSTK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3647</Easting>
+
+	<Northing>8078</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SPOOLF</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3410</Easting>
+
+	<Northing>8410</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>STKW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2390</Easting>
+
+	<Northing>126</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>STOCKF</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2860</Easting>
+
+	<Northing>8559</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SWINGB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3717</Easting>
+
+	<Northing>8881</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SWINGP</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3741</Easting>
+
+	<Northing>8846</Northing>
+
+	<FullName>SWINGBROW PUMP HOUSE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>SYKEGL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9432</Easting>
+
+	<Northing>810</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TDGL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2443</Easting>
+
+	<Northing>117</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TFENAS</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3598</Easting>
+
+	<Northing>8588</Northing>
+
+	<FullName>TICKFEN FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TFENCR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3540</Easting>
+
+	<Northing>8610</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>THIK_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2095</Easting>
+
+	<Northing>238</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>THIK_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2095</Easting>
+
+	<Northing>283</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICKDR</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9851</Easting>
+
+	<Northing>943</Northing>
+
+	<FullName>TICENCOTE L DRIVE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICKEN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9800</Easting>
+
+	<Northing>980</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICKPK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9897</Easting>
+
+	<Northing>958</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICKSL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9835</Easting>
+
+	<Northing>907</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICLD2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9750</Easting>
+
+	<Northing>920</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICLDN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9790</Easting>
+
+	<Northing>958</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICLDW</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9749</Easting>
+
+	<Northing>920</Northing>
+
+	<FullName>TICKENCOTE L ELM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICLFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9780</Easting>
+
+	<Northing>930</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TICPKB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9858</Easting>
+
+	<Northing>972</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TINROK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>TF</GridSquare>
+
+	<Easting>5</Easting>
+
+	<Northing>720</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TIXCHH</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9707</Easting>
+
+	<Northing>9972</Northing>
+
+	<FullName>TIXOVER CHURCH</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TIXGRS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9828</Easting>
+
+	<Northing>95</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TIXHAL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9789</Easting>
+
+	<Northing>51</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TIXLDG</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9715</Easting>
+
+	<Northing>145</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TOLLFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3268</Easting>
+
+	<Northing>8637</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TOPHBX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9066</Easting>
+
+	<Northing>466</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TOPHLA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9068</Easting>
+
+	<Northing>465</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TOPHLO</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9072</Easting>
+
+	<Northing>470</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TOPLDG</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9810</Easting>
+
+	<Northing>9620</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TROUTH</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9452</Easting>
+
+	<Northing>820</Northing>
+
+	<FullName>TROUT HATCHERY</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TURFEN</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3230</Easting>
+
+	<Northing>8235</Northing>
+
+	<FullName>TURF FEN STACKS</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>TURFSC</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3212</Easting>
+
+	<Northing>8304</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>UNDWOD</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2775</Easting>
+
+	<Northing>9514</Northing>
+
+	<FullName>UNDERWOOD GROUNDS</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>UNWDG2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2771</Easting>
+
+	<Northing>9514</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>UNWDGR</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2775</Easting>
+
+	<Northing>9514</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>UNWDSP</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2735</Easting>
+
+	<Northing>9465</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>UPWDE2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2621</Easting>
+
+	<Northing>8285</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>UPWDEM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2626</Easting>
+
+	<Northing>8285</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>VALL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2418</Easting>
+
+	<Northing>123</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WAKCAK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9642</Easting>
+
+	<Northing>9923</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WAKCHH</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9565</Easting>
+
+	<Northing>9922</Northing>
+
+	<FullName>WAKERLEY CHURCH</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WAKOBR</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9660</Easting>
+
+	<Northing>9943</Northing>
+
+	<FullName>WAKERREY OAKS BR</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WAKTWR</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SP</GridSquare>
+
+	<Easting>9471</Easting>
+
+	<Northing>9965</Northing>
+
+	<FullName>WAKERLEY TOWERS</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WALKFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>TF</GridSquare>
+
+	<Easting>109</Easting>
+
+	<Northing>1195</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WARBWD</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3040</Easting>
+
+	<Northing>8174</Northing>
+
+	<FullName>WARBOYS WOOD</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WATSPY</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9650</Easting>
+
+	<Northing>420</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WAYBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3030</Easting>
+
+	<Northing>8705</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WAYCAT</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3060</Easting>
+
+	<Northing>8722</Northing>
+
+	<FullName>WAYPOST FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WAYPOS</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3078</Easting>
+
+	<Northing>8730</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WELLBR</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>2970</Easting>
+
+	<Northing>8860</Northing>
+
+	<FullName>WELLS BRIDGE</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WELLOP</SiteCode>
+
+	<Type>N</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9604</Easting>
+
+	<Northing>13</Northing>
+
+	<FullName>WELLAND LOOP</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WELOOP</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9604</Easting>
+
+	<Northing>13</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WELSPY</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9660</Easting>
+
+	<Northing>22</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WESTFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3708</Easting>
+
+	<Northing>8682</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WESTSH</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3760</Easting>
+
+	<Northing>8761</Northing>
+
+	<FullName>WESTMOOR SHED</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WHITDK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3164</Easting>
+
+	<Northing>9521</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WHITR1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3772</Easting>
+
+	<Northing>9668</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WHITR2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3773</Easting>
+
+	<Northing>9628</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WILDE2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9870</Easting>
+
+	<Northing>843</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WILDLD</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9790</Easting>
+
+	<Northing>818</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WILDLE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9870</Easting>
+
+	<Northing>840</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WILDLW</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9740</Easting>
+
+	<Northing>823</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WIMBLN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>4120</Easting>
+
+	<Northing>9095</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WINGBA</SiteCode>
+
+	<Type>R</Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9000</Easting>
+
+	<Northing>228</Northing>
+
+	<FullName>WING BARNS</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WINGRA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9027</Easting>
+
+	<Northing>365</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WINGRB</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9063</Easting>
+
+	<Northing>342</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WINGRK</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9029</Easting>
+
+	<Northing>365</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WKSP_1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2802</Easting>
+
+	<Northing>656</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WKSP_2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2803</Easting>
+
+	<Northing>657</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WKSP1</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2802</Easting>
+
+	<Northing>656</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WKSP2</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2803</Easting>
+
+	<Northing>657</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WOODFM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3170</Easting>
+
+	<Northing>8116</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WOODLA</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3000</Easting>
+
+	<Northing>8740</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WOOL</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2881</Easting>
+
+	<Northing>248</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WORASH</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3108</Easting>
+
+	<Northing>8654</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WORBOX</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3145</Easting>
+
+	<Northing>8658</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WORELM</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3150</Easting>
+
+	<Northing>8660</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WORWBX</SiteCode>
+
+	<Type>B</Type>
+
+	<StudyArea>A</StudyArea>
+
+	<GridSquare>TL</GridSquare>
+
+	<Easting>3105</Easting>
+
+	<Northing>8648</Northing>
+
+	<FullName>WORLICK FARM</FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>WWAREN</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>M</StudyArea>
+
+	<GridSquare>SK</GridSquare>
+
+	<Easting>9575</Easting>
+
+	<Northing>475</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+<RECORD>
+	<SiteCode>YADE</SiteCode>
+
+	<Type></Type>
+
+	<StudyArea>G</StudyArea>
+
+	<GridSquare>NT</GridSquare>
+
+	<Easting>2163</Easting>
+
+	<Northing>1035</Northing>
+
+	<FullName></FullName>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<Description>Years in which an individual was known to have a mate and/or offpsring</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<Description>Master list of data codes and their translations</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblFieldSightings</TableName>
+
+	<Description>Observations of individuals away from the main rookeries</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblID</TableName>
+
+	<Description>Master list of birds, together with birth year and sex</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMarks</TableName>
+
+	<Description>Master list of all identification marks used on birds, Identity numbers assigned in original paper records and corresspondence to Identity numbers used in the database</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMortality</TableName>
+
+	<Description>Mortality details for individual birds</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCountAreas</TableName>
+
+	<Description>Location of rookeries and sub-rookeries</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCounts</TableName>
+
+	<Description>Annual counts of occupied nests in rookeries</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookeryNames</TableName>
+
+	<Description>Master list of rookeries</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookerySightings</TableName>
+
+	<Description>Observations of individuals at the main rookeries</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRoostCounts</TableName>
+
+	<Description>Counts of birds photographed flying above rookeries following an artificial scare once birds have come in to roost</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<Description>Description of every field in each table of the database</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<Description>Description of all tables in the database</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<Description>Dates of trapping and measurements made</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrapLocations</TableName>
+
+	<Description>Location of each rook trapping site</Description>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrees</TableName>
+
+	<Description>Master list of individual trees containing nests at the main rookeries</Description>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,2509 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>ClutchSize</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of eggs in complete clutch</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>ClutchStatus</FieldName>
+
+	<CodeRef>ClutchStatus</CodeRef>
+
+	<FieldDescription>Whether the exact number of eggs laid is known</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>EggLoss</FieldName>
+
+	<CodeRef>BreedFailure</CodeRef>
+
+	<FieldDescription>Causes of failure at egg stage</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>FemaleID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique Identity number for the female kestrel (or this specific breeding attempt by this female if it was an unmarked bird)</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>FledgeSize</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Brood size at fledging (taken as point when young were ringed, ~2-4 weeks after hatching)</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>FledgeStatus</FieldName>
+
+	<CodeRef>FledgeStatus</CodeRef>
+
+	<FieldDescription>Whether the exact number of young fledged is known</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>HatchSize</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Brood size at hatching. (Nests checked within a fw daya of hatching - any eggs lost around then were assumed to have hatched young that died)</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>HatchStatus</FieldName>
+
+	<CodeRef>HatchStatus</CodeRef>
+
+	<FieldDescription>Whether the exact number of chicks hatched is known</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>Layday</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Day of clutch initiation</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>LayMonth</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Month of clutch initiation</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>LayYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of breeding attempt</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>MaleID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique Identity number for the male kestrel (or this specific breeding attempt by this male if it was an unmarked bird)</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>NestLoss</FieldName>
+
+	<CodeRef>BreedFailure</CodeRef>
+
+	<FieldDescription>Causes of failure at nestling stage</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>SiteCode</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Site code for the breeding attempt</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>7</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>Status</FieldName>
+
+	<CodeRef>BreedStatus</CodeRef>
+
+	<FieldDescription>Breeding attempt status. (Used for calculating mean laying datyes etc.: Use codes N,L,F,V,X,Y for mean date of first natural clutch. Use codes N,F,V,X for first natural clutch size)</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusCalibration</TableName>
+
+	<FieldName>AreaSearched</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Area searched for kestrels (km2)</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusCalibration</TableName>
+
+	<FieldName>NMarked</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of marked kestrels seen</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusCalibration</TableName>
+
+	<FieldName>NUnmarked</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of unmarked kestrels seen</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusCalibration</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusCalibration</TableName>
+
+	<FieldName>Season</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Season in which the count was conducted</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusCalibration</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusCalibration</TableName>
+
+	<FieldName>Year</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year in which the count was conducted</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusData</TableName>
+
+	<FieldName>AgeSex</FieldName>
+
+	<CodeRef>AgeSex</CodeRef>
+
+	<FieldDescription>Age/sex class of kestrel</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusData</TableName>
+
+	<FieldName>Count</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of kestrels seen</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusData</TableName>
+
+	<FieldName>CountDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of census</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusData</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusData</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>6</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Adults</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean density of adult kestrels (/100km2) (Calculated as Kests * ((AdultMale + AdultFemale) / NSeen)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Juvs</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean density of apparent juveniles (includes 'Brown birds' that may be either juveniles or adult females) (Calculated as Kests * ((AllJuveniles + BrownBirds) / NSeen)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Kests</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean density per count (number per 100 km2) (calculated from calibration relationships; see tblCensusCalibration)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Mice</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean number of field mice per trap site in given Season</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Nseen</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean number of kestrels seen per count</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Rain</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Total rainfall in Season (mm)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Season</FieldName>
+
+	<CodeRef>Season</CodeRef>
+
+	<FieldDescription>Season of the density estimate</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Shrews</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean number of shrews per trap site in given Season</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>SnowDays</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean number of days per month with snowfall in Season</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Temp</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean temperature across Season</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>Voles</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mean number of voles per trap site in given Season</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCensusDensities</TableName>
+
+	<FieldName>WinterYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year (in which winter started, i.e. the year of the appropriate December)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>CodeRef</FieldName>
+
+	<CodeRef>CodeRef</CodeRef>
+
+	<FieldDescription>Category identifying each set of codes</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>20</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>Label</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Translation of the code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>100</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>Value</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Code used in the database</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>15</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblDensitySpring</TableName>
+
+	<FieldName>BreedingDensity</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Breeding density- i.e. density of birds that are part of laying pairs in Spring (birds/100km2)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblDensitySpring</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblDensitySpring</TableName>
+
+	<FieldName>TotalDensity</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Total density of kestrel in Spring (birds/100km2)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblDensitySpring</TableName>
+
+	<FieldName>Year</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Breeding year</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblGutComp</TableName>
+
+	<FieldName>GutID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Kestrel gut Identity number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblGutComp</TableName>
+
+	<FieldName>MonksWoodID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Identity number used to identity the carcass when autopsied at Monks Wood</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblGutComp</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblGutComp</TableName>
+
+	<FieldName>Score</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of identifiable fragments for this species</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblGutComp</TableName>
+
+	<FieldName>Species</FieldName>
+
+	<CodeRef>PelletSpp</CodeRef>
+
+	<FieldDescription>Prey species identified in the gut</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelID</TableName>
+
+	<FieldName>AgeStatus</FieldName>
+
+	<CodeRef>AgeStatus</CodeRef>
+
+	<FieldDescription>Level of information available about the age of the kestrel</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelID</TableName>
+
+	<FieldName>HatchYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of birth. If null, then the kestrel was an adult (i.e. not in juvenile plumage) throughout the study</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelID</TableName>
+
+	<FieldName>KestrelID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique number identifying the kestrel (or a specific kestrel-record for unmarked birds) in the database</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelID</TableName>
+
+	<FieldName>MarkedBird</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether or not the kestrel had a ring or other identity mark. If 'No' then then the kestrel is an unknown unmarked individual, and so may occur under different KestrelIDs in the database</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelID</TableName>
+
+	<FieldName>RingLetters</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>BTO ring prefix. 'XX' indicates that the ring letters existed but were unrecorded. If no ring letters present then RingNo is not a BTO ring</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelID</TableName>
+
+	<FieldName>RingNo</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>BTO ring number of the kestrel (or another number used to identify it)</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelID</TableName>
+
+	<FieldName>Sex</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Sex of the bird</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>BarGap</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Size of gap between bars (mm)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>BarWidth</FieldName>
+
+	<CodeRef>BarWidth</CodeRef>
+
+	<FieldDescription> Width of the tail bar - either numeric measurement (mm), or else text-coded categories</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>BuffSize</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Size of buff fringe on primaries (used for ageing) (mm)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>Chord</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Wing chord measurement (mm)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>ColHead</FieldName>
+
+	<CodeRef>MoultColour</CodeRef>
+
+	<FieldDescription>Colour of head</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>ColRump</FieldName>
+
+	<CodeRef>MoultColour</CodeRef>
+
+	<FieldDescription>Colour of rump</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>ColTail</FieldName>
+
+	<CodeRef>MoultColour</CodeRef>
+
+	<FieldDescription>Colour of tail</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>ColUTC</FieldName>
+
+	<CodeRef>MoultColour</CodeRef>
+
+	<FieldDescription>Colour of upper tail-coverts</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>Condition</FieldName>
+
+	<CodeRef>PectoralCond</CodeRef>
+
+	<FieldDescription>Thickness of the pectoral muscle/fat</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>Date</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date on which the bird was caught</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>FlankFeathers</FieldName>
+
+	<CodeRef>MoultFlank</CodeRef>
+
+	<FieldDescription>Degree of flank feather moult (if applicable)</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>KestrelID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique number used to identify the kestrel in the database</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>MoultBack</FieldName>
+
+	<CodeRef>MoultBody</CodeRef>
+
+	<FieldDescription>Degree of back feather moult (if applicable)</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>MoultHead</FieldName>
+
+	<CodeRef>MoultBody</CodeRef>
+
+	<FieldDescription>Degree of head feather moult (if applicable)</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>MoultPrimaries</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Primary moult score (0-50)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>MoultRump</FieldName>
+
+	<CodeRef>MoultBody</CodeRef>
+
+	<FieldDescription>Degree of rump feather moult (if applicable)</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>MoultTail</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Tail moult score (0-30)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>MoultUTC</FieldName>
+
+	<CodeRef>MoultBody</CodeRef>
+
+	<FieldDescription>Degree of upper tail-coverts moult (if applicable)</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>Parasites</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of ectoparasites seen while kestrel was handled</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area where the kestrel was trapped</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblKestrelTrapping</TableName>
+
+	<FieldName>Weight</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mass of the bird (g)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestList</TableName>
+
+	<FieldName>Exposure</FieldName>
+
+	<CodeRef>NestShelter</CodeRef>
+
+	<FieldDescription>Level of exposure to weather</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestList</TableName>
+
+	<FieldName>NestDetail</FieldName>
+
+	<CodeRef>NestDetail</CodeRef>
+
+	<FieldDescription>Code for nest construction, tree species, original species that built the nest etc.</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestList</TableName>
+
+	<FieldName>NestType</FieldName>
+
+	<CodeRef>NestType</CodeRef>
+
+	<FieldDescription>Code for nest location</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestList</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestList</TableName>
+
+	<FieldName>SiteCode</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Site mnemonic</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>7</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestOccupancy</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestOccupancy</TableName>
+
+	<FieldName>SiteCode</FieldName>
+
+	<CodeRef>SiteCode</CodeRef>
+
+	<FieldDescription>Site mnemonic</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>7</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestOccupancy</TableName>
+
+	<FieldName>Usability</FieldName>
+
+	<CodeRef>OccUsability</CodeRef>
+
+	<FieldDescription>Code describing th level of use by kestrels in a given year</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestOccupancy</TableName>
+
+	<FieldName>UsabilityDetails</FieldName>
+
+	<CodeRef>OccDetails</CodeRef>
+
+	<FieldDescription>Code giving reasons why a nest was not used, or the level of use if it was occupied by kestrels</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestOccupancy</TableName>
+
+	<FieldName>Year</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year in which the nest's occupancy was scored</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletComposition</TableName>
+
+	<FieldName>PelletID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Pellet  identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletComposition</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletComposition</TableName>
+
+	<FieldName>Score</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of identifiable fragments of the species</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletComposition</TableName>
+
+	<FieldName>Species</FieldName>
+
+	<CodeRef>PelletSpp</CodeRef>
+
+	<FieldDescription>Prey species found in the pellet</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletInfo</TableName>
+
+	<FieldName>AgeSex</FieldName>
+
+	<CodeRef>AgeSex</CodeRef>
+
+	<FieldDescription>Age and sex class of the kestrel</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>3</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletInfo</TableName>
+
+	<FieldName>Breadth</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Pellet breadth (mm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletInfo</TableName>
+
+	<FieldName>Date</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of pellet collection</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletInfo</TableName>
+
+	<FieldName>Length</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Pellet length (mm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletInfo</TableName>
+
+	<FieldName>PelletID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique pellet identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletInfo</TableName>
+
+	<FieldName>SiteCode</FieldName>
+
+	<CodeRef>SiteCode</CodeRef>
+
+	<FieldDescription>Code for the site at which the pellet was collected</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>7</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPelletInfo</TableName>
+
+	<FieldName>Weight</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Oven-dried pellet mass (g)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRangeBehavModifiers</TableName>
+
+	<FieldName>BehavModifier</FieldName>
+
+	<CodeRef>BehavModifier</CodeRef>
+
+	<FieldDescription>Further information about the kestrel's behaviour when sighted</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRangeBehavModifiers</TableName>
+
+	<FieldName>BehavSpp</FieldName>
+
+	<CodeRef>BehavSpecies</CodeRef>
+
+	<FieldDescription>Prey species or other species with which the kestrel was interacting</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRangeBehavModifiers</TableName>
+
+	<FieldName>SightingID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique sighting identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>Behaviour</FieldName>
+
+	<CodeRef>Behav</CodeRef>
+
+	<FieldDescription>Code for behaviour at time of observation</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>Date</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of sighting</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>Easting</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Easting</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>GridSquare</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid 100km-square identifier</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>KestrelID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique Identity number for the kestrel (or this specific ranging observation if it was an unmarked bird)</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>Northing</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Northing</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>SightingID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique sighting identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>SightingNo</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Position in observation sequence for the individual kestrel (multiple fixes may be recorded for a kestrel when being tracked). 0=first, or only, observation</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>SightType</FieldName>
+
+	<CodeRef>RangeType</CodeRef>
+
+	<FieldDescription>Whether kestrel was sighted, located by telemetry or trapped</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRanging</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteCodes</TableName>
+
+	<FieldName>Easting</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Easting</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteCodes</TableName>
+
+	<FieldName>FullName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Location Name</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>255</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteCodes</TableName>
+
+	<FieldName>GridSquare</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid 100km-square identifier</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteCodes</TableName>
+
+	<FieldName>Northing</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Northing</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteCodes</TableName>
+
+	<FieldName>SiteCode</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Code used for the specified grid reference</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>7</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteCodes</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteCodes</TableName>
+
+	<FieldName>Type</FieldName>
+
+	<CodeRef>SiteType</CodeRef>
+
+	<FieldDescription>Whether the site was used as a roost, nest or both</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>CodeRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Category of codes used for data in this field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>50</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldDescription</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Description of the contents of the field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>255</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the field in the table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>64</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldSize</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Storage requirement of the field (bytes)</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldType</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Data type of the field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>10</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>TableName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the database table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>64</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<FieldName>Description</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Description of the table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>250</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<FieldName>TableName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the database table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>25</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>Age</FieldName>
+
+	<CodeRef>VoleAge</CodeRef>
+
+	<FieldDescription>Age class of trapped animal</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>AnoGenDist</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Anogenital distance (mm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>BodyLength</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Body length (mm)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>BreedCond</FieldName>
+
+	<CodeRef>VoleCond</CodeRef>
+
+	<FieldDescription>Breeding condition</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>CarcassID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique carcass identifier</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>CatchMonth</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Trapping month</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>CatchYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Trapping year</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>DryWt</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Carcass dry mass (g)</FieldDescription>
+
+	<FieldType>Double</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>HindFootLen</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Hind foot length (mm)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>LeanDryWt</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Carcass lean dry mass (following Soxhlet extraction) (g)</FieldDescription>
+
+	<FieldType>Double</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>Nembryos</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of embryos visible</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>Nipples</FieldName>
+
+	<CodeRef>VoleNipple</CodeRef>
+
+	<FieldDescription>Lactation status of nipples</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>OvaryOviductWt</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Ovary and oviduct mass (g)</FieldDescription>
+
+	<FieldType>Double</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>Pregnant</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether or not pregnant</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>Sex</FieldName>
+
+	<CodeRef>Sex</CodeRef>
+
+	<FieldDescription>Sex of trapped animal</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>Site</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Trapping site</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>Species</FieldName>
+
+	<CodeRef>VoleSpp</CodeRef>
+
+	<FieldDescription>Species of small mammal</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>TailLen</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Tail length (mm)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>TestLen</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Testes length (mm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>TestWidth</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Testes width (mm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>TestWt</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Testes mass (g)</FieldDescription>
+
+	<FieldType>Double</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleCarcassData</TableName>
+
+	<FieldName>Weight</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mass of trapped animal (g)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightData</TableName>
+
+	<FieldName>Count</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of species caught. This is the number caught per 60-trap nights (i.e. scaling the actual numbers to account for missing and sprung traps)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightData</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightData</TableName>
+
+	<FieldName>Species</FieldName>
+
+	<CodeRef>VoleSpp</CodeRef>
+
+	<FieldDescription>Small mammal species caught in trap</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightData</TableName>
+
+	<FieldName>TrapNightID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique trapping-night identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>DropIndex</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of random quadrats that contained vole droppings at trap site/night (out of 25 25x25cm quadrats)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>GrassStemIndex</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of random quadrats that contained cut grass stems at trap site/night (out of 25 25x25cm quadrats)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>MissingTraps</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of snap-traps that could not be found the following day</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>Month</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Month of trapping</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>Site</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Trapping site</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>SprungTraps</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of snap-traps that had sprung without catching anything</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>TotalTrapNights</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of snap-traps that either caught or weren't sprung (this is used to scale the counts in tblVoleTrapNightData)</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>TrapNightID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique trap-night identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleTrapNightInfo</TableName>
+
+	<FieldName>Year</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of trapping</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>Breeding</FieldName>
+
+	<CodeRef>VoleBreedStatus</CodeRef>
+
+	<FieldDescription>Breeding status of the trapped animal</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>Month</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Month of trapping</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>RowID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique table-row identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>Sex</FieldName>
+
+	<CodeRef>Sex</CodeRef>
+
+	<FieldDescription>Sex of the animal</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>Site</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Trapping site</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>Species</FieldName>
+
+	<CodeRef>VoleSpp</CodeRef>
+
+	<FieldDescription>Species of small mammal</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>StudyArea</FieldName>
+
+	<CodeRef>Area</CodeRef>
+
+	<FieldDescription>Study area code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>TrapNightID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique trapping night identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>Weight</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mass of the trapped animal (g)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblVoleWeights</TableName>
+
+	<FieldName>Year</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of trapping</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+</RECORDS>

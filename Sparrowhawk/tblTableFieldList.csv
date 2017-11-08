@@ -1,0 +1,49 @@
+"TableName","FieldName","CodeRef","FieldDescription","FieldType","FieldSize"
+"tblBirdID","AgeIsMinEstimate","YesNo","Whether the HatchYear is estimated as the most recent possible for birds first caught as adults","Boolean",1
+"tblBirdID","BirdID",,"Unique identity number","Long",4
+"tblBirdID","BTO",,"BTO ring","Text",7
+"tblBirdID","HatchYear",,"Year of hatching","Integer",2
+"tblBirdID","Sex","Sex","Sex of the bird","Text",1
+"tblBreedData","BreedEventID",,"Unique record identifier","Long",4
+"tblBreedData","BreedStatus","BreedStatus","Code describing the final outcome of the breeding attempt","Text",1
+"tblBreedData","BreedSuccess","BreedSuccess","Whether the breeding attempt successfully fledged any offspring","Byte",1
+"tblBreedData","BreedYear",,"Year of the breeding record","Integer",2
+"tblBreedData","ClutchSize",,"Total number of egg laid","Byte",1
+"tblBreedData","FemaleID",,"Identifier of the female sparrowhawk at the site","Long",4
+"tblBreedData","Fledged",,"Number of chicks that successfully fledged","Byte",1
+"tblBreedData","Growth",,"Index of relative mass-gain rate during the 10-day linear phase of nestling growth (regression coefficient of weight on age expressed as percentage of average value for the given sex)","Single",4
+"tblBreedData","Hatched",,"Number of eggs that successfully hatched","Byte",1
+"tblBreedData","LayPeriod","LayPeriod","Period when eggs were laid","Byte",1
+"tblBreedData","MaleID",,"Identifier of the male sparrowhawk at the site","Long",4
+"tblBreedData","MovingScore",,"Average of breeding success scores for the 5 years centred on the current year","Byte",1
+"tblBreedData","SiteID",,"Identifier of the breeding site","Integer",2
+"tblBreedData","StableScore",,"Average of breeding success scores over 10 years","Byte",1
+"tblBreedData","TreeAge",,"Approximate age of the tree in which the nest occurred","Byte",1
+"tblCodeList","CodeRef","CodeRef","Category identifying each set of codes","Text",20
+"tblCodeList","Label",,"Translation of the code","Text",100
+"tblCodeList","Value",,"Code used in the database","Text",15
+"tblMeasurements","BirdID",,"Bird identity number","Long",4
+"tblMeasurements","Mass",,"Mass of the bird (g)","Single",4
+"tblMeasurements","MeasureDate",,"Date of the measurements","Date/Time",8
+"tblMeasurements","MeasureTime",,"Time of the measurements","Date/Time",8
+"tblMeasurements","RowRef",,"Unique record identifier","Long",4
+"tblMeasurements","Wing",,"Wing chord (mm)","Single",4
+"tblOffspring","BirdID",,"Bird identifier","Long",4
+"tblOffspring","BreedEventID",,"Identifier of the breeding event record","Integer",2
+"tblPesticides","BreedEventID",,"Identifier of the Breeding record to which the measures relate","Long",4
+"tblPesticides","DDE",,"Level of DDE in the yolk lipid of eggs from the nest (ppm)","Single",4
+"tblPesticides","Dieldrin",,"Level of Dieldrin in the yolk lipid of eggs from the nest (ppm)","Single",4
+"tblPesticides","PCB",,"Level of PCB in the yolk lipid of eggs from the nest (ppm)","Single",4
+"tblPesticides","ShellIndex",,"Average index of shell thickness of eggs in the nest (Ratcliffe [1967] Nature 215:208-210)","Single",4
+"tblSiteList","Altitude",,"Approximate altitude of the nest (metres)","Single",4
+"tblSiteList","LandUse","LandUse","Broad land use type surrounding the nest/territory","Byte",1
+"tblSiteList","Region","Region","Study area in which the bird was found","Text",1
+"tblSiteList","SiteID",,"Unique identifier of the site","Integer",2
+"tblTableFieldList","CodeRef","CodeRef","Category of codes used for data in this field","Text",50
+"tblTableFieldList","FieldDescription",,"Description of the contents of the field","Text",255
+"tblTableFieldList","FieldName",,"Name of the field in the table","Text",64
+"tblTableFieldList","FieldSize",,"Storage requirement of the field (bytes)","Byte",1
+"tblTableFieldList","FieldType",,"Data type of the field","Text",10
+"tblTableFieldList","TableName",,"Name of the database table","Text",64
+"tblTableList","Description",,"Description of the table","Text",250
+"tblTableList","TableName",,"Name of the database table","Text",25

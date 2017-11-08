@@ -1,0 +1,675 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<TableName>tblBirdID</TableName>
+
+	<FieldName>AgeIsMinEstimate</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether the HatchYear is estimated as the most recent possible for birds first caught as adults</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBirdID</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBirdID</TableName>
+
+	<FieldName>BTO</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>BTO ring</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>7</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBirdID</TableName>
+
+	<FieldName>HatchYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of hatching</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBirdID</TableName>
+
+	<FieldName>Sex</FieldName>
+
+	<CodeRef>Sex</CodeRef>
+
+	<FieldDescription>Sex of the bird</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>BreedEventID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique record identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>BreedStatus</FieldName>
+
+	<CodeRef>BreedStatus</CodeRef>
+
+	<FieldDescription>Code describing the final outcome of the breeding attempt</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>BreedSuccess</FieldName>
+
+	<CodeRef>BreedSuccess</CodeRef>
+
+	<FieldDescription>Whether the breeding attempt successfully fledged any offspring</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>BreedYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of the breeding record</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>ClutchSize</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Total number of egg laid</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>FemaleID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Identifier of the female sparrowhawk at the site</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>Fledged</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of chicks that successfully fledged</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>Growth</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Index of relative mass-gain rate during the 10-day linear phase of nestling growth (regression coefficient of weight on age expressed as percentage of average value for the given sex)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>Hatched</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of eggs that successfully hatched</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>LayPeriod</FieldName>
+
+	<CodeRef>LayPeriod</CodeRef>
+
+	<FieldDescription>Period when eggs were laid</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>MaleID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Identifier of the male sparrowhawk at the site</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>MovingScore</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Average of breeding success scores for the 5 years centred on the current year</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>SiteID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Identifier of the breeding site</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>StableScore</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Average of breeding success scores over 10 years</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreedData</TableName>
+
+	<FieldName>TreeAge</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Approximate age of the tree in which the nest occurred</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>CodeRef</FieldName>
+
+	<CodeRef>CodeRef</CodeRef>
+
+	<FieldDescription>Category identifying each set of codes</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>20</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>Label</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Translation of the code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>100</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>Value</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Code used in the database</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>15</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMeasurements</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Bird identity number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMeasurements</TableName>
+
+	<FieldName>Mass</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mass of the bird (g)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMeasurements</TableName>
+
+	<FieldName>MeasureDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of the measurements</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMeasurements</TableName>
+
+	<FieldName>MeasureTime</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Time of the measurements</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMeasurements</TableName>
+
+	<FieldName>RowRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique record identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMeasurements</TableName>
+
+	<FieldName>Wing</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Wing chord (mm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblOffspring</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Bird identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblOffspring</TableName>
+
+	<FieldName>BreedEventID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Identifier of the breeding event record</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPesticides</TableName>
+
+	<FieldName>BreedEventID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Identifier of the Breeding record to which the measures relate</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPesticides</TableName>
+
+	<FieldName>DDE</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Level of DDE in the yolk lipid of eggs from the nest (ppm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPesticides</TableName>
+
+	<FieldName>Dieldrin</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Level of Dieldrin in the yolk lipid of eggs from the nest (ppm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPesticides</TableName>
+
+	<FieldName>PCB</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Level of PCB in the yolk lipid of eggs from the nest (ppm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblPesticides</TableName>
+
+	<FieldName>ShellIndex</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Average index of shell thickness of eggs in the nest (Ratcliffe [1967] Nature 215:208-210)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteList</TableName>
+
+	<FieldName>Altitude</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Approximate altitude of the nest (metres)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteList</TableName>
+
+	<FieldName>LandUse</FieldName>
+
+	<CodeRef>LandUse</CodeRef>
+
+	<FieldDescription>Broad land use type surrounding the nest/territory</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteList</TableName>
+
+	<FieldName>Region</FieldName>
+
+	<CodeRef>Region</CodeRef>
+
+	<FieldDescription>Study area in which the bird was found</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblSiteList</TableName>
+
+	<FieldName>SiteID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identifier of the site</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>CodeRef</FieldName>
+
+	<CodeRef>CodeRef</CodeRef>
+
+	<FieldDescription>Category of codes used for data in this field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>50</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldDescription</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Description of the contents of the field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>255</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the field in the table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>64</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldSize</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Storage requirement of the field (bytes)</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldType</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Data type of the field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>10</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>TableName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the database table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>64</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<FieldName>Description</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Description of the table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>250</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<FieldName>TableName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the database table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>25</FieldSize>
+
+</RECORD>
+</RECORDS>

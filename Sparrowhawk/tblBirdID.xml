@@ -1,0 +1,9927 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<BirdID>1</BirdID>
+
+	<BTO>DA53804</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>2</BirdID>
+
+	<BTO>DA53824</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>3</BirdID>
+
+	<BTO>DA53825</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>4</BirdID>
+
+	<BTO>EB01517</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>5</BirdID>
+
+	<BTO>EB01706</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>6</BirdID>
+
+	<BTO>EB01707</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>7</BirdID>
+
+	<BTO>EB01708</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>8</BirdID>
+
+	<BTO>EB01709</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>9</BirdID>
+
+	<BTO>EB01711</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>10</BirdID>
+
+	<BTO>EB01725</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>11</BirdID>
+
+	<BTO>EB01728</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>12</BirdID>
+
+	<BTO>EB01786</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>13</BirdID>
+
+	<BTO>EB01787</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>14</BirdID>
+
+	<BTO>EB01792</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>15</BirdID>
+
+	<BTO>EB01793</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>16</BirdID>
+
+	<BTO>EB01794</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>17</BirdID>
+
+	<BTO>EB01844</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>18</BirdID>
+
+	<BTO>EB01845</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>19</BirdID>
+
+	<BTO>EB01846</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>20</BirdID>
+
+	<BTO>EB01847</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>21</BirdID>
+
+	<BTO>EB01848</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>22</BirdID>
+
+	<BTO>EB01849</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>23</BirdID>
+
+	<BTO>EB08421</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>24</BirdID>
+
+	<BTO>EF32762</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>25</BirdID>
+
+	<BTO>EF32763</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>26</BirdID>
+
+	<BTO>EF61126</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>27</BirdID>
+
+	<BTO>EF62238</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>28</BirdID>
+
+	<BTO>EF62358</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>29</BirdID>
+
+	<BTO>EF62397</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>30</BirdID>
+
+	<BTO>EF62398</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>31</BirdID>
+
+	<BTO>EF62399</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>32</BirdID>
+
+	<BTO>EF90518</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>33</BirdID>
+
+	<BTO>EF90519</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>34</BirdID>
+
+	<BTO>EF90523</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>35</BirdID>
+
+	<BTO>EF90524</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>36</BirdID>
+
+	<BTO>EF90527</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>37</BirdID>
+
+	<BTO>EF90536</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>38</BirdID>
+
+	<BTO>EF90539</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>39</BirdID>
+
+	<BTO>EF90546</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>40</BirdID>
+
+	<BTO>EF90548</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>41</BirdID>
+
+	<BTO>EF90561</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>42</BirdID>
+
+	<BTO>EF90590</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>43</BirdID>
+
+	<BTO>EH20713</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>44</BirdID>
+
+	<BTO>EH20714</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>45</BirdID>
+
+	<BTO>EH20715</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>46</BirdID>
+
+	<BTO>EH20719</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>47</BirdID>
+
+	<BTO>EH20720</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>48</BirdID>
+
+	<BTO>EH20721</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>49</BirdID>
+
+	<BTO>EH20722</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>50</BirdID>
+
+	<BTO>EH20723</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>51</BirdID>
+
+	<BTO>EH20776</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>52</BirdID>
+
+	<BTO>EH20777</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>53</BirdID>
+
+	<BTO>EH20778</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>54</BirdID>
+
+	<BTO>EH20785</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>55</BirdID>
+
+	<BTO>EH20786</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>56</BirdID>
+
+	<BTO>EH20791</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>58</BirdID>
+
+	<BTO>EH31401</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>59</BirdID>
+
+	<BTO>EH31404</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>60</BirdID>
+
+	<BTO>EH31405</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>61</BirdID>
+
+	<BTO>EH31406</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>62</BirdID>
+
+	<BTO>EH31407</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>63</BirdID>
+
+	<BTO>EH31408</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>64</BirdID>
+
+	<BTO>EH31409</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>65</BirdID>
+
+	<BTO>EH31410</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>66</BirdID>
+
+	<BTO>EH31417</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>67</BirdID>
+
+	<BTO>EH69587</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>68</BirdID>
+
+	<BTO>EH69588</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>69</BirdID>
+
+	<BTO>EH69589</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>70</BirdID>
+
+	<BTO>EH69590</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>71</BirdID>
+
+	<BTO>EH69598</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>72</BirdID>
+
+	<BTO>EH69599</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>73</BirdID>
+
+	<BTO>EH69655</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>74</BirdID>
+
+	<BTO>EH69699</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>75</BirdID>
+
+	<BTO>EH69705</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>76</BirdID>
+
+	<BTO>EH69986</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>77</BirdID>
+
+	<BTO>EH69987</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>78</BirdID>
+
+	<BTO>EH69990</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>79</BirdID>
+
+	<BTO>EH69991</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>80</BirdID>
+
+	<BTO>EH84839</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>81</BirdID>
+
+	<BTO>EH84840</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>82</BirdID>
+
+	<BTO>EH84842</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>83</BirdID>
+
+	<BTO>EH84843</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>84</BirdID>
+
+	<BTO>EH84844</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>85</BirdID>
+
+	<BTO>EH84845</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>86</BirdID>
+
+	<BTO>EH84846</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>87</BirdID>
+
+	<BTO>EH84851</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>88</BirdID>
+
+	<BTO>EH84881</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>89</BirdID>
+
+	<BTO>EH84882</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>90</BirdID>
+
+	<BTO>EH84883</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>91</BirdID>
+
+	<BTO>EH84884</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>92</BirdID>
+
+	<BTO>EH84885</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>93</BirdID>
+
+	<BTO>EH84886</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>94</BirdID>
+
+	<BTO>EH84887</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>95</BirdID>
+
+	<BTO>EH84888</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>96</BirdID>
+
+	<BTO>EH84889</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>97</BirdID>
+
+	<BTO>EH84894</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>98</BirdID>
+
+	<BTO>EH84897</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>99</BirdID>
+
+	<BTO>EH84899</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>100</BirdID>
+
+	<BTO>EH84900</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1982</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>101</BirdID>
+
+	<BTO>EH84904</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>102</BirdID>
+
+	<BTO>EH84930</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>103</BirdID>
+
+	<BTO>EH84933</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>104</BirdID>
+
+	<BTO>EH84934</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>105</BirdID>
+
+	<BTO>EH84935</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>106</BirdID>
+
+	<BTO>EH84936</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>107</BirdID>
+
+	<BTO>EH84937</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>108</BirdID>
+
+	<BTO>EH84938</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>109</BirdID>
+
+	<BTO>EH84939</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>110</BirdID>
+
+	<BTO>EH84940</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>111</BirdID>
+
+	<BTO>EH84941</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>112</BirdID>
+
+	<BTO>EH84945</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>113</BirdID>
+
+	<BTO>EH84950</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1982</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>114</BirdID>
+
+	<BTO>EH84952</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>115</BirdID>
+
+	<BTO>EH84958</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>116</BirdID>
+
+	<BTO>EH84971</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>117</BirdID>
+
+	<BTO>EH84979</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>118</BirdID>
+
+	<BTO>EH84981</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>119</BirdID>
+
+	<BTO>EH84982</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>120</BirdID>
+
+	<BTO>EH84983</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>121</BirdID>
+
+	<BTO>EH84984</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>122</BirdID>
+
+	<BTO>EH84985</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>123</BirdID>
+
+	<BTO>EH84986</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>124</BirdID>
+
+	<BTO>EH84987</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>125</BirdID>
+
+	<BTO>EH84988</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>126</BirdID>
+
+	<BTO>EH84999</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>127</BirdID>
+
+	<BTO>EH85000</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>128</BirdID>
+
+	<BTO>EN28509</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1982</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>129</BirdID>
+
+	<BTO>EN28511</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>130</BirdID>
+
+	<BTO>EN28512</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>131</BirdID>
+
+	<BTO>EN28513</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>132</BirdID>
+
+	<BTO>EN28514</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>133</BirdID>
+
+	<BTO>EN28515</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>134</BirdID>
+
+	<BTO>EN28516</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>135</BirdID>
+
+	<BTO>EN28517</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>136</BirdID>
+
+	<BTO>EN28518</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>137</BirdID>
+
+	<BTO>EN28519</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>138</BirdID>
+
+	<BTO>EN28520</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>139</BirdID>
+
+	<BTO>EN28521</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>140</BirdID>
+
+	<BTO>EN28522</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>141</BirdID>
+
+	<BTO>EN28523</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>143</BirdID>
+
+	<BTO>EN28528</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>144</BirdID>
+
+	<BTO>EN28790</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>145</BirdID>
+
+	<BTO>EN98705</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>146</BirdID>
+
+	<BTO>EN98710</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>147</BirdID>
+
+	<BTO>EN98711</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>148</BirdID>
+
+	<BTO>EN98712</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>149</BirdID>
+
+	<BTO>EN98713</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>150</BirdID>
+
+	<BTO>EN98714</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>151</BirdID>
+
+	<BTO>EN98715</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>152</BirdID>
+
+	<BTO>EN98716</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>153</BirdID>
+
+	<BTO>EN98717</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>154</BirdID>
+
+	<BTO>EN98718</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>155</BirdID>
+
+	<BTO>EN98719</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>156</BirdID>
+
+	<BTO>EN98720</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>157</BirdID>
+
+	<BTO>EN98756</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>158</BirdID>
+
+	<BTO>EN98761</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>159</BirdID>
+
+	<BTO>EN98776</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>160</BirdID>
+
+	<BTO>EN98785</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>161</BirdID>
+
+	<BTO>EN98787</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>162</BirdID>
+
+	<BTO>EN98788</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>163</BirdID>
+
+	<BTO>EN98789</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>164</BirdID>
+
+	<BTO>EN98791</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>165</BirdID>
+
+	<BTO>EN98792</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>166</BirdID>
+
+	<BTO>EN98793</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>167</BirdID>
+
+	<BTO>EN98794</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>168</BirdID>
+
+	<BTO>EN98795</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>169</BirdID>
+
+	<BTO>EN98796</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>170</BirdID>
+
+	<BTO>EN98797</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>171</BirdID>
+
+	<BTO>EN98804</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>172</BirdID>
+
+	<BTO>EN98820</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>173</BirdID>
+
+	<BTO>EN98830</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>174</BirdID>
+
+	<BTO>EN98836</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>175</BirdID>
+
+	<BTO>EN98837</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>176</BirdID>
+
+	<BTO>EN98838</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>177</BirdID>
+
+	<BTO>EN98839</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>178</BirdID>
+
+	<BTO>EN98840</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>179</BirdID>
+
+	<BTO>EN98841</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>180</BirdID>
+
+	<BTO>EN98842</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>181</BirdID>
+
+	<BTO>EN98843</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>182</BirdID>
+
+	<BTO>EN98845</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>183</BirdID>
+
+	<BTO>EN98854</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>184</BirdID>
+
+	<BTO>EN98868</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>185</BirdID>
+
+	<BTO>EN98873</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>186</BirdID>
+
+	<BTO>EN98874</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>187</BirdID>
+
+	<BTO>EN98875</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>188</BirdID>
+
+	<BTO>EN98876</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>189</BirdID>
+
+	<BTO>EN98877</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>190</BirdID>
+
+	<BTO>EN98878</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>191</BirdID>
+
+	<BTO>EN98879</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>192</BirdID>
+
+	<BTO>EN98880</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>193</BirdID>
+
+	<BTO>EN98881</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>194</BirdID>
+
+	<BTO>EN98882</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>195</BirdID>
+
+	<BTO>EN98883</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>196</BirdID>
+
+	<BTO>EN98895</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>197</BirdID>
+
+	<BTO>EP32801</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>198</BirdID>
+
+	<BTO>EP34215</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>199</BirdID>
+
+	<BTO>EP34216</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>200</BirdID>
+
+	<BTO>EP34217</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>201</BirdID>
+
+	<BTO>EP34218</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>202</BirdID>
+
+	<BTO>EP34219</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>203</BirdID>
+
+	<BTO>EP34220</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>204</BirdID>
+
+	<BTO>EP34221</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>205</BirdID>
+
+	<BTO>EP34222</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>206</BirdID>
+
+	<BTO>EP34223</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>207</BirdID>
+
+	<BTO>EP34224</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>208</BirdID>
+
+	<BTO>EP34225</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>209</BirdID>
+
+	<BTO>EP34226</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>210</BirdID>
+
+	<BTO>EP34227</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>211</BirdID>
+
+	<BTO>EP34228</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>212</BirdID>
+
+	<BTO>EP34229</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>213</BirdID>
+
+	<BTO>EP34256</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>214</BirdID>
+
+	<BTO>EP34264</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>215</BirdID>
+
+	<BTO>EP34265</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>216</BirdID>
+
+	<BTO>EP34266</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>217</BirdID>
+
+	<BTO>EP34267</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>218</BirdID>
+
+	<BTO>EP34268</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>219</BirdID>
+
+	<BTO>EP34269</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>220</BirdID>
+
+	<BTO>EP34270</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>221</BirdID>
+
+	<BTO>EP34271</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>222</BirdID>
+
+	<BTO>EP34272</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>223</BirdID>
+
+	<BTO>EP34298</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>224</BirdID>
+
+	<BTO>EP34299</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>225</BirdID>
+
+	<BTO>EP34300</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>226</BirdID>
+
+	<BTO>EP34305</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>227</BirdID>
+
+	<BTO>EP34306</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>228</BirdID>
+
+	<BTO>EP34307</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>229</BirdID>
+
+	<BTO>EP34308</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>230</BirdID>
+
+	<BTO>EP34333</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>231</BirdID>
+
+	<BTO>EP34343</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>232</BirdID>
+
+	<BTO>EP34344</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>233</BirdID>
+
+	<BTO>EP34346</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>234</BirdID>
+
+	<BTO>EP34347</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>235</BirdID>
+
+	<BTO>EP34348</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>236</BirdID>
+
+	<BTO>EP34350</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>237</BirdID>
+
+	<BTO>EP34351</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>238</BirdID>
+
+	<BTO>EP34352</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>239</BirdID>
+
+	<BTO>EP34353</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>240</BirdID>
+
+	<BTO>EP34354</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>241</BirdID>
+
+	<BTO>EP34388</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>242</BirdID>
+
+	<BTO>EP34389</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>243</BirdID>
+
+	<BTO>EP34391</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>244</BirdID>
+
+	<BTO>EP34392</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>245</BirdID>
+
+	<BTO>EP34393</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>246</BirdID>
+
+	<BTO>EP34394</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>247</BirdID>
+
+	<BTO>EP34395</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>248</BirdID>
+
+	<BTO>EP34396</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>249</BirdID>
+
+	<BTO>EP34397</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>250</BirdID>
+
+	<BTO>EP34398</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>251</BirdID>
+
+	<BTO>EP34399</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>252</BirdID>
+
+	<BTO>EP34400</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>253</BirdID>
+
+	<BTO>ER82824</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1995</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>254</BirdID>
+
+	<BTO>ER82825</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>255</BirdID>
+
+	<BTO>ER82826</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>256</BirdID>
+
+	<BTO>ER82827</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>257</BirdID>
+
+	<BTO>ER82828</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>258</BirdID>
+
+	<BTO>ER82830</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>259</BirdID>
+
+	<BTO>ER82857</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1995</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>260</BirdID>
+
+	<BTO>ER82858</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>261</BirdID>
+
+	<BTO>ER82859</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>262</BirdID>
+
+	<BTO>ER82860</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1996</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>263</BirdID>
+
+	<BTO>ER82861</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1995</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>264</BirdID>
+
+	<BTO>ER82862</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>265</BirdID>
+
+	<BTO>ER82863</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>266</BirdID>
+
+	<BTO>ER82883</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1995</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>267</BirdID>
+
+	<BTO>DA23719</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>268</BirdID>
+
+	<BTO>DA23800</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>269</BirdID>
+
+	<BTO>DA35601</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>270</BirdID>
+
+	<BTO>DA35602</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>271</BirdID>
+
+	<BTO>DA40408</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>272</BirdID>
+
+	<BTO>DA40412</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>273</BirdID>
+
+	<BTO>DA40430</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>274</BirdID>
+
+	<BTO>DA40431</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>275</BirdID>
+
+	<BTO>DA40432</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1981</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>276</BirdID>
+
+	<BTO>DA40433</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1982</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>277</BirdID>
+
+	<BTO>DA40450</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>278</BirdID>
+
+	<BTO>DA40462</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>279</BirdID>
+
+	<BTO>DA40475</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>280</BirdID>
+
+	<BTO>DA40480</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>281</BirdID>
+
+	<BTO>DA40483</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>282</BirdID>
+
+	<BTO>DA40491</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>283</BirdID>
+
+	<BTO>DA40496</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>284</BirdID>
+
+	<BTO>DA45601</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>285</BirdID>
+
+	<BTO>DA45622</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1982</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>286</BirdID>
+
+	<BTO>DA45623</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>287</BirdID>
+
+	<BTO>DA45632</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>288</BirdID>
+
+	<BTO>DA45648</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1982</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>289</BirdID>
+
+	<BTO>DA45649</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>290</BirdID>
+
+	<BTO>DA45650</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>291</BirdID>
+
+	<BTO>DA45670</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>292</BirdID>
+
+	<BTO>DA45678</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>293</BirdID>
+
+	<BTO>DA45679</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>294</BirdID>
+
+	<BTO>DA45680</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>295</BirdID>
+
+	<BTO>DA45681</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>296</BirdID>
+
+	<BTO>DA45687</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>297</BirdID>
+
+	<BTO>DA45688</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>298</BirdID>
+
+	<BTO>DA53801</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>299</BirdID>
+
+	<BTO>DA53832</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>300</BirdID>
+
+	<BTO>DA53833</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>301</BirdID>
+
+	<BTO>DA53834</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>302</BirdID>
+
+	<BTO>DA53835</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>303</BirdID>
+
+	<BTO>DA53836</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>304</BirdID>
+
+	<BTO>DA53837</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>305</BirdID>
+
+	<BTO>DA53838</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>306</BirdID>
+
+	<BTO>DA53841</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>307</BirdID>
+
+	<BTO>DA53853</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>308</BirdID>
+
+	<BTO>DA53857</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>309</BirdID>
+
+	<BTO>DA53880</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>310</BirdID>
+
+	<BTO>DA53885</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>311</BirdID>
+
+	<BTO>DA53886</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>312</BirdID>
+
+	<BTO>DA53887</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1985</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>313</BirdID>
+
+	<BTO>DA53889</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1986</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>314</BirdID>
+
+	<BTO>DA56970</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>315</BirdID>
+
+	<BTO>DA58615</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>316</BirdID>
+
+	<BTO>DA59608</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>317</BirdID>
+
+	<BTO>DA59615</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>318</BirdID>
+
+	<BTO>DA59628</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>319</BirdID>
+
+	<BTO>DA59629</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>320</BirdID>
+
+	<BTO>DA59630</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>321</BirdID>
+
+	<BTO>DA59631</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1988</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>322</BirdID>
+
+	<BTO>DA59670</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1989</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>323</BirdID>
+
+	<BTO>DA59675</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>324</BirdID>
+
+	<BTO>DA59677</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>325</BirdID>
+
+	<BTO>DA59689</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>326</BirdID>
+
+	<BTO>DA59697</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>327</BirdID>
+
+	<BTO>DA59698</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>328</BirdID>
+
+	<BTO>DA59699</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1990</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>329</BirdID>
+
+	<BTO>DA62801</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>330</BirdID>
+
+	<BTO>DA62810</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>331</BirdID>
+
+	<BTO>DA62818</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>332</BirdID>
+
+	<BTO>DA62831</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>333</BirdID>
+
+	<BTO>DA62844</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>334</BirdID>
+
+	<BTO>DA62845</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>335</BirdID>
+
+	<BTO>DA62846</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>336</BirdID>
+
+	<BTO>DA62848</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>337</BirdID>
+
+	<BTO>DA62850</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>338</BirdID>
+
+	<BTO>DA62875</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>339</BirdID>
+
+	<BTO>DA62877</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>340</BirdID>
+
+	<BTO>DA62880</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>341</BirdID>
+
+	<BTO>DA62876</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>342</BirdID>
+
+	<BTO>DA62909</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1995</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>343</BirdID>
+
+	<BTO>DA62910</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>344</BirdID>
+
+	<BTO>DA62911</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>345</BirdID>
+
+	<BTO>DA62939</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>346</BirdID>
+
+	<BTO>DA62941</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>347</BirdID>
+
+	<BTO>DA62942</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1994</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>348</BirdID>
+
+	<BTO>DA62943</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1995</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>349</BirdID>
+
+	<BTO>DA62944</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1995</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>350</BirdID>
+
+	<BTO>DA62947</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>351</BirdID>
+
+	<BTO>DA53850</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>352</BirdID>
+
+	<BTO>EP34345</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1993</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>353</BirdID>
+
+	<BTO>EP34342</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1991</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>354</BirdID>
+
+	<BTO>DA59700</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1992</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>356</BirdID>
+
+	<BTO>EN98786</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1987</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>357</BirdID>
+
+	<BTO>EN28530</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>358</BirdID>
+
+	<BTO>DA40441</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>359</BirdID>
+
+	<BTO>DA45602</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1984</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>360</BirdID>
+
+	<BTO>EH84942</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1983</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>361</BirdID>
+
+	<BTO>EH84838</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>362</BirdID>
+
+	<BTO>EH84877</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>363</BirdID>
+
+	<BTO>EB01861</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>364</BirdID>
+
+	<BTO>EH20788</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>365</BirdID>
+
+	<BTO>EH69988</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>366</BirdID>
+
+	<BTO>EB01562</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>367</BirdID>
+
+	<BTO>EH20727</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>368</BirdID>
+
+	<BTO>EH69989</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>369</BirdID>
+
+	<BTO>EB01576</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>370</BirdID>
+
+	<BTO>EH51376</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>371</BirdID>
+
+	<BTO>EH84821</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>372</BirdID>
+
+	<BTO>EB88352</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>373</BirdID>
+
+	<BTO>EH51394</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>374</BirdID>
+
+	<BTO>EB01700</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>375</BirdID>
+
+	<BTO>EB01643</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>376</BirdID>
+
+	<BTO>EB01644</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>377</BirdID>
+
+	<BTO>EH20787</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>379</BirdID>
+
+	<BTO>EF90571</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>380</BirdID>
+
+	<BTO>EH69924</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>381</BirdID>
+
+	<BTO>EH69673</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>382</BirdID>
+
+	<BTO>EH69656</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>383</BirdID>
+
+	<BTO>EH69654</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>384</BirdID>
+
+	<BTO>DA24164</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>385</BirdID>
+
+	<BTO>EB88453</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>386</BirdID>
+
+	<BTO>DA24163</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>387</BirdID>
+
+	<BTO>EH69596</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>388</BirdID>
+
+	<BTO>DA24162</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>389</BirdID>
+
+	<BTO>EH69595</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>390</BirdID>
+
+	<BTO>EH69560</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>391</BirdID>
+
+	<BTO>EH20709</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>392</BirdID>
+
+	<BTO>EH20707</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>393</BirdID>
+
+	<BTO>DA35659</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>394</BirdID>
+
+	<BTO>EH20710</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>395</BirdID>
+
+	<BTO>EH20711</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>396</BirdID>
+
+	<BTO>EH20744</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>397</BirdID>
+
+	<BTO>DA30604</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>398</BirdID>
+
+	<BTO>EH20712</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>399</BirdID>
+
+	<BTO>DA24143</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>400</BirdID>
+
+	<BTO>DA35660</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>401</BirdID>
+
+	<BTO>EH30405</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>402</BirdID>
+
+	<BTO>EF90420</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>403</BirdID>
+
+	<BTO>EF90423</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>404</BirdID>
+
+	<BTO>EF90683</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>405</BirdID>
+
+	<BTO>EF90514</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>406</BirdID>
+
+	<BTO>EF90516</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>407</BirdID>
+
+	<BTO>EB01714</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>408</BirdID>
+
+	<BTO>EB01713</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>409</BirdID>
+
+	<BTO>EB01712</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>410</BirdID>
+
+	<BTO>EB01710</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>411</BirdID>
+
+	<BTO>EB01715</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>412</BirdID>
+
+	<BTO>DA23939</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>413</BirdID>
+
+	<BTO>EF90419</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>414</BirdID>
+
+	<BTO>EB01785</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>415</BirdID>
+
+	<BTO>DA23937</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>416</BirdID>
+
+	<BTO>EB01838</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>417</BirdID>
+
+	<BTO>EF61150</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>418</BirdID>
+
+	<BTO>DA14411</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>419</BirdID>
+
+	<BTO>EB01837</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>420</BirdID>
+
+	<BTO>DA23936</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>421</BirdID>
+
+	<BTO>EB01784</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>422</BirdID>
+
+	<BTO>EB01789</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>423</BirdID>
+
+	<BTO>EF90533</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>424</BirdID>
+
+	<BTO>EF90614</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>425</BirdID>
+
+	<BTO>EF90525</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>426</BirdID>
+
+	<BTO>DA24142</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>427</BirdID>
+
+	<BTO>EF62630</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>428</BirdID>
+
+	<BTO>DS47395</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1968</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>429</BirdID>
+
+	<BTO>EF32182</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>430</BirdID>
+
+	<BTO>EF32249</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>431</BirdID>
+
+	<BTO>DS47393</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1968</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>432</BirdID>
+
+	<BTO>EC99047</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>433</BirdID>
+
+	<BTO>EF32813</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>434</BirdID>
+
+	<BTO>EF32250</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>435</BirdID>
+
+	<BTO>EC99953</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>436</BirdID>
+
+	<BTO>DS47659</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>437</BirdID>
+
+	<BTO>EF32777</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>438</BirdID>
+
+	<BTO>DS47670</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>439</BirdID>
+
+	<BTO>DS85404</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1968</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>440</BirdID>
+
+	<BTO>EF32181</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>441</BirdID>
+
+	<BTO>EC99522</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>442</BirdID>
+
+	<BTO>EC99035</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>443</BirdID>
+
+	<BTO>ED04467</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>444</BirdID>
+
+	<BTO>DS47396</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1968</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>445</BirdID>
+
+	<BTO>EF32758</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>446</BirdID>
+
+	<BTO>EF32759</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>447</BirdID>
+
+	<BTO>EC99020</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>448</BirdID>
+
+	<BTO>ED04463</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>449</BirdID>
+
+	<BTO>EF32814</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>450</BirdID>
+
+	<BTO>DS85400</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>451</BirdID>
+
+	<BTO>EC99045</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>452</BirdID>
+
+	<BTO>EF12459</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>453</BirdID>
+
+	<BTO>EC99046</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>454</BirdID>
+
+	<BTO>EF32839</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>455</BirdID>
+
+	<BTO>EF32756</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>456</BirdID>
+
+	<BTO>EF32184</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>458</BirdID>
+
+	<BTO>DS47400</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1968</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>459</BirdID>
+
+	<BTO>EF32848</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>460</BirdID>
+
+	<BTO>EF32842</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>461</BirdID>
+
+	<BTO>ED04472</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>462</BirdID>
+
+	<BTO>EF32841</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>463</BirdID>
+
+	<BTO>EF32846</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>464</BirdID>
+
+	<BTO>EF32849</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>465</BirdID>
+
+	<BTO>ED04476</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>466</BirdID>
+
+	<BTO>EF32850</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>467</BirdID>
+
+	<BTO>EF32838</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>468</BirdID>
+
+	<BTO>EF32760</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>469</BirdID>
+
+	<BTO>EC99050</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>470</BirdID>
+
+	<BTO>DS85383</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>471</BirdID>
+
+	<BTO>DS47669</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>472</BirdID>
+
+	<BTO>DS85682</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>473</BirdID>
+
+	<BTO>DS85690</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>474</BirdID>
+
+	<BTO>EF62286</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>475</BirdID>
+
+	<BTO>EF32751</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>476</BirdID>
+
+	<BTO>EF32827</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>477</BirdID>
+
+	<BTO>DS85691</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>478</BirdID>
+
+	<BTO>EF32809</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>479</BirdID>
+
+	<BTO>DS47674</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>480</BirdID>
+
+	<BTO>DS85684</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>481</BirdID>
+
+	<BTO>ED96895</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>482</BirdID>
+
+	<BTO>DS85393</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>483</BirdID>
+
+	<BTO>EF62287</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>484</BirdID>
+
+	<BTO>DS85700</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>485</BirdID>
+
+	<BTO>EF32899</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>486</BirdID>
+
+	<BTO>EC94750</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>487</BirdID>
+
+	<BTO>EF62257</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>488</BirdID>
+
+	<BTO>DS85654</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>489</BirdID>
+
+	<BTO>EC99034</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>490</BirdID>
+
+	<BTO>EF62296</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>491</BirdID>
+
+	<BTO>DA03354</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>492</BirdID>
+
+	<BTO>EF90348</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>493</BirdID>
+
+	<BTO>EF62384</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>494</BirdID>
+
+	<BTO>EF61166</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>495</BirdID>
+
+	<BTO>EF61164</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>496</BirdID>
+
+	<BTO>EF61174</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>497</BirdID>
+
+	<BTO>DA14426</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>498</BirdID>
+
+	<BTO>EF62298</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>499</BirdID>
+
+	<BTO>DA03353</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>500</BirdID>
+
+	<BTO>EF61171</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>501</BirdID>
+
+	<BTO>DA03352</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>502</BirdID>
+
+	<BTO>EF62295</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>503</BirdID>
+
+	<BTO>DA03351</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>504</BirdID>
+
+	<BTO>EF61101</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>505</BirdID>
+
+	<BTO>DS85405</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>506</BirdID>
+
+	<BTO>EF32889</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>507</BirdID>
+
+	<BTO>DA03357</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>508</BirdID>
+
+	<BTO>EF32183</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>509</BirdID>
+
+	<BTO>DA03356</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>510</BirdID>
+
+	<BTO>DA14428</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>511</BirdID>
+
+	<BTO>DS85388</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>512</BirdID>
+
+	<BTO>EC99831</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>514</BirdID>
+
+	<BTO>EF62299</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>515</BirdID>
+
+	<BTO>DA03382</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>516</BirdID>
+
+	<BTO>EF62378</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>517</BirdID>
+
+	<BTO>DS47668</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>518</BirdID>
+
+	<BTO>EF32808</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>519</BirdID>
+
+	<BTO>DA14418</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>520</BirdID>
+
+	<BTO>DS85443</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>521</BirdID>
+
+	<BTO>EF62260</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>522</BirdID>
+
+	<BTO>DA03384</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>523</BirdID>
+
+	<BTO>DA23659</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>524</BirdID>
+
+	<BTO>DA23815</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>525</BirdID>
+
+	<BTO>EB01628</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>526</BirdID>
+
+	<BTO>DA03385</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>527</BirdID>
+
+	<BTO>EF61114</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>528</BirdID>
+
+	<BTO>EF32735</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>529</BirdID>
+
+	<BTO>DA14450</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>530</BirdID>
+
+	<BTO>EF62300</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>531</BirdID>
+
+	<BTO>DA03386</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>532</BirdID>
+
+	<BTO>DA03383</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>533</BirdID>
+
+	<BTO>DA03387</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>534</BirdID>
+
+	<BTO>DS47693</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>535</BirdID>
+
+	<BTO>EF32736</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>536</BirdID>
+
+	<BTO>EF32737</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>537</BirdID>
+
+	<BTO>DA23816</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>538</BirdID>
+
+	<BTO>DA03388</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>539</BirdID>
+
+	<BTO>DS47666</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>540</BirdID>
+
+	<BTO>EF32865</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>541</BirdID>
+
+	<BTO>DA03389</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>542</BirdID>
+
+	<BTO>EF62388</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>543</BirdID>
+
+	<BTO>EF62387</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>544</BirdID>
+
+	<BTO>EF61198</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>545</BirdID>
+
+	<BTO>EF32785</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>546</BirdID>
+
+	<BTO>EF62371</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>547</BirdID>
+
+	<BTO>DA14470</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>548</BirdID>
+
+	<BTO>EF90396</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>549</BirdID>
+
+	<BTO>EF90397</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>550</BirdID>
+
+	<BTO>EB01510</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>551</BirdID>
+
+	<BTO>DA14468</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>552</BirdID>
+
+	<BTO>DA23857</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>553</BirdID>
+
+	<BTO>EF32536</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>554</BirdID>
+
+	<BTO>DA14469</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>555</BirdID>
+
+	<BTO>EB01563</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>556</BirdID>
+
+	<BTO>EC99837</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1969</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>557</BirdID>
+
+	<BTO>EB01503</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>558</BirdID>
+
+	<BTO>EB01541</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>559</BirdID>
+
+	<BTO>DS85430</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>560</BirdID>
+
+	<BTO>EF62380</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>561</BirdID>
+
+	<BTO>DA23856</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>562</BirdID>
+
+	<BTO>EB01556</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>563</BirdID>
+
+	<BTO>EB01555</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>564</BirdID>
+
+	<BTO>DS47679</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>565</BirdID>
+
+	<BTO>EF32807</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>566</BirdID>
+
+	<BTO>EF90391</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>567</BirdID>
+
+	<BTO>EF62385</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>568</BirdID>
+
+	<BTO>DA23859</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>569</BirdID>
+
+	<BTO>EF90393</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>570</BirdID>
+
+	<BTO>EF90394</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>571</BirdID>
+
+	<BTO>EB01566</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>572</BirdID>
+
+	<BTO>EF61172</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>573</BirdID>
+
+	<BTO>EB01551</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>574</BirdID>
+
+	<BTO>DA23858</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>575</BirdID>
+
+	<BTO>EF62382</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>576</BirdID>
+
+	<BTO>EB01559</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>577</BirdID>
+
+	<BTO>EF62383</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>578</BirdID>
+
+	<BTO>DA14475</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>579</BirdID>
+
+	<BTO>DS85421</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>580</BirdID>
+
+	<BTO>EB01557</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>581</BirdID>
+
+	<BTO>EC99044</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>582</BirdID>
+
+	<BTO>EF62381</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>583</BirdID>
+
+	<BTO>DS85429</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>584</BirdID>
+
+	<BTO>EB01561</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>585</BirdID>
+
+	<BTO>EB01560</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>586</BirdID>
+
+	<BTO>EB01553</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>587</BirdID>
+
+	<BTO>EB01558</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>588</BirdID>
+
+	<BTO>EF62352</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>589</BirdID>
+
+	<BTO>EC99014</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>590</BirdID>
+
+	<BTO>EF90395</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>591</BirdID>
+
+	<BTO>DA14474</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>592</BirdID>
+
+	<BTO>EF90388</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>593</BirdID>
+
+	<BTO>DA23824</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>594</BirdID>
+
+	<BTO>EB01552</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>595</BirdID>
+
+	<BTO>DA14471</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>596</BirdID>
+
+	<BTO>ED87461</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>597</BirdID>
+
+	<BTO>DA14476</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>598</BirdID>
+
+	<BTO>EF32169</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>599</BirdID>
+
+	<BTO>DA23860</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>600</BirdID>
+
+	<BTO>EF90399</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>601</BirdID>
+
+	<BTO>DA14473</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>602</BirdID>
+
+	<BTO>EF90398</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>603</BirdID>
+
+	<BTO>DA14472</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>604</BirdID>
+
+	<BTO>EF62281</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>605</BirdID>
+
+	<BTO>EB01567</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>606</BirdID>
+
+	<BTO>EF61155</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>607</BirdID>
+
+	<BTO>EB01564</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>608</BirdID>
+
+	<BTO>DS85410</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>609</BirdID>
+
+	<BTO>DS85746</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>610</BirdID>
+
+	<BTO>EF62386</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>611</BirdID>
+
+	<BTO>DA23823</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>612</BirdID>
+
+	<BTO>EB01565</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>613</BirdID>
+
+	<BTO>DS85729</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>614</BirdID>
+
+	<BTO>EB01554</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>615</BirdID>
+
+	<BTO>EF62364</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>616</BirdID>
+
+	<BTO>DS85748</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>617</BirdID>
+
+	<BTO>EF90351</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>618</BirdID>
+
+	<BTO>EF90310</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>619</BirdID>
+
+	<BTO>DA23950</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>620</BirdID>
+
+	<BTO>EB01701</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>621</BirdID>
+
+	<BTO>DA14465</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>622</BirdID>
+
+	<BTO>DS85747</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>623</BirdID>
+
+	<BTO>EF90392</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>624</BirdID>
+
+	<BTO>EF90352</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>625</BirdID>
+
+	<BTO>EB01788</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>626</BirdID>
+
+	<BTO>EB01791</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>627</BirdID>
+
+	<BTO>EF90500</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>628</BirdID>
+
+	<BTO>EF62291</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>629</BirdID>
+
+	<BTO>DA23934</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>630</BirdID>
+
+	<BTO>EB01825</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>631</BirdID>
+
+	<BTO>EB01782</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>632</BirdID>
+
+	<BTO>EB01781</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1970</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>633</BirdID>
+
+	<BTO>EB01843</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>634</BirdID>
+
+	<BTO>EB01790</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>635</BirdID>
+
+	<BTO>EB01823</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>636</BirdID>
+
+	<BTO>EB01851</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>637</BirdID>
+
+	<BTO>EB01525</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>638</BirdID>
+
+	<BTO>EB01836</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>639</BirdID>
+
+	<BTO>EB01850</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>640</BirdID>
+
+	<BTO>DA24077</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>641</BirdID>
+
+	<BTO>EF90349</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>642</BirdID>
+
+	<BTO>EF90347</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>643</BirdID>
+
+	<BTO>EB01783</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>644</BirdID>
+
+	<BTO>DA24060</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>645</BirdID>
+
+	<BTO>DA24082</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>646</BirdID>
+
+	<BTO>EC99008</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>647</BirdID>
+
+	<BTO>EB01840</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>648</BirdID>
+
+	<BTO>EB01841</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>649</BirdID>
+
+	<BTO>EB01839</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>650</BirdID>
+
+	<BTO>EF90344</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>651</BirdID>
+
+	<BTO>DA24079</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>652</BirdID>
+
+	<BTO>EF90346</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>653</BirdID>
+
+	<BTO>DA24075</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>654</BirdID>
+
+	<BTO>DA24078</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>655</BirdID>
+
+	<BTO>EF90340</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>656</BirdID>
+
+	<BTO>EF90400</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>657</BirdID>
+
+	<BTO>DA14402</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>658</BirdID>
+
+	<BTO>EB01741</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>659</BirdID>
+
+	<BTO>EB01842</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>660</BirdID>
+
+	<BTO>DA23938</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>661</BirdID>
+
+	<BTO>EF90350</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>662</BirdID>
+
+	<BTO>DA23935</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>663</BirdID>
+
+	<BTO>DA14480</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>664</BirdID>
+
+	<BTO>EB88304</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>665</BirdID>
+
+	<BTO>DA24003</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>666</BirdID>
+
+	<BTO>DA24081</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>667</BirdID>
+
+	<BTO>EB01814</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>668</BirdID>
+
+	<BTO>DA23390</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>669</BirdID>
+
+	<BTO>DA24080</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>670</BirdID>
+
+	<BTO>DA24071</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>671</BirdID>
+
+	<BTO>EF90345</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>672</BirdID>
+
+	<BTO>EF90535</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>673</BirdID>
+
+	<BTO>EB01743</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>674</BirdID>
+
+	<BTO>EF90526</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>675</BirdID>
+
+	<BTO>DA23697</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>676</BirdID>
+
+	<BTO>DA24140</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>677</BirdID>
+
+	<BTO>DA23865</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>678</BirdID>
+
+	<BTO>EF90510</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>679</BirdID>
+
+	<BTO>DA24107</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>680</BirdID>
+
+	<BTO>DA23866</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>681</BirdID>
+
+	<BTO>EF90511</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>682</BirdID>
+
+	<BTO>EF90520</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>683</BirdID>
+
+	<BTO>EB01889</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>684</BirdID>
+
+	<BTO>EB01890</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>685</BirdID>
+
+	<BTO>EF90521</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>686</BirdID>
+
+	<BTO>EF90522</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>687</BirdID>
+
+	<BTO>EF90534</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>688</BirdID>
+
+	<BTO>EF90513</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>689</BirdID>
+
+	<BTO>DA24097</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>690</BirdID>
+
+	<BTO>DA24042</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>691</BirdID>
+
+	<BTO>EB88345</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>692</BirdID>
+
+	<BTO>EB88349</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>693</BirdID>
+
+	<BTO>EB88353</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>694</BirdID>
+
+	<BTO>EB88344</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>695</BirdID>
+
+	<BTO>DA24141</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>696</BirdID>
+
+	<BTO>EB88355</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>697</BirdID>
+
+	<BTO>EB88354</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>698</BirdID>
+
+	<BTO>DA24139</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>699</BirdID>
+
+	<BTO>DA24138</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>700</BirdID>
+
+	<BTO>EB88341</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>701</BirdID>
+
+	<BTO>EF90512</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>702</BirdID>
+
+	<BTO>EB88342</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>703</BirdID>
+
+	<BTO>EB88358</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>704</BirdID>
+
+	<BTO>DA24040</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>705</BirdID>
+
+	<BTO>DA24014</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>706</BirdID>
+
+	<BTO>EB88340</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>707</BirdID>
+
+	<BTO>EB88346</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>708</BirdID>
+
+	<BTO>EB88350</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>709</BirdID>
+
+	<BTO>EB88351</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>710</BirdID>
+
+	<BTO>EB88357</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>711</BirdID>
+
+	<BTO>EB88356</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>712</BirdID>
+
+	<BTO>EB88359</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>713</BirdID>
+
+	<BTO>EB88343</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>714</BirdID>
+
+	<BTO>EF90517</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>715</BirdID>
+
+	<BTO>DA14415</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>716</BirdID>
+
+	<BTO>DA24045</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>717</BirdID>
+
+	<BTO>EB01809</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>718</BirdID>
+
+	<BTO>EF32726</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1971</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>719</BirdID>
+
+	<BTO>DA24041</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>720</BirdID>
+
+	<BTO>DA24095</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>721</BirdID>
+
+	<BTO>DA24043</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>722</BirdID>
+
+	<BTO>EB88330</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>723</BirdID>
+
+	<BTO>EB01864</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>724</BirdID>
+
+	<BTO>DA24044</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>725</BirdID>
+
+	<BTO>EB88348</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>726</BirdID>
+
+	<BTO>EB88347</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1974</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>727</BirdID>
+
+	<BTO>DA30649</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>728</BirdID>
+
+	<BTO>EH31402</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>729</BirdID>
+
+	<BTO>DA23995</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>730</BirdID>
+
+	<BTO>EF90588</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>731</BirdID>
+
+	<BTO>EH20703</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>732</BirdID>
+
+	<BTO>DA30623</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>733</BirdID>
+
+	<BTO>EB01749</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>734</BirdID>
+
+	<BTO>DA30648</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>735</BirdID>
+
+	<BTO>EF90568</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>736</BirdID>
+
+	<BTO>EH31451</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>737</BirdID>
+
+	<BTO>EH31403</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>738</BirdID>
+
+	<BTO>EH31454</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>739</BirdID>
+
+	<BTO>EB01684</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>740</BirdID>
+
+	<BTO>EF61120</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>741</BirdID>
+
+	<BTO>DA24037</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>742</BirdID>
+
+	<BTO>DA30550</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>743</BirdID>
+
+	<BTO>DA30566</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>744</BirdID>
+
+	<BTO>EB01856</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>745</BirdID>
+
+	<BTO>EF90591</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>746</BirdID>
+
+	<BTO>EF90592</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>747</BirdID>
+
+	<BTO>EF90593</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>748</BirdID>
+
+	<BTO>DA23972</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>749</BirdID>
+
+	<BTO>DA30568</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>750</BirdID>
+
+	<BTO>EH20699</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>751</BirdID>
+
+	<BTO>DA23973</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>752</BirdID>
+
+	<BTO>EH20700</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>753</BirdID>
+
+	<BTO>DA30564</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>754</BirdID>
+
+	<BTO>DA30569</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>755</BirdID>
+
+	<BTO>DA30562</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>756</BirdID>
+
+	<BTO>EH20697</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1973</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>757</BirdID>
+
+	<BTO>DA30554</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>758</BirdID>
+
+	<BTO>EH20698</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>759</BirdID>
+
+	<BTO>DA30565</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>760</BirdID>
+
+	<BTO>DA30567</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>761</BirdID>
+
+	<BTO>DA24096</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>762</BirdID>
+
+	<BTO>EH20716</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1972</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>763</BirdID>
+
+	<BTO>EH31432</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>764</BirdID>
+
+	<BTO>DA35658</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>765</BirdID>
+
+	<BTO>EH20724</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>766</BirdID>
+
+	<BTO>EB01674</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>767</BirdID>
+
+	<BTO>EH20717</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>768</BirdID>
+
+	<BTO>EH20718</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>769</BirdID>
+
+	<BTO>EH51329</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>770</BirdID>
+
+	<BTO>EH51324</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>771</BirdID>
+
+	<BTO>DA31825</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>772</BirdID>
+
+	<BTO>DA24090</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>773</BirdID>
+
+	<BTO>EH31452</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>774</BirdID>
+
+	<BTO>EH51335</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>775</BirdID>
+
+	<BTO>EH51336</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>776</BirdID>
+
+	<BTO>EH51330</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>777</BirdID>
+
+	<BTO>EH31461</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>778</BirdID>
+
+	<BTO>DA31828</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>779</BirdID>
+
+	<BTO>EH51325</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>780</BirdID>
+
+	<BTO>EH31476</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>781</BirdID>
+
+	<BTO>EH51327</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>782</BirdID>
+
+	<BTO>EH51328</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>783</BirdID>
+
+	<BTO>EH51332</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>784</BirdID>
+
+	<BTO>EH51326</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>785</BirdID>
+
+	<BTO>EH51340</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>786</BirdID>
+
+	<BTO>EH51334</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>787</BirdID>
+
+	<BTO>EH51331</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>788</BirdID>
+
+	<BTO>EH31497</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>789</BirdID>
+
+	<BTO>EH51333</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>790</BirdID>
+
+	<BTO>DA31827</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>791</BirdID>
+
+	<BTO>EH51304</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>792</BirdID>
+
+	<BTO>DA31826</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>793</BirdID>
+
+	<BTO>EH31413</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>794</BirdID>
+
+	<BTO>DA35603</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>795</BirdID>
+
+	<BTO>EH69653</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>796</BirdID>
+
+	<BTO>EH20751</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>797</BirdID>
+
+	<BTO>EH69652</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>798</BirdID>
+
+	<BTO>EH69591</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>799</BirdID>
+
+	<BTO>DA24160</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1980</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>800</BirdID>
+
+	<BTO>EH69592</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>801</BirdID>
+
+	<BTO>EH31440</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>802</BirdID>
+
+	<BTO>EH69597</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>803</BirdID>
+
+	<BTO>EH69600</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>804</BirdID>
+
+	<BTO>DA24161</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>805</BirdID>
+
+	<BTO>EH69651</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>806</BirdID>
+
+	<BTO>EB88367</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>807</BirdID>
+
+	<BTO>DS85723</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>808</BirdID>
+
+	<BTO>EH51400</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>809</BirdID>
+
+	<BTO>DA31872</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>810</BirdID>
+
+	<BTO>DA31866</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>811</BirdID>
+
+	<BTO>EB88320</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1975</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>812</BirdID>
+
+	<BTO>DA31868</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>813</BirdID>
+
+	<BTO>EH69802</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>814</BirdID>
+
+	<BTO>DA31876</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>815</BirdID>
+
+	<BTO>DA31870</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>816</BirdID>
+
+	<BTO>EH52328</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>817</BirdID>
+
+	<BTO>DA30577</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>818</BirdID>
+
+	<BTO>EH51397</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>819</BirdID>
+
+	<BTO>EH69801</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>820</BirdID>
+
+	<BTO>DA35656</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>821</BirdID>
+
+	<BTO>EF90478</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1976</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>822</BirdID>
+
+	<BTO>DA31875</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>823</BirdID>
+
+	<BTO>DA31873</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>824</BirdID>
+
+	<BTO>EH69803</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>825</BirdID>
+
+	<BTO>EH51396</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>826</BirdID>
+
+	<BTO>DA31817</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1977</HatchYear>
+
+	<AgeIsMinEstimate>1</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>827</BirdID>
+
+	<BTO>EH51395</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>828</BirdID>
+
+	<BTO>DA31869</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>829</BirdID>
+
+	<BTO>DA31821</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>830</BirdID>
+
+	<BTO>EH51399</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>831</BirdID>
+
+	<BTO>DA31874</BTO>
+
+	<Sex>M</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>832</BirdID>
+
+	<BTO>EH51398</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1979</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+<RECORD>
+	<BirdID>833</BirdID>
+
+	<BTO>EH69804</BTO>
+
+	<Sex>F</Sex>
+
+	<HatchYear>1978</HatchYear>
+
+	<AgeIsMinEstimate>0</AgeIsMinEstimate>
+
+</RECORD>
+</RECORDS>

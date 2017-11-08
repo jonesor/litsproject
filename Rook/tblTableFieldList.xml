@@ -1,0 +1,1095 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique bird identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>BreedYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of breeding attempt</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>HasMate</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether or not the bird was seen with a mate</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>Incubate</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether or not the bird was seen incubating</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>MateID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number of mate</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>NestBuild</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether or not the bird was seen nest building</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>Offspring</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether or not the bird was seen with offspring</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblBreeding</TableName>
+
+	<FieldName>RowRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique record identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>CodeRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Category identifying each set of codes</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>20</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>Label</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Translation of the code</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>100</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblCodeList</TableName>
+
+	<FieldName>Value</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Code used in the database</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>15</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblFieldSightings</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number of bird</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblFieldSightings</TableName>
+
+	<FieldName>Crop</FieldName>
+
+	<CodeRef>CropType</CodeRef>
+
+	<FieldDescription>Crop or or other ground covr at location</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>5</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblFieldSightings</TableName>
+
+	<FieldName>Easting</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Easting</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblFieldSightings</TableName>
+
+	<FieldName>GridSquare</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid 100km-square identifier</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblFieldSightings</TableName>
+
+	<FieldName>Northing</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Northing</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblFieldSightings</TableName>
+
+	<FieldName>SightingDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of sighting</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblID</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number of bird</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblID</TableName>
+
+	<FieldName>BirthYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of birth</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblID</TableName>
+
+	<FieldName>OldID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number used to represent bird in paper records (not used for identification in database)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblID</TableName>
+
+	<FieldName>Sex</FieldName>
+
+	<CodeRef>Sex</CodeRef>
+
+	<FieldDescription>Sex of the bird</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMarks</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number of a bird</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMarks</TableName>
+
+	<FieldName>Code</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique Code representing the tag or ring</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>50</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMarks</TableName>
+
+	<FieldName>LossDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date on which the mark was seen to be lost</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMarks</TableName>
+
+	<FieldName>MarkDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date the bird was given this mark</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMarks</TableName>
+
+	<FieldName>Type</FieldName>
+
+	<CodeRef>MarkType</CodeRef>
+
+	<FieldDescription>Type of tag or ring used to identify a bird in the field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMortality</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number of the bird</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMortality</TableName>
+
+	<FieldName>CauseOfDeath</FieldName>
+
+	<CodeRef>DeathCause</CodeRef>
+
+	<FieldDescription>Cause of death</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>5</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblMortality</TableName>
+
+	<FieldName>DeathDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of death</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCountAreas</TableName>
+
+	<FieldName>AreaID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identification number for areas within rookeries</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCountAreas</TableName>
+
+	<FieldName>AreaName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the area</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>255</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCountAreas</TableName>
+
+	<FieldName>Easting</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Easting</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCountAreas</TableName>
+
+	<FieldName>GridSquare</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid 100km-square identifier</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCountAreas</TableName>
+
+	<FieldName>Northing</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Northing</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCountAreas</TableName>
+
+	<FieldName>RookeryID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique rookery identification number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCounts</TableName>
+
+	<FieldName>CountYear</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Year of count</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCounts</TableName>
+
+	<FieldName>NestCount</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of occupied nests recorded</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCounts</TableName>
+
+	<FieldName>RookeryID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique rookery identification number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblNestCounts</TableName>
+
+	<FieldName>RowRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique record identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookeryNames</TableName>
+
+	<FieldName>RookeryID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique rookery identification number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookeryNames</TableName>
+
+	<FieldName>RookeryName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the rookery</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>25</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookerySightings</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number of a bird</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookerySightings</TableName>
+
+	<FieldName>RookeryID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique rookery identification number</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookerySightings</TableName>
+
+	<FieldName>RowRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique record identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookerySightings</TableName>
+
+	<FieldName>SightingDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of observation</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookerySightings</TableName>
+
+	<FieldName>TreeID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique tree identity number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRookerySightings</TableName>
+
+	<FieldName>WithMate</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether or not the bird had a mate present</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRoostCounts</TableName>
+
+	<FieldName>BirdCount</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Number of birds counted on photographs following an artificial scare at the rookery</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRoostCounts</TableName>
+
+	<FieldName>CountDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of the count</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRoostCounts</TableName>
+
+	<FieldName>RookeryID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique rookery identification number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblRoostCounts</TableName>
+
+	<FieldName>RowRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique record identifier</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>CodeRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Category of codes used for data in this field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>50</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldDescription</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Description of the contents of the field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>255</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the field in the table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>64</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldSize</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Storage requirement of the field (bytes)</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>FieldType</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Data type of the field</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>10</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableFieldList</TableName>
+
+	<FieldName>TableName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the database table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>64</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<FieldName>Description</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Description of the table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>250</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTableList</TableName>
+
+	<FieldName>TableName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Name of the database table</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>25</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>BillDepth</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Bill depth (mm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>BillLength</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Bill length (mm)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>BirdID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique identity number of bird</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>Dead</FieldName>
+
+	<CodeRef>YesNo</CodeRef>
+
+	<FieldDescription>Whether the bird was alive or dead when measured</FieldDescription>
+
+	<FieldType>Boolean</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>GapeWorm</FieldName>
+
+	<CodeRef>GapeWorm</CodeRef>
+
+	<FieldDescription>Level of infestation with Gape worm</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>Mass</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Mass of the bird (g)</FieldDescription>
+
+	<FieldType>Single</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>RowRef</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique record identity number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>TrapDate</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Date of trapping</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>TrapID</FieldName>
+
+	<CodeRef>Trap</CodeRef>
+
+	<FieldDescription>Unique identity number for trapping sites</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>TrapTime</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Time of trapping</FieldDescription>
+
+	<FieldType>Date/Time</FieldType>
+
+	<FieldSize>8</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrap</TableName>
+
+	<FieldName>Wing</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Wing chord (mm)</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrapLocations</TableName>
+
+	<FieldName>Easting</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Easting</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrapLocations</TableName>
+
+	<FieldName>GridSquare</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid 100km-square identifier</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrapLocations</TableName>
+
+	<FieldName>Northing</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>OS National Grid Northing</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrapLocations</TableName>
+
+	<FieldName>TrapID</FieldName>
+
+	<CodeRef>Trap</CodeRef>
+
+	<FieldDescription>Unique identity number for trapping sites</FieldDescription>
+
+	<FieldType>Byte</FieldType>
+
+	<FieldSize>1</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrees</TableName>
+
+	<FieldName>LocalEasting</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Easting on local custom grid</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrees</TableName>
+
+	<FieldName>LocalNorthing</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Northing on local custom grid</FieldDescription>
+
+	<FieldType>Integer</FieldType>
+
+	<FieldSize>2</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrees</TableName>
+
+	<FieldName>TreeID</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Unique tree identity number</FieldDescription>
+
+	<FieldType>Long</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+<RECORD>
+	<TableName>tblTrees</TableName>
+
+	<FieldName>TreeName</FieldName>
+
+	<CodeRef></CodeRef>
+
+	<FieldDescription>Code for tree used in paper records</FieldDescription>
+
+	<FieldType>Text</FieldType>
+
+	<FieldSize>4</FieldSize>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,9529 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<TrapNightID>1</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>20</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>36</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>2</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>20</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>39</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>3</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>21</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>37</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>4</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>20</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>37</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>5</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>21</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>38</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>6</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>7</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>8</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>1</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>9</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>10</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>14</SprungTraps>
+
+	<TotalTrapNights>46</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>11</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>12</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>13</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>12</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>14</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>15</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>16</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>17</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>18</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>19</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>20</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>4</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>12</SprungTraps>
+
+	<TotalTrapNights>46</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>21</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>22</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>12</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>23</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>11</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>24</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>25</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>26</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>5</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>27</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>28</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>29</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>30</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>31</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>32</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>3</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>33</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>34</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>35</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>5</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>36</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>37</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>38</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>39</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>40</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>41</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>42</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1981</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>43</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>44</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>45</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>46</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>47</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>48</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>49</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>12</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>50</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>51</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>52</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>13</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>53</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>54</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>12</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>55</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>56</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>4</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>57</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>0</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>58</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>59</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>60</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>61</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>62</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>63</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>64</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>1</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>65</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>66</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>4</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>67</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>68</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>69</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>0</DropIndex>
+
+	<GrassStemIndex>5</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>12</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>70</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>71</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>14</SprungTraps>
+
+	<TotalTrapNights>42</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>72</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>0</DropIndex>
+
+	<GrassStemIndex>5</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>73</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>74</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>75</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>76</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>77</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>78</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>79</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>80</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>81</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>82</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>0</DropIndex>
+
+	<GrassStemIndex>4</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>83</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>5</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>84</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>85</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>86</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>0</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>87</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>88</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>1</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>89</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>90</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>91</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>92</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>93</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>94</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1982</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>95</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>96</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>97</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>98</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>99</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>100</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>101</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>102</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>103</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>104</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>21</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>105</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>106</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>107</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>108</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>109</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>110</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>111</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>112</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>113</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>114</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>115</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>13</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>45</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>116</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>16</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>41</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>117</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>118</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>119</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>120</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>121</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>11</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>122</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>123</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>2</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>124</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>125</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>126</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>11</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>127</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>128</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>129</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>130</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>131</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>132</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>133</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>134</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>135</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>136</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>1</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>137</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>16</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>138</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>21</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>139</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>140</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>141</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>142</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>143</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1983</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>13</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>144</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>145</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>12</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>42</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>146</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>45</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>147</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>148</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>45</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>149</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>46</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>150</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>12</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>41</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>151</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>46</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>152</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>46</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>153</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>13</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>11</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>154</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>155</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>156</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>157</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>46</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>158</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>159</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>45</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>160</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>161</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>162</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>44</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>163</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>42</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>164</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>10</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>165</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>166</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>167</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>168</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>169</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>170</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>41</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>171</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>172</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>173</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>174</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>175</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>176</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>177</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>178</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>179</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>180</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>181</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>1</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>182</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>183</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>184</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>185</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>186</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>30</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>29</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>187</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>188</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>189</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>12</DropIndex>
+
+	<GrassStemIndex>20</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>190</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>191</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>14</DropIndex>
+
+	<GrassStemIndex>22</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>192</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>21</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>193</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>194</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>23</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>195</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1984</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>196</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>15</DropIndex>
+
+	<GrassStemIndex>23</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>197</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>198</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>199</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>200</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>201</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>202</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>203</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>204</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>205</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>206</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>207</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>208</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>209</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>210</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>211</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>212</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>213</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>214</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>215</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>216</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>217</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>218</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>219</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>220</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>221</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>222</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>223</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>224</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>225</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>226</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>227</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>228</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>229</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>230</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>231</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>232</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>14</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>44</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>233</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>234</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>235</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>236</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>237</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>238</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>239</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>240</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>241</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>20</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>242</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>12</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>243</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>244</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>13</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>245</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>246</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1985</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>247</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>248</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>249</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>250</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>251</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>252</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>253</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>254</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>255</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>256</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>257</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>258</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>259</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>260</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>261</TrapNightID>
+
+	<Site>8</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>262</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>263</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>264</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>265</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>266</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>267</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>268</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>269</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>270</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>24</SprungTraps>
+
+	<TotalTrapNights>36</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>271</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>272</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>273</TrapNightID>
+
+	<Site>17</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>274</TrapNightID>
+
+	<Site>18</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>275</TrapNightID>
+
+	<Site>19</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>276</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>277</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>1</DropIndex>
+
+	<GrassStemIndex>5</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>278</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>279</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>1</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>280</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>281</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>282</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>283</TrapNightID>
+
+	<Site>18</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>0</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>284</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>11</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>285</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>286</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>287</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>288</TrapNightID>
+
+	<Site>19</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>289</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>290</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>291</TrapNightID>
+
+	<Site>17</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>13</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>292</TrapNightID>
+
+	<Site>18</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>0</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>293</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>3</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>294</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>17</DropIndex>
+
+	<GrassStemIndex>20</GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>295</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>12</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>296</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>297</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>298</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>299</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>300</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>301</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>302</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>303</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>304</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>21</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>305</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>306</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1986</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>307</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>308</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>309</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>310</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>311</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>312</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>3</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>313</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>314</TrapNightID>
+
+	<Site>17</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>315</TrapNightID>
+
+	<Site>18</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>316</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>317</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>318</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>319</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>320</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>321</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>6</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>322</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>1</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>323</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>324</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>325</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>326</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>11</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>327</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>328</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>329</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>330</TrapNightID>
+
+	<Site>18</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>331</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>332</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>333</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>5</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>334</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>335</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>9</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>336</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>337</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>4</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>338</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>339</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>340</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>13</DropIndex>
+
+	<GrassStemIndex>20</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>341</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>342</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>343</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>344</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>12</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>345</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>9</DropIndex>
+
+	<GrassStemIndex>16</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>346</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>347</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>2</DropIndex>
+
+	<GrassStemIndex>7</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>348</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>13</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>349</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>18</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>350</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>7</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>351</TrapNightID>
+
+	<Site>17</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>352</TrapNightID>
+
+	<Site>18</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>14</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>44</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>353</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>10</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>17</SprungTraps>
+
+	<TotalTrapNights>43</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>354</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>355</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>7</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>356</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>17</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>8</SprungTraps>
+
+	<TotalTrapNights>52</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>357</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>4</DropIndex>
+
+	<GrassStemIndex>8</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>358</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>359</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>360</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>20</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>361</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>6</DropIndex>
+
+	<GrassStemIndex>15</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>362</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>19</GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>363</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>8</DropIndex>
+
+	<GrassStemIndex>10</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>364</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1987</Year>
+
+	<Month>10</Month>
+
+	<DropIndex>11</DropIndex>
+
+	<GrassStemIndex>14</GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>365</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>366</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>24</SprungTraps>
+
+	<TotalTrapNights>36</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>367</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>30</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>28</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>368</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>16</SprungTraps>
+
+	<TotalTrapNights>44</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>369</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>54</SprungTraps>
+
+	<TotalTrapNights>7</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>370</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>371</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>372</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>373</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>30</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>29</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>374</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>375</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>376</TrapNightID>
+
+	<Site>4</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>377</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>15</SprungTraps>
+
+	<TotalTrapNights>45</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>378</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>11</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>379</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>380</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>13</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>381</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>382</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>383</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>384</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>57</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>385</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>386</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>387</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>388</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>389</TrapNightID>
+
+	<Site>3</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>13</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>390</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>391</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>392</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>11</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>393</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>394</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>395</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>12</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>396</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>397</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>398</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>399</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>7</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>400</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>10</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>401</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>16</SprungTraps>
+
+	<TotalTrapNights>44</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>402</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>14</SprungTraps>
+
+	<TotalTrapNights>46</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>403</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>2</MissingTraps>
+
+	<SprungTraps>14</SprungTraps>
+
+	<TotalTrapNights>44</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>404</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>51</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>405</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>56</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>406</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>407</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>408</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>6</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>409</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1988</Year>
+
+	<Month>10</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>59</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>410</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>5</SprungTraps>
+
+	<TotalTrapNights>55</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>411</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>412</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>58</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>413</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>0</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>60</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>414</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>20</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>38</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>415</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>23</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>35</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>416</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>417</TrapNightID>
+
+	<Site>12</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>418</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>419</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>45</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>420</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>421</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>1</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>7</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>422</TrapNightID>
+
+	<Site>7</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>423</TrapNightID>
+
+	<Site>6</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>12</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>45</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>424</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>1</SprungTraps>
+
+	<TotalTrapNights>53</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>425</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>3</SprungTraps>
+
+	<TotalTrapNights>49</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>426</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>7</SprungTraps>
+
+	<TotalTrapNights>47</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>427</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>M</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>6</MissingTraps>
+
+	<SprungTraps>0</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>428</TrapNightID>
+
+	<Site>9</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>14</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>42</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>429</TrapNightID>
+
+	<Site>12</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>50</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>430</TrapNightID>
+
+	<Site>5</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>9</SprungTraps>
+
+	<TotalTrapNights>43</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>431</TrapNightID>
+
+	<Site>2</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>8</MissingTraps>
+
+	<SprungTraps>4</SprungTraps>
+
+	<TotalTrapNights>48</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>432</TrapNightID>
+
+	<Site>10</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+<RECORD>
+	<TrapNightID>433</TrapNightID>
+
+	<Site>1</Site>
+
+	<StudyArea>A</StudyArea>
+
+	<Year>1989</Year>
+
+	<Month>4</Month>
+
+	<DropIndex></DropIndex>
+
+	<GrassStemIndex></GrassStemIndex>
+
+	<MissingTraps>4</MissingTraps>
+
+	<SprungTraps>2</SprungTraps>
+
+	<TotalTrapNights>54</TotalTrapNights>
+
+</RECORD>
+</RECORDS>

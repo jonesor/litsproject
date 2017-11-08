@@ -1,0 +1,79 @@
+"TableName","FieldName","CodeRef","FieldDescription","FieldType","FieldSize"
+"tblBreeding","BirdID",,"Unique bird identifier","Long",4
+"tblBreeding","BreedYear",,"Year of breeding attempt","Integer",2
+"tblBreeding","HasMate","YesNo","Whether or not the bird was seen with a mate","Boolean",1
+"tblBreeding","Incubate","YesNo","Whether or not the bird was seen incubating","Boolean",1
+"tblBreeding","MateID",,"Unique identity number of mate","Long",4
+"tblBreeding","NestBuild","YesNo","Whether or not the bird was seen nest building","Boolean",1
+"tblBreeding","Offspring","YesNo","Whether or not the bird was seen with offspring","Boolean",1
+"tblBreeding","RowRef",,"Unique record identifier","Long",4
+"tblCodeList","CodeRef",,"Category identifying each set of codes","Text",20
+"tblCodeList","Label",,"Translation of the code","Text",100
+"tblCodeList","Value",,"Code used in the database","Text",15
+"tblFieldSightings","BirdID",,"Unique identity number of bird","Long",4
+"tblFieldSightings","Crop","CropType","Crop or or other ground covr at location","Text",5
+"tblFieldSightings","Easting",,"OS National Grid Easting","Integer",2
+"tblFieldSightings","GridSquare",,"OS National Grid 100km-square identifier","Text",2
+"tblFieldSightings","Northing",,"OS National Grid Northing","Integer",2
+"tblFieldSightings","SightingDate",,"Date of sighting","Date/Time",8
+"tblID","BirdID",,"Unique identity number of bird","Long",4
+"tblID","BirthYear",,"Year of birth","Integer",2
+"tblID","OldID",,"Unique identity number used to represent bird in paper records (not used for identification in database)","Integer",2
+"tblID","Sex","Sex","Sex of the bird","Text",1
+"tblMarks","BirdID",,"Unique identity number of a bird","Long",4
+"tblMarks","Code",,"Unique Code representing the tag or ring","Text",50
+"tblMarks","LossDate",,"Date on which the mark was seen to be lost","Date/Time",8
+"tblMarks","MarkDate",,"Date the bird was given this mark","Date/Time",8
+"tblMarks","Type","MarkType","Type of tag or ring used to identify a bird in the field","Text",4
+"tblMortality","BirdID",,"Unique identity number of the bird","Long",4
+"tblMortality","CauseOfDeath","DeathCause","Cause of death","Text",5
+"tblMortality","DeathDate",,"Date of death","Date/Time",8
+"tblNestCountAreas","AreaID",,"Unique identification number for areas within rookeries","Long",4
+"tblNestCountAreas","AreaName",,"Name of the area","Text",255
+"tblNestCountAreas","Easting",,"OS National Grid Easting","Integer",2
+"tblNestCountAreas","GridSquare",,"OS National Grid 100km-square identifier","Text",2
+"tblNestCountAreas","Northing",,"OS National Grid Northing","Integer",2
+"tblNestCountAreas","RookeryID",,"Unique rookery identification number","Long",4
+"tblNestCounts","CountYear",,"Year of count","Integer",2
+"tblNestCounts","NestCount",,"Number of occupied nests recorded","Integer",2
+"tblNestCounts","RookeryID",,"Unique rookery identification number","Long",4
+"tblNestCounts","RowRef",,"Unique record identifier","Long",4
+"tblRookeryNames","RookeryID",,"Unique rookery identification number","Long",4
+"tblRookeryNames","RookeryName",,"Name of the rookery","Text",25
+"tblRookerySightings","BirdID",,"Unique identity number of a bird","Long",4
+"tblRookerySightings","RookeryID",,"Unique rookery identification number","Integer",2
+"tblRookerySightings","RowRef",,"Unique record identifier","Long",4
+"tblRookerySightings","SightingDate",,"Date of observation","Date/Time",8
+"tblRookerySightings","TreeID",,"Unique tree identity number","Long",4
+"tblRookerySightings","WithMate","YesNo","Whether or not the bird had a mate present","Boolean",1
+"tblRoostCounts","BirdCount",,"Number of birds counted on photographs following an artificial scare at the rookery","Integer",2
+"tblRoostCounts","CountDate",,"Date of the count","Date/Time",8
+"tblRoostCounts","RookeryID",,"Unique rookery identification number","Long",4
+"tblRoostCounts","RowRef",,"Unique record identifier","Long",4
+"tblTableFieldList","CodeRef",,"Category of codes used for data in this field","Text",50
+"tblTableFieldList","FieldDescription",,"Description of the contents of the field","Text",255
+"tblTableFieldList","FieldName",,"Name of the field in the table","Text",64
+"tblTableFieldList","FieldSize",,"Storage requirement of the field (bytes)","Byte",1
+"tblTableFieldList","FieldType",,"Data type of the field","Text",10
+"tblTableFieldList","TableName",,"Name of the database table","Text",64
+"tblTableList","Description",,"Description of the table","Text",250
+"tblTableList","TableName",,"Name of the database table","Text",25
+"tblTrap","BillDepth",,"Bill depth (mm)","Single",4
+"tblTrap","BillLength",,"Bill length (mm)","Single",4
+"tblTrap","BirdID",,"Unique identity number of bird","Long",4
+"tblTrap","Dead","YesNo","Whether the bird was alive or dead when measured","Boolean",1
+"tblTrap","GapeWorm","GapeWorm","Level of infestation with Gape worm","Text",1
+"tblTrap","Mass",,"Mass of the bird (g)","Single",4
+"tblTrap","RowRef",,"Unique record identity number","Long",4
+"tblTrap","TrapDate",,"Date of trapping","Date/Time",8
+"tblTrap","TrapID","Trap","Unique identity number for trapping sites","Byte",1
+"tblTrap","TrapTime",,"Time of trapping","Date/Time",8
+"tblTrap","Wing",,"Wing chord (mm)","Integer",2
+"tblTrapLocations","Easting",,"OS National Grid Easting","Integer",2
+"tblTrapLocations","GridSquare",,"OS National Grid 100km-square identifier","Text",2
+"tblTrapLocations","Northing",,"OS National Grid Northing","Integer",2
+"tblTrapLocations","TrapID","Trap","Unique identity number for trapping sites","Byte",1
+"tblTrees","LocalEasting",,"Easting on local custom grid","Integer",2
+"tblTrees","LocalNorthing",,"Northing on local custom grid","Integer",2
+"tblTrees","TreeID",,"Unique tree identity number","Long",4
+"tblTrees","TreeName",,"Code for tree used in paper records","Text",4

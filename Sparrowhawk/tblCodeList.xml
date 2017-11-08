@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>A</Value>
+
+	<Label>Addled</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>B</Value>
+
+	<Label>Egg breakage</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>C</Value>
+
+	<Label>Non-lay/breakage (see also N and E)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>D</Value>
+
+	<Label>Desertion</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>E</Value>
+
+	<Label>Breakage/addling (see also C)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>F</Value>
+
+	<Label>Two females</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>G</Value>
+
+	<Label>Disappeared</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>H</Value>
+
+	<Label>Human (interference)/killed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>L</Value>
+
+	<Label>Lumberwork</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>M</Value>
+
+	<Label>Mortality</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>N</Value>
+
+	<Label>Non-lay</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>P</Value>
+
+	<Label>Predation (non-human)</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>Q</Value>
+
+	<Label>Robbed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>R</Value>
+
+	<Label>Removed</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>S</Value>
+
+	<Label>Fully successful</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>T</Value>
+
+	<Label>Desertion after trapping</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>U</Value>
+
+	<Label>Unknown</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>W</Value>
+
+	<Label>Wind/nest collapse</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>X</Value>
+
+	<Label>Success: not known whether full or partial</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedStatus</CodeRef>
+
+	<Value>Z</Value>
+
+	<Label>Partial success</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedSuccess</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>Breeding failure</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>BreedSuccess</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Breeding success</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>BreedStatus</Value>
+
+	<Label>Codes for the outcome of a breeding attempt</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>BreedSuccess</Value>
+
+	<Label>Codes indicating breeding success or failure</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>CodeRef</Value>
+
+	<Label>Codes defining the range of values used to encode a field</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>LandUse</Value>
+
+	<Label>Codes indicating the general land use in the vicinity of a nest/territory</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>LayPeriod</Value>
+
+	<Label>Codes for the dates encompassed in each laying period</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>Region</Value>
+
+	<Label>Codes indicating the study area</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>Sex</Value>
+
+	<Label>Codes for the sex of a bird</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>CodeRef</CodeRef>
+
+	<Value>YesNo</Value>
+
+	<Label>Codes indicating Boolean True/False values</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LandUse</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>Farmland</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LandUse</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>Forestry plantation</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LandUse</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>Sheepwalk</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>Pre-21 April</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>1</Value>
+
+	<Label>21 - 25 April</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>10</Value>
+
+	<Label>5 - 9 June</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>11</Value>
+
+	<Label>10 - 14 June</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>2</Value>
+
+	<Label>26 - 30 April</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>3</Value>
+
+	<Label>1 - 5 May</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>4</Value>
+
+	<Label>6 - 10 May</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>5</Value>
+
+	<Label>11 - 15 May</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>6</Value>
+
+	<Label>16 - 20 May</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>7</Value>
+
+	<Label>21 - 25 May</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>8</Value>
+
+	<Label>26 - 30 May</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>LayPeriod</CodeRef>
+
+	<Value>9</Value>
+
+	<Label>31 May - 4 June</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Region</CodeRef>
+
+	<Value>A</Value>
+
+	<Label>Annandale</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Region</CodeRef>
+
+	<Value>E</Value>
+
+	<Label>Eskdale</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Sex</CodeRef>
+
+	<Value>F</Value>
+
+	<Label>Female</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>Sex</CodeRef>
+
+	<Value>M</Value>
+
+	<Label>Male</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>YesNo</CodeRef>
+
+	<Value>0</Value>
+
+	<Label>No</Label>
+
+</RECORD>
+<RECORD>
+	<CodeRef>YesNo</CodeRef>
+
+	<Value>-1</Value>
+
+	<Label>Yes</Label>
+
+</RECORD>
+</RECORDS>

@@ -1,0 +1,5259 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<RowID>503</RowID>
+
+	<MonksWoodID>8795</MonksWoodID>
+
+	<GutID>1</GutID>
+
+	<Species>1</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>504</RowID>
+
+	<MonksWoodID>8795</MonksWoodID>
+
+	<GutID>1</GutID>
+
+	<Species>2</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>505</RowID>
+
+	<MonksWoodID>8795</MonksWoodID>
+
+	<GutID>1</GutID>
+
+	<Species>6</Species>
+
+	<Score>5</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>506</RowID>
+
+	<MonksWoodID>8795</MonksWoodID>
+
+	<GutID>1</GutID>
+
+	<Species>20</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>507</RowID>
+
+	<MonksWoodID>8795</MonksWoodID>
+
+	<GutID>1</GutID>
+
+	<Species>16</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>508</RowID>
+
+	<MonksWoodID>8630</MonksWoodID>
+
+	<GutID>2</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>509</RowID>
+
+	<MonksWoodID>8630</MonksWoodID>
+
+	<GutID>2</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>510</RowID>
+
+	<MonksWoodID>8630</MonksWoodID>
+
+	<GutID>2</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>511</RowID>
+
+	<MonksWoodID>8630</MonksWoodID>
+
+	<GutID>2</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>512</RowID>
+
+	<MonksWoodID>8630</MonksWoodID>
+
+	<GutID>2</GutID>
+
+	<Species>20</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>514</RowID>
+
+	<MonksWoodID>8813</MonksWoodID>
+
+	<GutID>3</GutID>
+
+	<Species>17</Species>
+
+	<Score>3</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>515</RowID>
+
+	<MonksWoodID>8813</MonksWoodID>
+
+	<GutID>3</GutID>
+
+	<Species>19</Species>
+
+	<Score>5</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>516</RowID>
+
+	<MonksWoodID>5287</MonksWoodID>
+
+	<GutID>4</GutID>
+
+	<Species>2</Species>
+
+	<Score>14</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>517</RowID>
+
+	<MonksWoodID>5287</MonksWoodID>
+
+	<GutID>4</GutID>
+
+	<Species>19</Species>
+
+	<Score>37</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>518</RowID>
+
+	<MonksWoodID>5324</MonksWoodID>
+
+	<GutID>5</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>519</RowID>
+
+	<MonksWoodID>5324</MonksWoodID>
+
+	<GutID>5</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>520</RowID>
+
+	<MonksWoodID>5315</MonksWoodID>
+
+	<GutID>6</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>521</RowID>
+
+	<MonksWoodID>5315</MonksWoodID>
+
+	<GutID>6</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>522</RowID>
+
+	<MonksWoodID>5318</MonksWoodID>
+
+	<GutID>7</GutID>
+
+	<Species>2</Species>
+
+	<Score>3</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>523</RowID>
+
+	<MonksWoodID>5318</MonksWoodID>
+
+	<GutID>7</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>525</RowID>
+
+	<MonksWoodID>5319</MonksWoodID>
+
+	<GutID>8</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>526</RowID>
+
+	<MonksWoodID>5319</MonksWoodID>
+
+	<GutID>8</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>527</RowID>
+
+	<MonksWoodID>5346</MonksWoodID>
+
+	<GutID>9</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>528</RowID>
+
+	<MonksWoodID>5346</MonksWoodID>
+
+	<GutID>9</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>529</RowID>
+
+	<MonksWoodID>5346</MonksWoodID>
+
+	<GutID>9</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>531</RowID>
+
+	<MonksWoodID>5417</MonksWoodID>
+
+	<GutID>10</GutID>
+
+	<Species>19</Species>
+
+	<Score>3</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>532</RowID>
+
+	<MonksWoodID>5476</MonksWoodID>
+
+	<GutID>11</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>533</RowID>
+
+	<MonksWoodID>5476</MonksWoodID>
+
+	<GutID>11</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>534</RowID>
+
+	<MonksWoodID>5530</MonksWoodID>
+
+	<GutID>12</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>535</RowID>
+
+	<MonksWoodID>5530</MonksWoodID>
+
+	<GutID>12</GutID>
+
+	<Species>3</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>536</RowID>
+
+	<MonksWoodID>5530</MonksWoodID>
+
+	<GutID>12</GutID>
+
+	<Species>6</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>537</RowID>
+
+	<MonksWoodID>5530</MonksWoodID>
+
+	<GutID>12</GutID>
+
+	<Species>19</Species>
+
+	<Score>9</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>538</RowID>
+
+	<MonksWoodID>5532</MonksWoodID>
+
+	<GutID>13</GutID>
+
+	<Species>2</Species>
+
+	<Score>9</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>539</RowID>
+
+	<MonksWoodID>5532</MonksWoodID>
+
+	<GutID>13</GutID>
+
+	<Species>3</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>540</RowID>
+
+	<MonksWoodID>5532</MonksWoodID>
+
+	<GutID>13</GutID>
+
+	<Species>19</Species>
+
+	<Score>22</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>541</RowID>
+
+	<MonksWoodID>5555</MonksWoodID>
+
+	<GutID>14</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>542</RowID>
+
+	<MonksWoodID>5555</MonksWoodID>
+
+	<GutID>14</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>543</RowID>
+
+	<MonksWoodID>5802</MonksWoodID>
+
+	<GutID>15</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>544</RowID>
+
+	<MonksWoodID>5802</MonksWoodID>
+
+	<GutID>15</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>546</RowID>
+
+	<MonksWoodID>5810</MonksWoodID>
+
+	<GutID>16</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>548</RowID>
+
+	<MonksWoodID>5821</MonksWoodID>
+
+	<GutID>17</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>549</RowID>
+
+	<MonksWoodID>5821</MonksWoodID>
+
+	<GutID>17</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>550</RowID>
+
+	<MonksWoodID>5821</MonksWoodID>
+
+	<GutID>17</GutID>
+
+	<Species>21</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>551</RowID>
+
+	<MonksWoodID>5828</MonksWoodID>
+
+	<GutID>18</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>552</RowID>
+
+	<MonksWoodID>5828</MonksWoodID>
+
+	<GutID>18</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>553</RowID>
+
+	<MonksWoodID>5828</MonksWoodID>
+
+	<GutID>18</GutID>
+
+	<Species>16</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>555</RowID>
+
+	<MonksWoodID>5921</MonksWoodID>
+
+	<GutID>19</GutID>
+
+	<Species>2</Species>
+
+	<Score>20</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>556</RowID>
+
+	<MonksWoodID>5921</MonksWoodID>
+
+	<GutID>19</GutID>
+
+	<Species>28</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>557</RowID>
+
+	<MonksWoodID>5921</MonksWoodID>
+
+	<GutID>19</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>559</RowID>
+
+	<MonksWoodID>5991</MonksWoodID>
+
+	<GutID>20</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>561</RowID>
+
+	<MonksWoodID>6197</MonksWoodID>
+
+	<GutID>21</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>562</RowID>
+
+	<MonksWoodID>6197</MonksWoodID>
+
+	<GutID>21</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>563</RowID>
+
+	<MonksWoodID>6197</MonksWoodID>
+
+	<GutID>21</GutID>
+
+	<Species>16</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>564</RowID>
+
+	<MonksWoodID>6869</MonksWoodID>
+
+	<GutID>22</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>565</RowID>
+
+	<MonksWoodID>6869</MonksWoodID>
+
+	<GutID>22</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>566</RowID>
+
+	<MonksWoodID>6869</MonksWoodID>
+
+	<GutID>22</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>567</RowID>
+
+	<MonksWoodID>6869</MonksWoodID>
+
+	<GutID>22</GutID>
+
+	<Species>16</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>568</RowID>
+
+	<MonksWoodID>7339</MonksWoodID>
+
+	<GutID>23</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>569</RowID>
+
+	<MonksWoodID>7521</MonksWoodID>
+
+	<GutID>24</GutID>
+
+	<Species>4</Species>
+
+	<Score>14</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>570</RowID>
+
+	<MonksWoodID>7521</MonksWoodID>
+
+	<GutID>24</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>571</RowID>
+
+	<MonksWoodID>7521</MonksWoodID>
+
+	<GutID>24</GutID>
+
+	<Species>6</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>572</RowID>
+
+	<MonksWoodID>7521</MonksWoodID>
+
+	<GutID>24</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>574</RowID>
+
+	<MonksWoodID>7523</MonksWoodID>
+
+	<GutID>25</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>575</RowID>
+
+	<MonksWoodID>7523</MonksWoodID>
+
+	<GutID>25</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>577</RowID>
+
+	<MonksWoodID>7761</MonksWoodID>
+
+	<GutID>26</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>578</RowID>
+
+	<MonksWoodID>7768</MonksWoodID>
+
+	<GutID>27</GutID>
+
+	<Species>7</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>579</RowID>
+
+	<MonksWoodID>7768</MonksWoodID>
+
+	<GutID>27</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>580</RowID>
+
+	<MonksWoodID>7768</MonksWoodID>
+
+	<GutID>27</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>581</RowID>
+
+	<MonksWoodID>7707</MonksWoodID>
+
+	<GutID>28</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>582</RowID>
+
+	<MonksWoodID>7707</MonksWoodID>
+
+	<GutID>28</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>583</RowID>
+
+	<MonksWoodID>7770</MonksWoodID>
+
+	<GutID>30</GutID>
+
+	<Species>2</Species>
+
+	<Score>6</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>584</RowID>
+
+	<MonksWoodID>7770</MonksWoodID>
+
+	<GutID>30</GutID>
+
+	<Species>28</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>585</RowID>
+
+	<MonksWoodID>7770</MonksWoodID>
+
+	<GutID>30</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>586</RowID>
+
+	<MonksWoodID>7770</MonksWoodID>
+
+	<GutID>30</GutID>
+
+	<Species>20</Species>
+
+	<Score>3</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>587</RowID>
+
+	<MonksWoodID>7836</MonksWoodID>
+
+	<GutID>31</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>588</RowID>
+
+	<MonksWoodID>7836</MonksWoodID>
+
+	<GutID>31</GutID>
+
+	<Species>6</Species>
+
+	<Score>5</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>589</RowID>
+
+	<MonksWoodID>7836</MonksWoodID>
+
+	<GutID>31</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>590</RowID>
+
+	<MonksWoodID>7951</MonksWoodID>
+
+	<GutID>32</GutID>
+
+	<Species>7</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>591</RowID>
+
+	<MonksWoodID>7951</MonksWoodID>
+
+	<GutID>32</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>592</RowID>
+
+	<MonksWoodID>7951</MonksWoodID>
+
+	<GutID>32</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>593</RowID>
+
+	<MonksWoodID>8667</MonksWoodID>
+
+	<GutID>33</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>594</RowID>
+
+	<MonksWoodID>8667</MonksWoodID>
+
+	<GutID>33</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>596</RowID>
+
+	<MonksWoodID>7616</MonksWoodID>
+
+	<GutID>34</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>597</RowID>
+
+	<MonksWoodID>7616</MonksWoodID>
+
+	<GutID>34</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>598</RowID>
+
+	<MonksWoodID>7616</MonksWoodID>
+
+	<GutID>34</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>599</RowID>
+
+	<MonksWoodID>7616</MonksWoodID>
+
+	<GutID>34</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>600</RowID>
+
+	<MonksWoodID>7615</MonksWoodID>
+
+	<GutID>35</GutID>
+
+	<Species>17</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>601</RowID>
+
+	<MonksWoodID>6294</MonksWoodID>
+
+	<GutID>36</GutID>
+
+	<Species>2</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>602</RowID>
+
+	<MonksWoodID>6294</MonksWoodID>
+
+	<GutID>36</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>604</RowID>
+
+	<MonksWoodID>6729</MonksWoodID>
+
+	<GutID>37</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>605</RowID>
+
+	<MonksWoodID>6729</MonksWoodID>
+
+	<GutID>37</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>607</RowID>
+
+	<MonksWoodID>7524</MonksWoodID>
+
+	<GutID>38</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>609</RowID>
+
+	<MonksWoodID>7762</MonksWoodID>
+
+	<GutID>39</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>610</RowID>
+
+	<MonksWoodID>7960</MonksWoodID>
+
+	<GutID>40</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>611</RowID>
+
+	<MonksWoodID>7960</MonksWoodID>
+
+	<GutID>40</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>613</RowID>
+
+	<MonksWoodID>8073</MonksWoodID>
+
+	<GutID>41</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>614</RowID>
+
+	<MonksWoodID>8073</MonksWoodID>
+
+	<GutID>41</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>616</RowID>
+
+	<MonksWoodID>6182</MonksWoodID>
+
+	<GutID>42</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>617</RowID>
+
+	<MonksWoodID>6182</MonksWoodID>
+
+	<GutID>42</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>619</RowID>
+
+	<MonksWoodID>8284</MonksWoodID>
+
+	<GutID>43</GutID>
+
+	<Species>8</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>620</RowID>
+
+	<MonksWoodID>8624</MonksWoodID>
+
+	<GutID>44</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>621</RowID>
+
+	<MonksWoodID>8624</MonksWoodID>
+
+	<GutID>44</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>622</RowID>
+
+	<MonksWoodID>8624</MonksWoodID>
+
+	<GutID>44</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>623</RowID>
+
+	<MonksWoodID>6795</MonksWoodID>
+
+	<GutID>45</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>625</RowID>
+
+	<MonksWoodID>7655</MonksWoodID>
+
+	<GutID>47</GutID>
+
+	<Species>2</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>626</RowID>
+
+	<MonksWoodID>7655</MonksWoodID>
+
+	<GutID>47</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>627</RowID>
+
+	<MonksWoodID>7655</MonksWoodID>
+
+	<GutID>47</GutID>
+
+	<Species>20</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>628</RowID>
+
+	<MonksWoodID>6800</MonksWoodID>
+
+	<GutID>48</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>630</RowID>
+
+	<MonksWoodID>6054</MonksWoodID>
+
+	<GutID>49</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>631</RowID>
+
+	<MonksWoodID>6054</MonksWoodID>
+
+	<GutID>49</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>632</RowID>
+
+	<MonksWoodID>6796</MonksWoodID>
+
+	<GutID>50</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>633</RowID>
+
+	<MonksWoodID>6801</MonksWoodID>
+
+	<GutID>51</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>634</RowID>
+
+	<MonksWoodID>7487</MonksWoodID>
+
+	<GutID>52</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>635</RowID>
+
+	<MonksWoodID>8066</MonksWoodID>
+
+	<GutID>53</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>636</RowID>
+
+	<MonksWoodID>7683</MonksWoodID>
+
+	<GutID>54</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>637</RowID>
+
+	<MonksWoodID>7683</MonksWoodID>
+
+	<GutID>54</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>638</RowID>
+
+	<MonksWoodID>7683</MonksWoodID>
+
+	<GutID>54</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>640</RowID>
+
+	<MonksWoodID>7691</MonksWoodID>
+
+	<GutID>55</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>641</RowID>
+
+	<MonksWoodID>7691</MonksWoodID>
+
+	<GutID>55</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>642</RowID>
+
+	<MonksWoodID>7711</MonksWoodID>
+
+	<GutID>56</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>643</RowID>
+
+	<MonksWoodID>7711</MonksWoodID>
+
+	<GutID>56</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>644</RowID>
+
+	<MonksWoodID>6104</MonksWoodID>
+
+	<GutID>57</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>645</RowID>
+
+	<MonksWoodID>7674</MonksWoodID>
+
+	<GutID>58</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>646</RowID>
+
+	<MonksWoodID>7674</MonksWoodID>
+
+	<GutID>58</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>647</RowID>
+
+	<MonksWoodID>7674</MonksWoodID>
+
+	<GutID>58</GutID>
+
+	<Species>3</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>648</RowID>
+
+	<MonksWoodID>7674</MonksWoodID>
+
+	<GutID>58</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>649</RowID>
+
+	<MonksWoodID>7912</MonksWoodID>
+
+	<GutID>59</GutID>
+
+	<Species>7</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>650</RowID>
+
+	<MonksWoodID>7912</MonksWoodID>
+
+	<GutID>59</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>651</RowID>
+
+	<MonksWoodID>7912</MonksWoodID>
+
+	<GutID>59</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>652</RowID>
+
+	<MonksWoodID>8180</MonksWoodID>
+
+	<GutID>60</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>653</RowID>
+
+	<MonksWoodID>8180</MonksWoodID>
+
+	<GutID>60</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>654</RowID>
+
+	<MonksWoodID>6122</MonksWoodID>
+
+	<GutID>61</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>655</RowID>
+
+	<MonksWoodID>6122</MonksWoodID>
+
+	<GutID>61</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>657</RowID>
+
+	<MonksWoodID>6834</MonksWoodID>
+
+	<GutID>62</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>658</RowID>
+
+	<MonksWoodID>6846</MonksWoodID>
+
+	<GutID>63</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>659</RowID>
+
+	<MonksWoodID>7611</MonksWoodID>
+
+	<GutID>64</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>660</RowID>
+
+	<MonksWoodID>7611</MonksWoodID>
+
+	<GutID>64</GutID>
+
+	<Species>20</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>662</RowID>
+
+	<MonksWoodID>7612</MonksWoodID>
+
+	<GutID>65</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>663</RowID>
+
+	<MonksWoodID>7612</MonksWoodID>
+
+	<GutID>65</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>664</RowID>
+
+	<MonksWoodID>7874</MonksWoodID>
+
+	<GutID>66</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>665</RowID>
+
+	<MonksWoodID>7937</MonksWoodID>
+
+	<GutID>67</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>666</RowID>
+
+	<MonksWoodID>7937</MonksWoodID>
+
+	<GutID>67</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>667</RowID>
+
+	<MonksWoodID>8047</MonksWoodID>
+
+	<GutID>68</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>668</RowID>
+
+	<MonksWoodID>8392</MonksWoodID>
+
+	<GutID>69</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>669</RowID>
+
+	<MonksWoodID>6160</MonksWoodID>
+
+	<GutID>70</GutID>
+
+	<Species>7</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>670</RowID>
+
+	<MonksWoodID>6160</MonksWoodID>
+
+	<GutID>70</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>671</RowID>
+
+	<MonksWoodID>6725</MonksWoodID>
+
+	<GutID>71</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>672</RowID>
+
+	<MonksWoodID>6725</MonksWoodID>
+
+	<GutID>71</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>674</RowID>
+
+	<MonksWoodID>6847</MonksWoodID>
+
+	<GutID>72</GutID>
+
+	<Species>7</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>675</RowID>
+
+	<MonksWoodID>6847</MonksWoodID>
+
+	<GutID>72</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>676</RowID>
+
+	<MonksWoodID>6848</MonksWoodID>
+
+	<GutID>73</GutID>
+
+	<Species>7</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>677</RowID>
+
+	<MonksWoodID>6848</MonksWoodID>
+
+	<GutID>73</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>678</RowID>
+
+	<MonksWoodID>6848</MonksWoodID>
+
+	<GutID>73</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>679</RowID>
+
+	<MonksWoodID>7614</MonksWoodID>
+
+	<GutID>74</GutID>
+
+	<Species>1</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>680</RowID>
+
+	<MonksWoodID>7873</MonksWoodID>
+
+	<GutID>75</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>681</RowID>
+
+	<MonksWoodID>7926</MonksWoodID>
+
+	<GutID>76</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>682</RowID>
+
+	<MonksWoodID>7926</MonksWoodID>
+
+	<GutID>76</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>684</RowID>
+
+	<MonksWoodID>7939</MonksWoodID>
+
+	<GutID>77</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>685</RowID>
+
+	<MonksWoodID>7939</MonksWoodID>
+
+	<GutID>77</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>686</RowID>
+
+	<MonksWoodID>7941</MonksWoodID>
+
+	<GutID>78</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>687</RowID>
+
+	<MonksWoodID>7941</MonksWoodID>
+
+	<GutID>78</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>689</RowID>
+
+	<MonksWoodID>7771</MonksWoodID>
+
+	<GutID>79</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>690</RowID>
+
+	<MonksWoodID>7771</MonksWoodID>
+
+	<GutID>79</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>691</RowID>
+
+	<MonksWoodID>7771</MonksWoodID>
+
+	<GutID>79</GutID>
+
+	<Species>6</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>692</RowID>
+
+	<MonksWoodID>7771</MonksWoodID>
+
+	<GutID>79</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>693</RowID>
+
+	<MonksWoodID>7771</MonksWoodID>
+
+	<GutID>79</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>694</RowID>
+
+	<MonksWoodID>6015</MonksWoodID>
+
+	<GutID>80</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>695</RowID>
+
+	<MonksWoodID>6016</MonksWoodID>
+
+	<GutID>81</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>696</RowID>
+
+	<MonksWoodID>6014</MonksWoodID>
+
+	<GutID>82</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>697</RowID>
+
+	<MonksWoodID>6850</MonksWoodID>
+
+	<GutID>83</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>698</RowID>
+
+	<MonksWoodID>6850</MonksWoodID>
+
+	<GutID>83</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>699</RowID>
+
+	<MonksWoodID>6877</MonksWoodID>
+
+	<GutID>84</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>700</RowID>
+
+	<MonksWoodID>7342</MonksWoodID>
+
+	<GutID>85</GutID>
+
+	<Species>2</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>701</RowID>
+
+	<MonksWoodID>7342</MonksWoodID>
+
+	<GutID>85</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>702</RowID>
+
+	<MonksWoodID>7537</MonksWoodID>
+
+	<GutID>86</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>703</RowID>
+
+	<MonksWoodID>7537</MonksWoodID>
+
+	<GutID>86</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>705</RowID>
+
+	<MonksWoodID>7538</MonksWoodID>
+
+	<GutID>87</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>706</RowID>
+
+	<MonksWoodID>7538</MonksWoodID>
+
+	<GutID>87</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>707</RowID>
+
+	<MonksWoodID>7538</MonksWoodID>
+
+	<GutID>87</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>708</RowID>
+
+	<MonksWoodID>7617</MonksWoodID>
+
+	<GutID>88</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>709</RowID>
+
+	<MonksWoodID>7617</MonksWoodID>
+
+	<GutID>88</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>710</RowID>
+
+	<MonksWoodID>7772</MonksWoodID>
+
+	<GutID>89</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>711</RowID>
+
+	<MonksWoodID>7772</MonksWoodID>
+
+	<GutID>89</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>712</RowID>
+
+	<MonksWoodID>7772</MonksWoodID>
+
+	<GutID>89</GutID>
+
+	<Species>6</Species>
+
+	<Score>18</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>713</RowID>
+
+	<MonksWoodID>7772</MonksWoodID>
+
+	<GutID>89</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>714</RowID>
+
+	<MonksWoodID>8065</MonksWoodID>
+
+	<GutID>90</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>715</RowID>
+
+	<MonksWoodID>8668</MonksWoodID>
+
+	<GutID>91</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>716</RowID>
+
+	<MonksWoodID>8668</MonksWoodID>
+
+	<GutID>91</GutID>
+
+	<Species>6</Species>
+
+	<Score>5</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>717</RowID>
+
+	<MonksWoodID>8668</MonksWoodID>
+
+	<GutID>91</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>718</RowID>
+
+	<MonksWoodID>6018</MonksWoodID>
+
+	<GutID>92</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>719</RowID>
+
+	<MonksWoodID>7545</MonksWoodID>
+
+	<GutID>93</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>720</RowID>
+
+	<MonksWoodID>7545</MonksWoodID>
+
+	<GutID>93</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>721</RowID>
+
+	<MonksWoodID>7545</MonksWoodID>
+
+	<GutID>93</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>722</RowID>
+
+	<MonksWoodID>7545</MonksWoodID>
+
+	<GutID>93</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>723</RowID>
+
+	<MonksWoodID>8356</MonksWoodID>
+
+	<GutID>94</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>724</RowID>
+
+	<MonksWoodID>8356</MonksWoodID>
+
+	<GutID>94</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>725</RowID>
+
+	<MonksWoodID>8356</MonksWoodID>
+
+	<GutID>94</GutID>
+
+	<Species>16</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>726</RowID>
+
+	<MonksWoodID>7791</MonksWoodID>
+
+	<GutID>95</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>727</RowID>
+
+	<MonksWoodID>7791</MonksWoodID>
+
+	<GutID>95</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>728</RowID>
+
+	<MonksWoodID>8314</MonksWoodID>
+
+	<GutID>96</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>729</RowID>
+
+	<MonksWoodID>8727</MonksWoodID>
+
+	<GutID>97</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>730</RowID>
+
+	<MonksWoodID>6381</MonksWoodID>
+
+	<GutID>98</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>731</RowID>
+
+	<MonksWoodID>6381</MonksWoodID>
+
+	<GutID>98</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>732</RowID>
+
+	<MonksWoodID>6381</MonksWoodID>
+
+	<GutID>98</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>733</RowID>
+
+	<MonksWoodID>6381</MonksWoodID>
+
+	<GutID>98</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>734</RowID>
+
+	<MonksWoodID>7106</MonksWoodID>
+
+	<GutID>99</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>736</RowID>
+
+	<MonksWoodID>7592</MonksWoodID>
+
+	<GutID>100</GutID>
+
+	<Species>8</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>737</RowID>
+
+	<MonksWoodID>7740</MonksWoodID>
+
+	<GutID>101</GutID>
+
+	<Species>2</Species>
+
+	<Score>17</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>738</RowID>
+
+	<MonksWoodID>7740</MonksWoodID>
+
+	<GutID>101</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>739</RowID>
+
+	<MonksWoodID>7831</MonksWoodID>
+
+	<GutID>102</GutID>
+
+	<Species>2</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>740</RowID>
+
+	<MonksWoodID>7831</MonksWoodID>
+
+	<GutID>102</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>741</RowID>
+
+	<MonksWoodID>8709</MonksWoodID>
+
+	<GutID>103</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>742</RowID>
+
+	<MonksWoodID>8709</MonksWoodID>
+
+	<GutID>103</GutID>
+
+	<Species>2</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>743</RowID>
+
+	<MonksWoodID>8710</MonksWoodID>
+
+	<GutID>104</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>745</RowID>
+
+	<MonksWoodID>8712</MonksWoodID>
+
+	<GutID>105</GutID>
+
+	<Species>2</Species>
+
+	<Score>6</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>746</RowID>
+
+	<MonksWoodID>8713</MonksWoodID>
+
+	<GutID>106</GutID>
+
+	<Species>2</Species>
+
+	<Score>10</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>747</RowID>
+
+	<MonksWoodID>6387</MonksWoodID>
+
+	<GutID>107</GutID>
+
+	<Species>29</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>748</RowID>
+
+	<MonksWoodID>6999</MonksWoodID>
+
+	<GutID>108</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>749</RowID>
+
+	<MonksWoodID>6384</MonksWoodID>
+
+	<GutID>109</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>750</RowID>
+
+	<MonksWoodID>6384</MonksWoodID>
+
+	<GutID>109</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>751</RowID>
+
+	<MonksWoodID>7050</MonksWoodID>
+
+	<GutID>110</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>753</RowID>
+
+	<MonksWoodID>7559</MonksWoodID>
+
+	<GutID>111</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>754</RowID>
+
+	<MonksWoodID>7983</MonksWoodID>
+
+	<GutID>112</GutID>
+
+	<Species>22</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>755</RowID>
+
+	<MonksWoodID>8068</MonksWoodID>
+
+	<GutID>113</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>756</RowID>
+
+	<MonksWoodID>8068</MonksWoodID>
+
+	<GutID>113</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>757</RowID>
+
+	<MonksWoodID>8068</MonksWoodID>
+
+	<GutID>113</GutID>
+
+	<Species>6</Species>
+
+	<Score>25</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>758</RowID>
+
+	<MonksWoodID>8074</MonksWoodID>
+
+	<GutID>114</GutID>
+
+	<Species>17</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>759</RowID>
+
+	<MonksWoodID>8074</MonksWoodID>
+
+	<GutID>114</GutID>
+
+	<Species>5</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>760</RowID>
+
+	<MonksWoodID>8397</MonksWoodID>
+
+	<GutID>115</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>761</RowID>
+
+	<MonksWoodID>8319</MonksWoodID>
+
+	<GutID>116</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>762</RowID>
+
+	<MonksWoodID>8319</MonksWoodID>
+
+	<GutID>116</GutID>
+
+	<Species>5</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>763</RowID>
+
+	<MonksWoodID>5922</MonksWoodID>
+
+	<GutID>117</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>764</RowID>
+
+	<MonksWoodID>5922</MonksWoodID>
+
+	<GutID>117</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>766</RowID>
+
+	<MonksWoodID>6401</MonksWoodID>
+
+	<GutID>118</GutID>
+
+	<Species>2</Species>
+
+	<Score>3</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>767</RowID>
+
+	<MonksWoodID>6401</MonksWoodID>
+
+	<GutID>118</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>769</RowID>
+
+	<MonksWoodID>6404</MonksWoodID>
+
+	<GutID>119</GutID>
+
+	<Species>2</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>770</RowID>
+
+	<MonksWoodID>6404</MonksWoodID>
+
+	<GutID>119</GutID>
+
+	<Species>19</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>771</RowID>
+
+	<MonksWoodID>6404</MonksWoodID>
+
+	<GutID>119</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>772</RowID>
+
+	<MonksWoodID>7248</MonksWoodID>
+
+	<GutID>120</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>773</RowID>
+
+	<MonksWoodID>7248</MonksWoodID>
+
+	<GutID>120</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>774</RowID>
+
+	<MonksWoodID>7248</MonksWoodID>
+
+	<GutID>120</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>775</RowID>
+
+	<MonksWoodID>7248</MonksWoodID>
+
+	<GutID>120</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>777</RowID>
+
+	<MonksWoodID>7369</MonksWoodID>
+
+	<GutID>121</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>778</RowID>
+
+	<MonksWoodID>7369</MonksWoodID>
+
+	<GutID>121</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>779</RowID>
+
+	<MonksWoodID>7984</MonksWoodID>
+
+	<GutID>122</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>780</RowID>
+
+	<MonksWoodID>8723</MonksWoodID>
+
+	<GutID>123</GutID>
+
+	<Species>2</Species>
+
+	<Score>27</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>781</RowID>
+
+	<MonksWoodID>8723</MonksWoodID>
+
+	<GutID>123</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>782</RowID>
+
+	<MonksWoodID>8748</MonksWoodID>
+
+	<GutID>124</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>783</RowID>
+
+	<MonksWoodID>8748</MonksWoodID>
+
+	<GutID>124</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>785</RowID>
+
+	<MonksWoodID>8754</MonksWoodID>
+
+	<GutID>125</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>786</RowID>
+
+	<MonksWoodID>6412</MonksWoodID>
+
+	<GutID>126</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>787</RowID>
+
+	<MonksWoodID>6412</MonksWoodID>
+
+	<GutID>126</GutID>
+
+	<Species>20</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>789</RowID>
+
+	<MonksWoodID>7340</MonksWoodID>
+
+	<GutID>127</GutID>
+
+	<Species>2</Species>
+
+	<Score>3</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>790</RowID>
+
+	<MonksWoodID>7340</MonksWoodID>
+
+	<GutID>127</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>791</RowID>
+
+	<MonksWoodID>7340</MonksWoodID>
+
+	<GutID>127</GutID>
+
+	<Species>19</Species>
+
+	<Score>7</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>792</RowID>
+
+	<MonksWoodID>7567</MonksWoodID>
+
+	<GutID>128</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>793</RowID>
+
+	<MonksWoodID>7567</MonksWoodID>
+
+	<GutID>128</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>794</RowID>
+
+	<MonksWoodID>7817</MonksWoodID>
+
+	<GutID>129</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>795</RowID>
+
+	<MonksWoodID>7817</MonksWoodID>
+
+	<GutID>129</GutID>
+
+	<Species>6</Species>
+
+	<Score>5</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>796</RowID>
+
+	<MonksWoodID>7817</MonksWoodID>
+
+	<GutID>129</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>797</RowID>
+
+	<MonksWoodID>8426</MonksWoodID>
+
+	<GutID>130</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>798</RowID>
+
+	<MonksWoodID>8350</MonksWoodID>
+
+	<GutID>131</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>799</RowID>
+
+	<MonksWoodID>8350</MonksWoodID>
+
+	<GutID>131</GutID>
+
+	<Species>3</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>800</RowID>
+
+	<MonksWoodID>8350</MonksWoodID>
+
+	<GutID>131</GutID>
+
+	<Species>19</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>801</RowID>
+
+	<MonksWoodID>8735</MonksWoodID>
+
+	<GutID>132</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>802</RowID>
+
+	<MonksWoodID>8735</MonksWoodID>
+
+	<GutID>132</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>803</RowID>
+
+	<MonksWoodID>8736</MonksWoodID>
+
+	<GutID>133</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>804</RowID>
+
+	<MonksWoodID>8736</MonksWoodID>
+
+	<GutID>133</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>805</RowID>
+
+	<MonksWoodID>8736</MonksWoodID>
+
+	<GutID>133</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>806</RowID>
+
+	<MonksWoodID>8756</MonksWoodID>
+
+	<GutID>134</GutID>
+
+	<Species>6</Species>
+
+	<Score>21</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>807</RowID>
+
+	<MonksWoodID>5929</MonksWoodID>
+
+	<GutID>135</GutID>
+
+	<Species>2</Species>
+
+	<Score>5</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>808</RowID>
+
+	<MonksWoodID>5929</MonksWoodID>
+
+	<GutID>135</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>809</RowID>
+
+	<MonksWoodID>5929</MonksWoodID>
+
+	<GutID>135</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>811</RowID>
+
+	<MonksWoodID>7579</MonksWoodID>
+
+	<GutID>136</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>812</RowID>
+
+	<MonksWoodID>7579</MonksWoodID>
+
+	<GutID>136</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>813</RowID>
+
+	<MonksWoodID>8381</MonksWoodID>
+
+	<GutID>137</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>814</RowID>
+
+	<MonksWoodID>8359</MonksWoodID>
+
+	<GutID>138</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>815</RowID>
+
+	<MonksWoodID>8359</MonksWoodID>
+
+	<GutID>138</GutID>
+
+	<Species>6</Species>
+
+	<Score>9</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>816</RowID>
+
+	<MonksWoodID>8359</MonksWoodID>
+
+	<GutID>138</GutID>
+
+	<Species>19</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>817</RowID>
+
+	<MonksWoodID>7250</MonksWoodID>
+
+	<GutID>139</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>818</RowID>
+
+	<MonksWoodID>7280</MonksWoodID>
+
+	<GutID>140</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>819</RowID>
+
+	<MonksWoodID>7280</MonksWoodID>
+
+	<GutID>140</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>820</RowID>
+
+	<MonksWoodID>7280</MonksWoodID>
+
+	<GutID>140</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>822</RowID>
+
+	<MonksWoodID>7284</MonksWoodID>
+
+	<GutID>141</GutID>
+
+	<Species>2</Species>
+
+	<Score>6</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>824</RowID>
+
+	<MonksWoodID>7577</MonksWoodID>
+
+	<GutID>142</GutID>
+
+	<Species>3</Species>
+
+	<Score>24</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>825</RowID>
+
+	<MonksWoodID>7577</MonksWoodID>
+
+	<GutID>142</GutID>
+
+	<Species>19</Species>
+
+	<Score>8</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>826</RowID>
+
+	<MonksWoodID>7577</MonksWoodID>
+
+	<GutID>142</GutID>
+
+	<Species>23</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>827</RowID>
+
+	<MonksWoodID>7842</MonksWoodID>
+
+	<GutID>143</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>828</RowID>
+
+	<MonksWoodID>7842</MonksWoodID>
+
+	<GutID>143</GutID>
+
+	<Species>6</Species>
+
+	<Score>3</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>829</RowID>
+
+	<MonksWoodID>7842</MonksWoodID>
+
+	<GutID>143</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>830</RowID>
+
+	<MonksWoodID>7842</MonksWoodID>
+
+	<GutID>143</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>831</RowID>
+
+	<MonksWoodID>8380</MonksWoodID>
+
+	<GutID>144</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>832</RowID>
+
+	<MonksWoodID>8380</MonksWoodID>
+
+	<GutID>144</GutID>
+
+	<Species>6</Species>
+
+	<Score>43</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>833</RowID>
+
+	<MonksWoodID>8771</MonksWoodID>
+
+	<GutID>145</GutID>
+
+	<Species>2</Species>
+
+	<Score>14</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>834</RowID>
+
+	<MonksWoodID>8803</MonksWoodID>
+
+	<GutID>146</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>835</RowID>
+
+	<MonksWoodID>8803</MonksWoodID>
+
+	<GutID>146</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>836</RowID>
+
+	<MonksWoodID>6033</MonksWoodID>
+
+	<GutID>147</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>837</RowID>
+
+	<MonksWoodID>6033</MonksWoodID>
+
+	<GutID>147</GutID>
+
+	<Species>6</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>838</RowID>
+
+	<MonksWoodID>6033</MonksWoodID>
+
+	<GutID>147</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>840</RowID>
+
+	<MonksWoodID>6716</MonksWoodID>
+
+	<GutID>148</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>841</RowID>
+
+	<MonksWoodID>6716</MonksWoodID>
+
+	<GutID>148</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>843</RowID>
+
+	<MonksWoodID>7361</MonksWoodID>
+
+	<GutID>149</GutID>
+
+	<Species>2</Species>
+
+	<Score>11</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>844</RowID>
+
+	<MonksWoodID>7361</MonksWoodID>
+
+	<GutID>149</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>846</RowID>
+
+	<MonksWoodID>7400</MonksWoodID>
+
+	<GutID>150</GutID>
+
+	<Species>25</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>847</RowID>
+
+	<MonksWoodID>7590</MonksWoodID>
+
+	<GutID>151</GutID>
+
+	<Species>2</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>848</RowID>
+
+	<MonksWoodID>7590</MonksWoodID>
+
+	<GutID>151</GutID>
+
+	<Species>9</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>849</RowID>
+
+	<MonksWoodID>7590</MonksWoodID>
+
+	<GutID>151</GutID>
+
+	<Species>28</Species>
+
+	<Score>21</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>850</RowID>
+
+	<MonksWoodID>7596</MonksWoodID>
+
+	<GutID>152</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>851</RowID>
+
+	<MonksWoodID>7596</MonksWoodID>
+
+	<GutID>152</GutID>
+
+	<Species>9</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>852</RowID>
+
+	<MonksWoodID>7596</MonksWoodID>
+
+	<GutID>152</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>854</RowID>
+
+	<MonksWoodID>8042</MonksWoodID>
+
+	<GutID>153</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>855</RowID>
+
+	<MonksWoodID>8042</MonksWoodID>
+
+	<GutID>153</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>857</RowID>
+
+	<MonksWoodID>8394</MonksWoodID>
+
+	<GutID>154</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>858</RowID>
+
+	<MonksWoodID>8394</MonksWoodID>
+
+	<GutID>154</GutID>
+
+	<Species>6</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>859</RowID>
+
+	<MonksWoodID>8394</MonksWoodID>
+
+	<GutID>154</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>861</RowID>
+
+	<MonksWoodID>6061</MonksWoodID>
+
+	<GutID>155</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>862</RowID>
+
+	<MonksWoodID>6061</MonksWoodID>
+
+	<GutID>155</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>864</RowID>
+
+	<MonksWoodID>7360</MonksWoodID>
+
+	<GutID>156</GutID>
+
+	<Species>2</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>865</RowID>
+
+	<MonksWoodID>7360</MonksWoodID>
+
+	<GutID>156</GutID>
+
+	<Species>19</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>866</RowID>
+
+	<MonksWoodID>7360</MonksWoodID>
+
+	<GutID>156</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>868</RowID>
+
+	<MonksWoodID>7365</MonksWoodID>
+
+	<GutID>157</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>870</RowID>
+
+	<MonksWoodID>7594</MonksWoodID>
+
+	<GutID>158</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>871</RowID>
+
+	<MonksWoodID>7594</MonksWoodID>
+
+	<GutID>158</GutID>
+
+	<Species>19</Species>
+
+	<Score>8</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>872</RowID>
+
+	<MonksWoodID>7594</MonksWoodID>
+
+	<GutID>158</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>874</RowID>
+
+	<MonksWoodID>7608</MonksWoodID>
+
+	<GutID>159</GutID>
+
+	<Species>15</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>875</RowID>
+
+	<MonksWoodID>7608</MonksWoodID>
+
+	<GutID>159</GutID>
+
+	<Species>6</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>876</RowID>
+
+	<MonksWoodID>7608</MonksWoodID>
+
+	<GutID>159</GutID>
+
+	<Species>19</Species>
+
+	<Score>7</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>877</RowID>
+
+	<MonksWoodID>7638</MonksWoodID>
+
+	<GutID>160</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>878</RowID>
+
+	<MonksWoodID>7638</MonksWoodID>
+
+	<GutID>160</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>879</RowID>
+
+	<MonksWoodID>7855</MonksWoodID>
+
+	<GutID>161</GutID>
+
+	<Species>5</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>880</RowID>
+
+	<MonksWoodID>7856</MonksWoodID>
+
+	<GutID>162</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>881</RowID>
+
+	<MonksWoodID>7857</MonksWoodID>
+
+	<GutID>163</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>882</RowID>
+
+	<MonksWoodID>7870</MonksWoodID>
+
+	<GutID>164</GutID>
+
+	<Species>13</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>883</RowID>
+
+	<MonksWoodID>7870</MonksWoodID>
+
+	<GutID>164</GutID>
+
+	<Species>19</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>884</RowID>
+
+	<MonksWoodID>7881</MonksWoodID>
+
+	<GutID>165</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>885</RowID>
+
+	<MonksWoodID>7881</MonksWoodID>
+
+	<GutID>165</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>886</RowID>
+
+	<MonksWoodID>7872</MonksWoodID>
+
+	<GutID>166</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>887</RowID>
+
+	<MonksWoodID>7872</MonksWoodID>
+
+	<GutID>166</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>889</RowID>
+
+	<MonksWoodID>8036</MonksWoodID>
+
+	<GutID>167</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>890</RowID>
+
+	<MonksWoodID>8042</MonksWoodID>
+
+	<GutID>168</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>891</RowID>
+
+	<MonksWoodID>8042</MonksWoodID>
+
+	<GutID>168</GutID>
+
+	<Species>3</Species>
+
+	<Score>3</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>892</RowID>
+
+	<MonksWoodID>8042</MonksWoodID>
+
+	<GutID>168</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>893</RowID>
+
+	<MonksWoodID>6038</MonksWoodID>
+
+	<GutID>169</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>894</RowID>
+
+	<MonksWoodID>6723</MonksWoodID>
+
+	<GutID>170</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>895</RowID>
+
+	<MonksWoodID>6742</MonksWoodID>
+
+	<GutID>171</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>896</RowID>
+
+	<MonksWoodID>6742</MonksWoodID>
+
+	<GutID>171</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>897</RowID>
+
+	<MonksWoodID>6742</MonksWoodID>
+
+	<GutID>171</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>899</RowID>
+
+	<MonksWoodID>6745</MonksWoodID>
+
+	<GutID>172</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>900</RowID>
+
+	<MonksWoodID>6745</MonksWoodID>
+
+	<GutID>172</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>901</RowID>
+
+	<MonksWoodID>6745</MonksWoodID>
+
+	<GutID>172</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>903</RowID>
+
+	<MonksWoodID>6844</MonksWoodID>
+
+	<GutID>173</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>904</RowID>
+
+	<MonksWoodID>7376</MonksWoodID>
+
+	<GutID>174</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>905</RowID>
+
+	<MonksWoodID>7449</MonksWoodID>
+
+	<GutID>175</GutID>
+
+	<Species>19</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>906</RowID>
+
+	<MonksWoodID>7449</MonksWoodID>
+
+	<GutID>175</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>907</RowID>
+
+	<MonksWoodID>7449</MonksWoodID>
+
+	<GutID>175</GutID>
+
+	<Species>20</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>909</RowID>
+
+	<MonksWoodID>7450</MonksWoodID>
+
+	<GutID>176</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>910</RowID>
+
+	<MonksWoodID>7450</MonksWoodID>
+
+	<GutID>176</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>912</RowID>
+
+	<MonksWoodID>7597</MonksWoodID>
+
+	<GutID>177</GutID>
+
+	<Species>6</Species>
+
+	<Score>4</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>913</RowID>
+
+	<MonksWoodID>7597</MonksWoodID>
+
+	<GutID>177</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>915</RowID>
+
+	<MonksWoodID>7601</MonksWoodID>
+
+	<GutID>178</GutID>
+
+	<Species>25</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>916</RowID>
+
+	<MonksWoodID>7601</MonksWoodID>
+
+	<GutID>178</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>917</RowID>
+
+	<MonksWoodID>7601</MonksWoodID>
+
+	<GutID>178</GutID>
+
+	<Species>19</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>918</RowID>
+
+	<MonksWoodID>7601</MonksWoodID>
+
+	<GutID>178</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>920</RowID>
+
+	<MonksWoodID>7603</MonksWoodID>
+
+	<GutID>179</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>921</RowID>
+
+	<MonksWoodID>7603</MonksWoodID>
+
+	<GutID>179</GutID>
+
+	<Species>19</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>922</RowID>
+
+	<MonksWoodID>7603</MonksWoodID>
+
+	<GutID>179</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>924</RowID>
+
+	<MonksWoodID>7865</MonksWoodID>
+
+	<GutID>180</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>925</RowID>
+
+	<MonksWoodID>7865</MonksWoodID>
+
+	<GutID>180</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>926</RowID>
+
+	<MonksWoodID>7866</MonksWoodID>
+
+	<GutID>181</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>927</RowID>
+
+	<MonksWoodID>7866</MonksWoodID>
+
+	<GutID>181</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>928</RowID>
+
+	<MonksWoodID>8139</MonksWoodID>
+
+	<GutID>182</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>929</RowID>
+
+	<MonksWoodID>8139</MonksWoodID>
+
+	<GutID>182</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>931</RowID>
+
+	<MonksWoodID>6721</MonksWoodID>
+
+	<GutID>183</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>932</RowID>
+
+	<MonksWoodID>6721</MonksWoodID>
+
+	<GutID>183</GutID>
+
+	<Species>26</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>933</RowID>
+
+	<MonksWoodID>6722</MonksWoodID>
+
+	<GutID>184</GutID>
+
+	<Species>7</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>934</RowID>
+
+	<MonksWoodID>6724</MonksWoodID>
+
+	<GutID>185</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>935</RowID>
+
+	<MonksWoodID>6724</MonksWoodID>
+
+	<GutID>185</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>937</RowID>
+
+	<MonksWoodID>6749</MonksWoodID>
+
+	<GutID>186</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>938</RowID>
+
+	<MonksWoodID>6843</MonksWoodID>
+
+	<GutID>187</GutID>
+
+	<Species>15</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>939</RowID>
+
+	<MonksWoodID>7621</MonksWoodID>
+
+	<GutID>188</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>940</RowID>
+
+	<MonksWoodID>7622</MonksWoodID>
+
+	<GutID>189</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>941</RowID>
+
+	<MonksWoodID>7622</MonksWoodID>
+
+	<GutID>189</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>942</RowID>
+
+	<MonksWoodID>7622</MonksWoodID>
+
+	<GutID>189</GutID>
+
+	<Species>3</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>943</RowID>
+
+	<MonksWoodID>7622</MonksWoodID>
+
+	<GutID>189</GutID>
+
+	<Species>9</Species>
+
+	<Score>6</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>944</RowID>
+
+	<MonksWoodID>7622</MonksWoodID>
+
+	<GutID>189</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>945</RowID>
+
+	<MonksWoodID>7622</MonksWoodID>
+
+	<GutID>189</GutID>
+
+	<Species>16</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>946</RowID>
+
+	<MonksWoodID>8864</MonksWoodID>
+
+	<GutID>190</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>947</RowID>
+
+	<MonksWoodID>8848</MonksWoodID>
+
+	<GutID>191</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>948</RowID>
+
+	<MonksWoodID>8848</MonksWoodID>
+
+	<GutID>191</GutID>
+
+	<Species>6</Species>
+
+	<Score>24</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>949</RowID>
+
+	<MonksWoodID>8848</MonksWoodID>
+
+	<GutID>191</GutID>
+
+	<Species>19</Species>
+
+	<Score>5</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>950</RowID>
+
+	<MonksWoodID>8848</MonksWoodID>
+
+	<GutID>191</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>951</RowID>
+
+	<MonksWoodID>6046</MonksWoodID>
+
+	<GutID>192</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>953</RowID>
+
+	<MonksWoodID>6049</MonksWoodID>
+
+	<GutID>193</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>954</RowID>
+
+	<MonksWoodID>6049</MonksWoodID>
+
+	<GutID>193</GutID>
+
+	<Species>9</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>955</RowID>
+
+	<MonksWoodID>6049</MonksWoodID>
+
+	<GutID>193</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>957</RowID>
+
+	<MonksWoodID>7631</MonksWoodID>
+
+	<GutID>194</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>958</RowID>
+
+	<MonksWoodID>7888</MonksWoodID>
+
+	<GutID>195</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>960</RowID>
+
+	<MonksWoodID>7893</MonksWoodID>
+
+	<GutID>196</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>961</RowID>
+
+	<MonksWoodID>7893</MonksWoodID>
+
+	<GutID>196</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>962</RowID>
+
+	<MonksWoodID>7901</MonksWoodID>
+
+	<GutID>197</GutID>
+
+	<Species>7</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>963</RowID>
+
+	<MonksWoodID>8423</MonksWoodID>
+
+	<GutID>198</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>964</RowID>
+
+	<MonksWoodID>8423</MonksWoodID>
+
+	<GutID>198</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>965</RowID>
+
+	<MonksWoodID>8423</MonksWoodID>
+
+	<GutID>198</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>966</RowID>
+
+	<MonksWoodID>8423</MonksWoodID>
+
+	<GutID>198</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>967</RowID>
+
+	<MonksWoodID>7892</MonksWoodID>
+
+	<GutID>199</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>968</RowID>
+
+	<MonksWoodID>7899</MonksWoodID>
+
+	<GutID>200</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>969</RowID>
+
+	<MonksWoodID>7899</MonksWoodID>
+
+	<GutID>200</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>970</RowID>
+
+	<MonksWoodID>5927</MonksWoodID>
+
+	<GutID>201</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>971</RowID>
+
+	<MonksWoodID>5927</MonksWoodID>
+
+	<GutID>201</GutID>
+
+	<Species>2</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>972</RowID>
+
+	<MonksWoodID>5927</MonksWoodID>
+
+	<GutID>201</GutID>
+
+	<Species>9</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>974</RowID>
+
+	<MonksWoodID>5928</MonksWoodID>
+
+	<GutID>202</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>975</RowID>
+
+	<MonksWoodID>5928</MonksWoodID>
+
+	<GutID>202</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>976</RowID>
+
+	<MonksWoodID>5928</MonksWoodID>
+
+	<GutID>202</GutID>
+
+	<Species>3</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>978</RowID>
+
+	<MonksWoodID>5995</MonksWoodID>
+
+	<GutID>203</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>979</RowID>
+
+	<MonksWoodID>5996</MonksWoodID>
+
+	<GutID>204</GutID>
+
+	<Species>17</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>980</RowID>
+
+	<MonksWoodID>5961</MonksWoodID>
+
+	<GutID>205</GutID>
+
+	<Species>17</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>981</RowID>
+
+	<MonksWoodID>5961</MonksWoodID>
+
+	<GutID>205</GutID>
+
+	<Species>2</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>982</RowID>
+
+	<MonksWoodID>5961</MonksWoodID>
+
+	<GutID>205</GutID>
+
+	<Species>6</Species>
+
+	<Score>2</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>983</RowID>
+
+	<MonksWoodID>5961</MonksWoodID>
+
+	<GutID>205</GutID>
+
+	<Species>20</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>984</RowID>
+
+	<MonksWoodID>7816</MonksWoodID>
+
+	<GutID>206</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>985</RowID>
+
+	<MonksWoodID>7816</MonksWoodID>
+
+	<GutID>206</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>986</RowID>
+
+	<MonksWoodID>7885</MonksWoodID>
+
+	<GutID>207</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>987</RowID>
+
+	<MonksWoodID>7885</MonksWoodID>
+
+	<GutID>207</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>988</RowID>
+
+	<MonksWoodID>7885</MonksWoodID>
+
+	<GutID>207</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>989</RowID>
+
+	<MonksWoodID>7961</MonksWoodID>
+
+	<GutID>208</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>990</RowID>
+
+	<MonksWoodID>7966</MonksWoodID>
+
+	<GutID>209</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>991</RowID>
+
+	<MonksWoodID>7966</MonksWoodID>
+
+	<GutID>209</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>992</RowID>
+
+	<MonksWoodID>8338</MonksWoodID>
+
+	<GutID>210</GutID>
+
+	<Species>29</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>993</RowID>
+
+	<MonksWoodID>8338</MonksWoodID>
+
+	<GutID>210</GutID>
+
+	<Species>2</Species>
+
+	<Score>5</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>994</RowID>
+
+	<MonksWoodID>8338</MonksWoodID>
+
+	<GutID>210</GutID>
+
+	<Species>28</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>995</RowID>
+
+	<MonksWoodID>7662</MonksWoodID>
+
+	<GutID>211</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>996</RowID>
+
+	<MonksWoodID>7481</MonksWoodID>
+
+	<GutID>212</GutID>
+
+	<Species>5</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>997</RowID>
+
+	<MonksWoodID>7481</MonksWoodID>
+
+	<GutID>212</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>998</RowID>
+
+	<MonksWoodID>7481</MonksWoodID>
+
+	<GutID>212</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>999</RowID>
+
+	<MonksWoodID>8045</MonksWoodID>
+
+	<GutID>213</GutID>
+
+	<Species>4</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>1000</RowID>
+
+	<MonksWoodID>8045</MonksWoodID>
+
+	<GutID>213</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>1001</RowID>
+
+	<MonksWoodID>8045</MonksWoodID>
+
+	<GutID>213</GutID>
+
+	<Species>8</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+<RECORD>
+	<RowID>1002</RowID>
+
+	<MonksWoodID>6688</MonksWoodID>
+
+	<GutID>214</GutID>
+
+	<Species>6</Species>
+
+	<Score>1</Score>
+
+</RECORD>
+</RECORDS>

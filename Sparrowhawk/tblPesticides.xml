@@ -1,0 +1,3135 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<BreedEventID>8</BreedEventID>
+
+	<DDE>132</DDE>
+
+	<PCB>59</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>10</BreedEventID>
+
+	<DDE>129</DDE>
+
+	<PCB>98</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.05</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>16</BreedEventID>
+
+	<DDE>68</DDE>
+
+	<PCB>88</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.01</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>17</BreedEventID>
+
+	<DDE>43</DDE>
+
+	<PCB>82</PCB>
+
+	<Dieldrin>2</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>20</BreedEventID>
+
+	<DDE>92</DDE>
+
+	<PCB>64</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.23</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>22</BreedEventID>
+
+	<DDE>85</DDE>
+
+	<PCB>128</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>25</BreedEventID>
+
+	<DDE>110</DDE>
+
+	<PCB>51</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>32</BreedEventID>
+
+	<DDE>1.35</DDE>
+
+	<PCB></PCB>
+
+	<Dieldrin></Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>36</BreedEventID>
+
+	<DDE>134</DDE>
+
+	<PCB>59</PCB>
+
+	<Dieldrin>23</Dieldrin>
+
+	<ShellIndex>1.12</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>42</BreedEventID>
+
+	<DDE>121</DDE>
+
+	<PCB>83</PCB>
+
+	<Dieldrin>35</Dieldrin>
+
+	<ShellIndex>0.98</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>47</BreedEventID>
+
+	<DDE>147</DDE>
+
+	<PCB>127</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>0.98</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>48</BreedEventID>
+
+	<DDE>132</DDE>
+
+	<PCB>66</PCB>
+
+	<Dieldrin>27</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>49</BreedEventID>
+
+	<DDE>179</DDE>
+
+	<PCB>115</PCB>
+
+	<Dieldrin>40</Dieldrin>
+
+	<ShellIndex>0.97</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>50</BreedEventID>
+
+	<DDE>143</DDE>
+
+	<PCB>98</PCB>
+
+	<Dieldrin>21</Dieldrin>
+
+	<ShellIndex>1.23</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>53</BreedEventID>
+
+	<DDE>23</DDE>
+
+	<PCB>28</PCB>
+
+	<Dieldrin>2</Dieldrin>
+
+	<ShellIndex>1.32</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>55</BreedEventID>
+
+	<DDE>90</DDE>
+
+	<PCB>26</PCB>
+
+	<Dieldrin>23</Dieldrin>
+
+	<ShellIndex>1.08</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>59</BreedEventID>
+
+	<DDE>239</DDE>
+
+	<PCB>434</PCB>
+
+	<Dieldrin>32</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>61</BreedEventID>
+
+	<DDE>114</DDE>
+
+	<PCB>50</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>62</BreedEventID>
+
+	<DDE>240</DDE>
+
+	<PCB>198</PCB>
+
+	<Dieldrin>3</Dieldrin>
+
+	<ShellIndex>1.06</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>63</BreedEventID>
+
+	<DDE>112</DDE>
+
+	<PCB>43</PCB>
+
+	<Dieldrin>43</Dieldrin>
+
+	<ShellIndex>1.24</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>64</BreedEventID>
+
+	<DDE>83</DDE>
+
+	<PCB>67</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.27</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>67</BreedEventID>
+
+	<DDE>117</DDE>
+
+	<PCB>64</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>70</BreedEventID>
+
+	<DDE>130</DDE>
+
+	<PCB>96</PCB>
+
+	<Dieldrin>30</Dieldrin>
+
+	<ShellIndex>1.37</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>71</BreedEventID>
+
+	<DDE>171</DDE>
+
+	<PCB>117</PCB>
+
+	<Dieldrin>43</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>76</BreedEventID>
+
+	<DDE>40</DDE>
+
+	<PCB>39</PCB>
+
+	<Dieldrin>3</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>78</BreedEventID>
+
+	<DDE>53</DDE>
+
+	<PCB>81</PCB>
+
+	<Dieldrin>10</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>80</BreedEventID>
+
+	<DDE>140</DDE>
+
+	<PCB>89</PCB>
+
+	<Dieldrin>12</Dieldrin>
+
+	<ShellIndex>1.05</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>82</BreedEventID>
+
+	<DDE>96</DDE>
+
+	<PCB>31</PCB>
+
+	<Dieldrin>38</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>84</BreedEventID>
+
+	<DDE>190</DDE>
+
+	<PCB>102</PCB>
+
+	<Dieldrin>84</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>94</BreedEventID>
+
+	<DDE>88</DDE>
+
+	<PCB>81</PCB>
+
+	<Dieldrin>24</Dieldrin>
+
+	<ShellIndex>1.31</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>96</BreedEventID>
+
+	<DDE>107</DDE>
+
+	<PCB>122</PCB>
+
+	<Dieldrin>13</Dieldrin>
+
+	<ShellIndex>1.45</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>97</BreedEventID>
+
+	<DDE>34</DDE>
+
+	<PCB>59</PCB>
+
+	<Dieldrin>3</Dieldrin>
+
+	<ShellIndex>1.36</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>98</BreedEventID>
+
+	<DDE>111</DDE>
+
+	<PCB>74</PCB>
+
+	<Dieldrin>17</Dieldrin>
+
+	<ShellIndex>1.42</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>100</BreedEventID>
+
+	<DDE>327</DDE>
+
+	<PCB>51</PCB>
+
+	<Dieldrin>7.4</Dieldrin>
+
+	<ShellIndex>1.42</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>111</BreedEventID>
+
+	<DDE>253</DDE>
+
+	<PCB>71</PCB>
+
+	<Dieldrin>76</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>112</BreedEventID>
+
+	<DDE>98</DDE>
+
+	<PCB>86</PCB>
+
+	<Dieldrin>25</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>119</BreedEventID>
+
+	<DDE>109</DDE>
+
+	<PCB>67</PCB>
+
+	<Dieldrin>53</Dieldrin>
+
+	<ShellIndex>0.95</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>120</BreedEventID>
+
+	<DDE>47</DDE>
+
+	<PCB>31</PCB>
+
+	<Dieldrin>3</Dieldrin>
+
+	<ShellIndex>1.11</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>121</BreedEventID>
+
+	<DDE>141</DDE>
+
+	<PCB>113</PCB>
+
+	<Dieldrin>21</Dieldrin>
+
+	<ShellIndex>1.04</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>123</BreedEventID>
+
+	<DDE>90</DDE>
+
+	<PCB>73</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>130</BreedEventID>
+
+	<DDE>75</DDE>
+
+	<PCB>34</PCB>
+
+	<Dieldrin>90</Dieldrin>
+
+	<ShellIndex>1.02</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>137</BreedEventID>
+
+	<DDE>129</DDE>
+
+	<PCB>87</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>138</BreedEventID>
+
+	<DDE>74</DDE>
+
+	<PCB>97</PCB>
+
+	<Dieldrin>6</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>140</BreedEventID>
+
+	<DDE>112</DDE>
+
+	<PCB>143</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>145</BreedEventID>
+
+	<DDE>74</DDE>
+
+	<PCB>39</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.3</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>150</BreedEventID>
+
+	<DDE>83</DDE>
+
+	<PCB>67</PCB>
+
+	<Dieldrin>33</Dieldrin>
+
+	<ShellIndex>1.49</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>151</BreedEventID>
+
+	<DDE>70</DDE>
+
+	<PCB>59</PCB>
+
+	<Dieldrin>19</Dieldrin>
+
+	<ShellIndex>1.25</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>152</BreedEventID>
+
+	<DDE>81</DDE>
+
+	<PCB>68</PCB>
+
+	<Dieldrin>31</Dieldrin>
+
+	<ShellIndex>1.26</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>153</BreedEventID>
+
+	<DDE>91</DDE>
+
+	<PCB>39</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.32</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>154</BreedEventID>
+
+	<DDE>136</DDE>
+
+	<PCB>52</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.19</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>160</BreedEventID>
+
+	<DDE>84</DDE>
+
+	<PCB>65</PCB>
+
+	<Dieldrin>30</Dieldrin>
+
+	<ShellIndex>1.36</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>161</BreedEventID>
+
+	<DDE>59</DDE>
+
+	<PCB>68</PCB>
+
+	<Dieldrin>23</Dieldrin>
+
+	<ShellIndex>1.52</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>162</BreedEventID>
+
+	<DDE>46</DDE>
+
+	<PCB>35</PCB>
+
+	<Dieldrin>24</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>163</BreedEventID>
+
+	<DDE>85</DDE>
+
+	<PCB>62</PCB>
+
+	<Dieldrin>13</Dieldrin>
+
+	<ShellIndex>1.08</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>165</BreedEventID>
+
+	<DDE>137</DDE>
+
+	<PCB>91</PCB>
+
+	<Dieldrin>25</Dieldrin>
+
+	<ShellIndex>1.1</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>166</BreedEventID>
+
+	<DDE>130</DDE>
+
+	<PCB>65</PCB>
+
+	<Dieldrin>8</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>167</BreedEventID>
+
+	<DDE>30</DDE>
+
+	<PCB>27</PCB>
+
+	<Dieldrin>3</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>170</BreedEventID>
+
+	<DDE>107</DDE>
+
+	<PCB>149</PCB>
+
+	<Dieldrin>25</Dieldrin>
+
+	<ShellIndex>1.12</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>172</BreedEventID>
+
+	<DDE>75</DDE>
+
+	<PCB>71</PCB>
+
+	<Dieldrin>15.6</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>174</BreedEventID>
+
+	<DDE>149</DDE>
+
+	<PCB>55</PCB>
+
+	<Dieldrin>53</Dieldrin>
+
+	<ShellIndex>1.31</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>176</BreedEventID>
+
+	<DDE>74</DDE>
+
+	<PCB>15</PCB>
+
+	<Dieldrin>94</Dieldrin>
+
+	<ShellIndex>1.11</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>179</BreedEventID>
+
+	<DDE>96</DDE>
+
+	<PCB>17</PCB>
+
+	<Dieldrin>34</Dieldrin>
+
+	<ShellIndex>1.29</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>181</BreedEventID>
+
+	<DDE>157</DDE>
+
+	<PCB>115</PCB>
+
+	<Dieldrin>45</Dieldrin>
+
+	<ShellIndex>1.19</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>183</BreedEventID>
+
+	<DDE>311</DDE>
+
+	<PCB>85</PCB>
+
+	<Dieldrin>35</Dieldrin>
+
+	<ShellIndex>1.08</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>186</BreedEventID>
+
+	<DDE>39</DDE>
+
+	<PCB>109</PCB>
+
+	<Dieldrin>19</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>190</BreedEventID>
+
+	<DDE>184</DDE>
+
+	<PCB>121</PCB>
+
+	<Dieldrin>57</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>191</BreedEventID>
+
+	<DDE>72</DDE>
+
+	<PCB>49</PCB>
+
+	<Dieldrin>37</Dieldrin>
+
+	<ShellIndex>1.39</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>192</BreedEventID>
+
+	<DDE>74</DDE>
+
+	<PCB>72</PCB>
+
+	<Dieldrin>22</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>196</BreedEventID>
+
+	<DDE>82</DDE>
+
+	<PCB>61</PCB>
+
+	<Dieldrin>34</Dieldrin>
+
+	<ShellIndex>1.32</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>199</BreedEventID>
+
+	<DDE>61</DDE>
+
+	<PCB>60</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>200</BreedEventID>
+
+	<DDE>41</DDE>
+
+	<PCB>51</PCB>
+
+	<Dieldrin>6</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>205</BreedEventID>
+
+	<DDE>57</DDE>
+
+	<PCB>34</PCB>
+
+	<Dieldrin>19</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>206</BreedEventID>
+
+	<DDE>70</DDE>
+
+	<PCB>43</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.25</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>207</BreedEventID>
+
+	<DDE>201</DDE>
+
+	<PCB>104</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>1.13</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>212</BreedEventID>
+
+	<DDE>200</DDE>
+
+	<PCB>125</PCB>
+
+	<Dieldrin>44</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>213</BreedEventID>
+
+	<DDE>107</DDE>
+
+	<PCB>58</PCB>
+
+	<Dieldrin>32</Dieldrin>
+
+	<ShellIndex>1.26</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>214</BreedEventID>
+
+	<DDE>86</DDE>
+
+	<PCB>26</PCB>
+
+	<Dieldrin>17</Dieldrin>
+
+	<ShellIndex>1.39</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>215</BreedEventID>
+
+	<DDE>90</DDE>
+
+	<PCB>37</PCB>
+
+	<Dieldrin>12</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>216</BreedEventID>
+
+	<DDE>120</DDE>
+
+	<PCB>60</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.07</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>217</BreedEventID>
+
+	<DDE>70</DDE>
+
+	<PCB>68</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.1</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>218</BreedEventID>
+
+	<DDE>51</DDE>
+
+	<PCB>79</PCB>
+
+	<Dieldrin>10</Dieldrin>
+
+	<ShellIndex>1.02</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>219</BreedEventID>
+
+	<DDE>106</DDE>
+
+	<PCB>55</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>220</BreedEventID>
+
+	<DDE>46</DDE>
+
+	<PCB>25</PCB>
+
+	<Dieldrin>14.3</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>222</BreedEventID>
+
+	<DDE>82</DDE>
+
+	<PCB>56</PCB>
+
+	<Dieldrin>23</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>223</BreedEventID>
+
+	<DDE>327</DDE>
+
+	<PCB>79</PCB>
+
+	<Dieldrin>36</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>225</BreedEventID>
+
+	<DDE>116</DDE>
+
+	<PCB>26</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.35</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>226</BreedEventID>
+
+	<DDE>59</DDE>
+
+	<PCB>37</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>229</BreedEventID>
+
+	<DDE>74</DDE>
+
+	<PCB>86</PCB>
+
+	<Dieldrin>2.2</Dieldrin>
+
+	<ShellIndex>1.39</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>232</BreedEventID>
+
+	<DDE>75</DDE>
+
+	<PCB>37</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.3</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>234</BreedEventID>
+
+	<DDE>92</DDE>
+
+	<PCB>38</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>237</BreedEventID>
+
+	<DDE>165</DDE>
+
+	<PCB>56</PCB>
+
+	<Dieldrin>17</Dieldrin>
+
+	<ShellIndex>0.95</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>238</BreedEventID>
+
+	<DDE>95</DDE>
+
+	<PCB>63</PCB>
+
+	<Dieldrin>43</Dieldrin>
+
+	<ShellIndex>1.08</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>242</BreedEventID>
+
+	<DDE>65</DDE>
+
+	<PCB>63</PCB>
+
+	<Dieldrin>8.3</Dieldrin>
+
+	<ShellIndex>1.07</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>244</BreedEventID>
+
+	<DDE>81</DDE>
+
+	<PCB>45</PCB>
+
+	<Dieldrin>21</Dieldrin>
+
+	<ShellIndex>1.28</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>247</BreedEventID>
+
+	<DDE>115</DDE>
+
+	<PCB>106</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.34</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>251</BreedEventID>
+
+	<DDE>175</DDE>
+
+	<PCB>75</PCB>
+
+	<Dieldrin>38</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>254</BreedEventID>
+
+	<DDE>267</DDE>
+
+	<PCB>106</PCB>
+
+	<Dieldrin>18</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>261</BreedEventID>
+
+	<DDE>147</DDE>
+
+	<PCB>54</PCB>
+
+	<Dieldrin>22</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>263</BreedEventID>
+
+	<DDE>337</DDE>
+
+	<PCB>118</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.26</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>269</BreedEventID>
+
+	<DDE>106</DDE>
+
+	<PCB>82</PCB>
+
+	<Dieldrin>12</Dieldrin>
+
+	<ShellIndex>1.06</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>271</BreedEventID>
+
+	<DDE>105</DDE>
+
+	<PCB>131</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.23</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>278</BreedEventID>
+
+	<DDE>63</DDE>
+
+	<PCB>39</PCB>
+
+	<Dieldrin>13</Dieldrin>
+
+	<ShellIndex>1.23</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>282</BreedEventID>
+
+	<DDE>90</DDE>
+
+	<PCB>55</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.33</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>284</BreedEventID>
+
+	<DDE>56</DDE>
+
+	<PCB>36</PCB>
+
+	<Dieldrin>8</Dieldrin>
+
+	<ShellIndex>1.24</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>286</BreedEventID>
+
+	<DDE>64</DDE>
+
+	<PCB>23</PCB>
+
+	<Dieldrin>6</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>288</BreedEventID>
+
+	<DDE>90</DDE>
+
+	<PCB>84</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.32</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>292</BreedEventID>
+
+	<DDE>243</DDE>
+
+	<PCB>64</PCB>
+
+	<Dieldrin>25</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>295</BreedEventID>
+
+	<DDE>122</DDE>
+
+	<PCB>23</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.19</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>299</BreedEventID>
+
+	<DDE>195</DDE>
+
+	<PCB>58</PCB>
+
+	<Dieldrin>13</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>303</BreedEventID>
+
+	<DDE>144</DDE>
+
+	<PCB>150</PCB>
+
+	<Dieldrin>8</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>306</BreedEventID>
+
+	<DDE>122</DDE>
+
+	<PCB>48</PCB>
+
+	<Dieldrin>12</Dieldrin>
+
+	<ShellIndex>1.34</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>308</BreedEventID>
+
+	<DDE>74</DDE>
+
+	<PCB>113</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>310</BreedEventID>
+
+	<DDE>39</DDE>
+
+	<PCB>25</PCB>
+
+	<Dieldrin>2.3</Dieldrin>
+
+	<ShellIndex>1.27</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>312</BreedEventID>
+
+	<DDE>136</DDE>
+
+	<PCB>57</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.26</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>316</BreedEventID>
+
+	<DDE>129</DDE>
+
+	<PCB>51</PCB>
+
+	<Dieldrin>22</Dieldrin>
+
+	<ShellIndex>1.24</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>319</BreedEventID>
+
+	<DDE>89</DDE>
+
+	<PCB>60</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>1.36</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>324</BreedEventID>
+
+	<DDE>139</DDE>
+
+	<PCB>53</PCB>
+
+	<Dieldrin>12</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>325</BreedEventID>
+
+	<DDE>134</DDE>
+
+	<PCB>76</PCB>
+
+	<Dieldrin>23</Dieldrin>
+
+	<ShellIndex>0.93</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>331</BreedEventID>
+
+	<DDE>52</DDE>
+
+	<PCB>40</PCB>
+
+	<Dieldrin>2.4</Dieldrin>
+
+	<ShellIndex>1.4</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>341</BreedEventID>
+
+	<DDE>99</DDE>
+
+	<PCB>74</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>0.87</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>342</BreedEventID>
+
+	<DDE>296</DDE>
+
+	<PCB>75</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>343</BreedEventID>
+
+	<DDE>58</DDE>
+
+	<PCB>40</PCB>
+
+	<Dieldrin>5.3</Dieldrin>
+
+	<ShellIndex>1.02</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>345</BreedEventID>
+
+	<DDE>175</DDE>
+
+	<PCB>80</PCB>
+
+	<Dieldrin>16</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>349</BreedEventID>
+
+	<DDE>190</DDE>
+
+	<PCB>174</PCB>
+
+	<Dieldrin>29</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>351</BreedEventID>
+
+	<DDE>123</DDE>
+
+	<PCB>115</PCB>
+
+	<Dieldrin>16</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>353</BreedEventID>
+
+	<DDE>71</DDE>
+
+	<PCB>30</PCB>
+
+	<Dieldrin>1</Dieldrin>
+
+	<ShellIndex>1.35</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>355</BreedEventID>
+
+	<DDE>50</DDE>
+
+	<PCB>23</PCB>
+
+	<Dieldrin>4</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>359</BreedEventID>
+
+	<DDE>114</DDE>
+
+	<PCB>26</PCB>
+
+	<Dieldrin>47</Dieldrin>
+
+	<ShellIndex>1.19</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>361</BreedEventID>
+
+	<DDE>168</DDE>
+
+	<PCB>246</PCB>
+
+	<Dieldrin>28</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>362</BreedEventID>
+
+	<DDE>98</DDE>
+
+	<PCB>97</PCB>
+
+	<Dieldrin>8</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>367</BreedEventID>
+
+	<DDE>308</DDE>
+
+	<PCB>168</PCB>
+
+	<Dieldrin>29</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>371</BreedEventID>
+
+	<DDE>152</DDE>
+
+	<PCB>34</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>0.95</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>372</BreedEventID>
+
+	<DDE>96</DDE>
+
+	<PCB>39</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.32</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>374</BreedEventID>
+
+	<DDE>1.17</DDE>
+
+	<PCB></PCB>
+
+	<Dieldrin></Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>379</BreedEventID>
+
+	<DDE>130</DDE>
+
+	<PCB>25</PCB>
+
+	<Dieldrin>27</Dieldrin>
+
+	<ShellIndex>1.29</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>380</BreedEventID>
+
+	<DDE>94</DDE>
+
+	<PCB>72</PCB>
+
+	<Dieldrin>17</Dieldrin>
+
+	<ShellIndex>1.38</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>381</BreedEventID>
+
+	<DDE>84</DDE>
+
+	<PCB>63</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>382</BreedEventID>
+
+	<DDE>162</DDE>
+
+	<PCB>59</PCB>
+
+	<Dieldrin>47</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>387</BreedEventID>
+
+	<DDE>23</DDE>
+
+	<PCB>73</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>389</BreedEventID>
+
+	<DDE>162</DDE>
+
+	<PCB>72</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.26</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>398</BreedEventID>
+
+	<DDE>211</DDE>
+
+	<PCB>111</PCB>
+
+	<Dieldrin>13</Dieldrin>
+
+	<ShellIndex>1.08</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>399</BreedEventID>
+
+	<DDE>125</DDE>
+
+	<PCB>103</PCB>
+
+	<Dieldrin>8</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>402</BreedEventID>
+
+	<DDE>117</DDE>
+
+	<PCB>100</PCB>
+
+	<Dieldrin>34</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>404</BreedEventID>
+
+	<DDE>80</DDE>
+
+	<PCB>50</PCB>
+
+	<Dieldrin>30</Dieldrin>
+
+	<ShellIndex>1.26</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>405</BreedEventID>
+
+	<DDE>156</DDE>
+
+	<PCB>243</PCB>
+
+	<Dieldrin>17</Dieldrin>
+
+	<ShellIndex>1.06</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>410</BreedEventID>
+
+	<DDE>103</DDE>
+
+	<PCB>50</PCB>
+
+	<Dieldrin>16</Dieldrin>
+
+	<ShellIndex>1.33</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>412</BreedEventID>
+
+	<DDE>206</DDE>
+
+	<PCB>45</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>414</BreedEventID>
+
+	<DDE>236</DDE>
+
+	<PCB>95</PCB>
+
+	<Dieldrin>26.2</Dieldrin>
+
+	<ShellIndex>0.98</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>415</BreedEventID>
+
+	<DDE>259</DDE>
+
+	<PCB>86</PCB>
+
+	<Dieldrin>20</Dieldrin>
+
+	<ShellIndex>1.07</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>417</BreedEventID>
+
+	<DDE>78</DDE>
+
+	<PCB>22</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>419</BreedEventID>
+
+	<DDE>47</DDE>
+
+	<PCB>27</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>420</BreedEventID>
+
+	<DDE>116</DDE>
+
+	<PCB>71</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.32</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>422</BreedEventID>
+
+	<DDE>277</DDE>
+
+	<PCB>149</PCB>
+
+	<Dieldrin>30</Dieldrin>
+
+	<ShellIndex>1.09</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>427</BreedEventID>
+
+	<DDE>127</DDE>
+
+	<PCB>59</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.29</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>430</BreedEventID>
+
+	<DDE>157</DDE>
+
+	<PCB>77</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>0.98</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>432</BreedEventID>
+
+	<DDE>66</DDE>
+
+	<PCB>28</PCB>
+
+	<Dieldrin>5.3</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>441</BreedEventID>
+
+	<DDE>122</DDE>
+
+	<PCB>69</PCB>
+
+	<Dieldrin>4</Dieldrin>
+
+	<ShellIndex>1.03</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>442</BreedEventID>
+
+	<DDE>157</DDE>
+
+	<PCB>96</PCB>
+
+	<Dieldrin>36</Dieldrin>
+
+	<ShellIndex>1.05</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>443</BreedEventID>
+
+	<DDE>67</DDE>
+
+	<PCB>27</PCB>
+
+	<Dieldrin>24</Dieldrin>
+
+	<ShellIndex>1.29</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>444</BreedEventID>
+
+	<DDE>144</DDE>
+
+	<PCB>26</PCB>
+
+	<Dieldrin>19</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>445</BreedEventID>
+
+	<DDE>109</DDE>
+
+	<PCB>44</PCB>
+
+	<Dieldrin>21</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>446</BreedEventID>
+
+	<DDE>134</DDE>
+
+	<PCB>87</PCB>
+
+	<Dieldrin>13</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>447</BreedEventID>
+
+	<DDE>106</DDE>
+
+	<PCB>155</PCB>
+
+	<Dieldrin>12</Dieldrin>
+
+	<ShellIndex>1.54</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>453</BreedEventID>
+
+	<DDE>223</DDE>
+
+	<PCB>150</PCB>
+
+	<Dieldrin>21</Dieldrin>
+
+	<ShellIndex>1.08</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>457</BreedEventID>
+
+	<DDE>71</DDE>
+
+	<PCB>95</PCB>
+
+	<Dieldrin>16</Dieldrin>
+
+	<ShellIndex>1.3</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>458</BreedEventID>
+
+	<DDE>145</DDE>
+
+	<PCB>84</PCB>
+
+	<Dieldrin>32</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>459</BreedEventID>
+
+	<DDE>128</DDE>
+
+	<PCB>46</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.04</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>469</BreedEventID>
+
+	<DDE>151</DDE>
+
+	<PCB>91</PCB>
+
+	<Dieldrin>22</Dieldrin>
+
+	<ShellIndex>1.3</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>471</BreedEventID>
+
+	<DDE>87</DDE>
+
+	<PCB>114</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.12</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>472</BreedEventID>
+
+	<DDE>60</DDE>
+
+	<PCB>55</PCB>
+
+	<Dieldrin>25.5</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>473</BreedEventID>
+
+	<DDE>88</DDE>
+
+	<PCB>43</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>474</BreedEventID>
+
+	<DDE>147</DDE>
+
+	<PCB>81</PCB>
+
+	<Dieldrin>23</Dieldrin>
+
+	<ShellIndex>1.3</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>476</BreedEventID>
+
+	<DDE>88</DDE>
+
+	<PCB>23</PCB>
+
+	<Dieldrin>12</Dieldrin>
+
+	<ShellIndex>1.07</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>477</BreedEventID>
+
+	<DDE>141</DDE>
+
+	<PCB>134</PCB>
+
+	<Dieldrin>20</Dieldrin>
+
+	<ShellIndex>1.06</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>478</BreedEventID>
+
+	<DDE>67</DDE>
+
+	<PCB>95</PCB>
+
+	<Dieldrin>10</Dieldrin>
+
+	<ShellIndex>1.29</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>481</BreedEventID>
+
+	<DDE>64</DDE>
+
+	<PCB>69</PCB>
+
+	<Dieldrin>5.9</Dieldrin>
+
+	<ShellIndex>1.25</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>482</BreedEventID>
+
+	<DDE>92</DDE>
+
+	<PCB>65</PCB>
+
+	<Dieldrin>12</Dieldrin>
+
+	<ShellIndex>1.03</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>490</BreedEventID>
+
+	<DDE>128</DDE>
+
+	<PCB>133</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.36</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>491</BreedEventID>
+
+	<DDE>97</DDE>
+
+	<PCB>53</PCB>
+
+	<Dieldrin>3</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>494</BreedEventID>
+
+	<DDE>123</DDE>
+
+	<PCB>78</PCB>
+
+	<Dieldrin>25</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>495</BreedEventID>
+
+	<DDE>200</DDE>
+
+	<PCB>61</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>0.96</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>497</BreedEventID>
+
+	<DDE>123</DDE>
+
+	<PCB>74</PCB>
+
+	<Dieldrin>10</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>499</BreedEventID>
+
+	<DDE>183</DDE>
+
+	<PCB>83</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>1.05</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>501</BreedEventID>
+
+	<DDE>281</DDE>
+
+	<PCB>71</PCB>
+
+	<Dieldrin>4.4</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>507</BreedEventID>
+
+	<DDE>113</DDE>
+
+	<PCB>63</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>513</BreedEventID>
+
+	<DDE>85</DDE>
+
+	<PCB>31</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.11</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>514</BreedEventID>
+
+	<DDE>320</DDE>
+
+	<PCB>83</PCB>
+
+	<Dieldrin>38</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>518</BreedEventID>
+
+	<DDE>91</DDE>
+
+	<PCB>44</PCB>
+
+	<Dieldrin>8</Dieldrin>
+
+	<ShellIndex>1.33</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>519</BreedEventID>
+
+	<DDE>176</DDE>
+
+	<PCB>52</PCB>
+
+	<Dieldrin>45</Dieldrin>
+
+	<ShellIndex>1.02</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>522</BreedEventID>
+
+	<DDE>89</DDE>
+
+	<PCB>93</PCB>
+
+	<Dieldrin>14</Dieldrin>
+
+	<ShellIndex>1.37</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>527</BreedEventID>
+
+	<DDE>373</DDE>
+
+	<PCB>115</PCB>
+
+	<Dieldrin>40</Dieldrin>
+
+	<ShellIndex>1.21</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>542</BreedEventID>
+
+	<DDE>51</DDE>
+
+	<PCB>60</PCB>
+
+	<Dieldrin>16</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>547</BreedEventID>
+
+	<DDE>143</DDE>
+
+	<PCB>69</PCB>
+
+	<Dieldrin>21</Dieldrin>
+
+	<ShellIndex>1.23</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>548</BreedEventID>
+
+	<DDE>215</DDE>
+
+	<PCB>80</PCB>
+
+	<Dieldrin>57</Dieldrin>
+
+	<ShellIndex>1.29</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>554</BreedEventID>
+
+	<DDE>224</DDE>
+
+	<PCB>55</PCB>
+
+	<Dieldrin>20</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>555</BreedEventID>
+
+	<DDE>119</DDE>
+
+	<PCB>160</PCB>
+
+	<Dieldrin>40</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>559</BreedEventID>
+
+	<DDE>289</DDE>
+
+	<PCB>65</PCB>
+
+	<Dieldrin>69</Dieldrin>
+
+	<ShellIndex>0.96</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>561</BreedEventID>
+
+	<DDE>53</DDE>
+
+	<PCB>26</PCB>
+
+	<Dieldrin>2</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>571</BreedEventID>
+
+	<DDE>278</DDE>
+
+	<PCB>107</PCB>
+
+	<Dieldrin>6</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>580</BreedEventID>
+
+	<DDE>71</DDE>
+
+	<PCB>48</PCB>
+
+	<Dieldrin>8</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>581</BreedEventID>
+
+	<DDE>41</DDE>
+
+	<PCB>15</PCB>
+
+	<Dieldrin>13.4</Dieldrin>
+
+	<ShellIndex>1.27</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>586</BreedEventID>
+
+	<DDE>215</DDE>
+
+	<PCB>40</PCB>
+
+	<Dieldrin>25</Dieldrin>
+
+	<ShellIndex>0.98</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>598</BreedEventID>
+
+	<DDE>87</DDE>
+
+	<PCB>176</PCB>
+
+	<Dieldrin>13</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>610</BreedEventID>
+
+	<DDE>139</DDE>
+
+	<PCB>59</PCB>
+
+	<Dieldrin>20</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>616</BreedEventID>
+
+	<DDE>82</DDE>
+
+	<PCB>76</PCB>
+
+	<Dieldrin>6</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>621</BreedEventID>
+
+	<DDE>78</DDE>
+
+	<PCB>75</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.05</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>624</BreedEventID>
+
+	<DDE>104</DDE>
+
+	<PCB>51</PCB>
+
+	<Dieldrin>28</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>627</BreedEventID>
+
+	<DDE>100</DDE>
+
+	<PCB>61</PCB>
+
+	<Dieldrin>25</Dieldrin>
+
+	<ShellIndex>1.09</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>628</BreedEventID>
+
+	<DDE>160</DDE>
+
+	<PCB>107</PCB>
+
+	<Dieldrin>46</Dieldrin>
+
+	<ShellIndex>0.88</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>630</BreedEventID>
+
+	<DDE>124</DDE>
+
+	<PCB>75</PCB>
+
+	<Dieldrin>21</Dieldrin>
+
+	<ShellIndex>0.92</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>632</BreedEventID>
+
+	<DDE>129</DDE>
+
+	<PCB>98</PCB>
+
+	<Dieldrin>13.1</Dieldrin>
+
+	<ShellIndex>1.12</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>634</BreedEventID>
+
+	<DDE>41</DDE>
+
+	<PCB>78</PCB>
+
+	<Dieldrin>24</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>639</BreedEventID>
+
+	<DDE>97</DDE>
+
+	<PCB>62</PCB>
+
+	<Dieldrin>10</Dieldrin>
+
+	<ShellIndex>1.34</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>646</BreedEventID>
+
+	<DDE>253</DDE>
+
+	<PCB>151</PCB>
+
+	<Dieldrin>48</Dieldrin>
+
+	<ShellIndex>0.92</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>647</BreedEventID>
+
+	<DDE>485</DDE>
+
+	<PCB>144</PCB>
+
+	<Dieldrin>61</Dieldrin>
+
+	<ShellIndex>0.84</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>651</BreedEventID>
+
+	<DDE>48</DDE>
+
+	<PCB>55</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.26</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>654</BreedEventID>
+
+	<DDE>336</DDE>
+
+	<PCB>116</PCB>
+
+	<Dieldrin>28</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>655</BreedEventID>
+
+	<DDE>96</DDE>
+
+	<PCB>43</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.04</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>657</BreedEventID>
+
+	<DDE>86</DDE>
+
+	<PCB>48</PCB>
+
+	<Dieldrin>2.6</Dieldrin>
+
+	<ShellIndex>1.32</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>658</BreedEventID>
+
+	<DDE>122</DDE>
+
+	<PCB>70</PCB>
+
+	<Dieldrin>16</Dieldrin>
+
+	<ShellIndex>1.24</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>661</BreedEventID>
+
+	<DDE>92</DDE>
+
+	<PCB>10</PCB>
+
+	<Dieldrin>32</Dieldrin>
+
+	<ShellIndex>1.22</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>662</BreedEventID>
+
+	<DDE>32</DDE>
+
+	<PCB>21</PCB>
+
+	<Dieldrin>2</Dieldrin>
+
+	<ShellIndex>1.12</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>665</BreedEventID>
+
+	<DDE>63</DDE>
+
+	<PCB>79</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.14</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>666</BreedEventID>
+
+	<DDE>129</DDE>
+
+	<PCB>76</PCB>
+
+	<Dieldrin>13.8</Dieldrin>
+
+	<ShellIndex>1.17</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>670</BreedEventID>
+
+	<DDE>84</DDE>
+
+	<PCB>71</PCB>
+
+	<Dieldrin>26</Dieldrin>
+
+	<ShellIndex>1.31</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>673</BreedEventID>
+
+	<DDE>1.09</DDE>
+
+	<PCB></PCB>
+
+	<Dieldrin></Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>676</BreedEventID>
+
+	<DDE>152</DDE>
+
+	<PCB>91</PCB>
+
+	<Dieldrin>7</Dieldrin>
+
+	<ShellIndex>1.06</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>677</BreedEventID>
+
+	<DDE>123</DDE>
+
+	<PCB>119</PCB>
+
+	<Dieldrin>34</Dieldrin>
+
+	<ShellIndex>1.08</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>679</BreedEventID>
+
+	<DDE>406</DDE>
+
+	<PCB>200</PCB>
+
+	<Dieldrin>28</Dieldrin>
+
+	<ShellIndex>1.08</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>682</BreedEventID>
+
+	<DDE>63</DDE>
+
+	<PCB>43</PCB>
+
+	<Dieldrin>3</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>683</BreedEventID>
+
+	<DDE>74</DDE>
+
+	<PCB>19</PCB>
+
+	<Dieldrin>2.8</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>692</BreedEventID>
+
+	<DDE>72</DDE>
+
+	<PCB>28</PCB>
+
+	<Dieldrin>1.3</Dieldrin>
+
+	<ShellIndex>1.23</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>693</BreedEventID>
+
+	<DDE>57</DDE>
+
+	<PCB>50</PCB>
+
+	<Dieldrin>4</Dieldrin>
+
+	<ShellIndex>1</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>700</BreedEventID>
+
+	<DDE>204</DDE>
+
+	<PCB>171</PCB>
+
+	<Dieldrin>44</Dieldrin>
+
+	<ShellIndex>1.23</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>702</BreedEventID>
+
+	<DDE>54</DDE>
+
+	<PCB>41</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>707</BreedEventID>
+
+	<DDE>55</DDE>
+
+	<PCB>52</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.26</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>711</BreedEventID>
+
+	<DDE>176</DDE>
+
+	<PCB>112</PCB>
+
+	<Dieldrin>26</Dieldrin>
+
+	<ShellIndex>1</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>718</BreedEventID>
+
+	<DDE>46</DDE>
+
+	<PCB>38</PCB>
+
+	<Dieldrin>6</Dieldrin>
+
+	<ShellIndex>0.92</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>729</BreedEventID>
+
+	<DDE>90</DDE>
+
+	<PCB>52</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>1.1</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>731</BreedEventID>
+
+	<DDE>92</DDE>
+
+	<PCB>67</PCB>
+
+	<Dieldrin>27</Dieldrin>
+
+	<ShellIndex>1.16</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>732</BreedEventID>
+
+	<DDE>314</DDE>
+
+	<PCB>250</PCB>
+
+	<Dieldrin>28</Dieldrin>
+
+	<ShellIndex>0.87</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>734</BreedEventID>
+
+	<DDE>154</DDE>
+
+	<PCB>35</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.04</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>736</BreedEventID>
+
+	<DDE>69</DDE>
+
+	<PCB>48</PCB>
+
+	<Dieldrin>24</Dieldrin>
+
+	<ShellIndex>1.07</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>745</BreedEventID>
+
+	<DDE>120</DDE>
+
+	<PCB>124</PCB>
+
+	<Dieldrin>13</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>747</BreedEventID>
+
+	<DDE>187</DDE>
+
+	<PCB>84</PCB>
+
+	<Dieldrin>11</Dieldrin>
+
+	<ShellIndex>1.27</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>749</BreedEventID>
+
+	<DDE>281</DDE>
+
+	<PCB>110</PCB>
+
+	<Dieldrin>15</Dieldrin>
+
+	<ShellIndex>1.15</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>751</BreedEventID>
+
+	<DDE>60</DDE>
+
+	<PCB>57</PCB>
+
+	<Dieldrin>4</Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>752</BreedEventID>
+
+	<DDE>1.35</DDE>
+
+	<PCB></PCB>
+
+	<Dieldrin></Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>756</BreedEventID>
+
+	<DDE>78</DDE>
+
+	<PCB>72</PCB>
+
+	<Dieldrin>3.5</Dieldrin>
+
+	<ShellIndex>1.29</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>759</BreedEventID>
+
+	<DDE>197</DDE>
+
+	<PCB>111</PCB>
+
+	<Dieldrin>27</Dieldrin>
+
+	<ShellIndex>1.18</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>772</BreedEventID>
+
+	<DDE>1.05</DDE>
+
+	<PCB></PCB>
+
+	<Dieldrin></Dieldrin>
+
+	<ShellIndex></ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>781</BreedEventID>
+
+	<DDE>148</DDE>
+
+	<PCB>40</PCB>
+
+	<Dieldrin>9</Dieldrin>
+
+	<ShellIndex>1</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>783</BreedEventID>
+
+	<DDE>116</DDE>
+
+	<PCB>37</PCB>
+
+	<Dieldrin>5.1</Dieldrin>
+
+	<ShellIndex>1.07</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>789</BreedEventID>
+
+	<DDE>48</DDE>
+
+	<PCB>44</PCB>
+
+	<Dieldrin>5</Dieldrin>
+
+	<ShellIndex>1.04</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>796</BreedEventID>
+
+	<DDE>34</DDE>
+
+	<PCB>46</PCB>
+
+	<Dieldrin>0.6</Dieldrin>
+
+	<ShellIndex>1.39</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>799</BreedEventID>
+
+	<DDE>91</DDE>
+
+	<PCB>77</PCB>
+
+	<Dieldrin>4</Dieldrin>
+
+	<ShellIndex>1.09</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>803</BreedEventID>
+
+	<DDE>217</DDE>
+
+	<PCB>138</PCB>
+
+	<Dieldrin>2.1</Dieldrin>
+
+	<ShellIndex>1.2</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>806</BreedEventID>
+
+	<DDE>67</DDE>
+
+	<PCB>35</PCB>
+
+	<Dieldrin>13.3</Dieldrin>
+
+	<ShellIndex>1.3</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>809</BreedEventID>
+
+	<DDE>102</DDE>
+
+	<PCB>87</PCB>
+
+	<Dieldrin>12.7</Dieldrin>
+
+	<ShellIndex>1.02</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>811</BreedEventID>
+
+	<DDE>63</DDE>
+
+	<PCB>26</PCB>
+
+	<Dieldrin>4.4</Dieldrin>
+
+	<ShellIndex>1.27</ShellIndex>
+
+</RECORD>
+<RECORD>
+	<BreedEventID>825</BreedEventID>
+
+	<DDE>25</DDE>
+
+	<PCB>23</PCB>
+
+	<Dieldrin>2.8</Dieldrin>
+
+	<ShellIndex>1.33</ShellIndex>
+
+</RECORD>
+</RECORDS>
